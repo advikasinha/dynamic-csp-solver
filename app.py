@@ -26,6 +26,9 @@ PALETTE = ["#4C78A8", "#F58518", "#54A24B", "#E45756", "#B279A2", "#9D755D", "#7
 MODEL_FILES = {"ML: Logistic Regression": "logistic_regression.joblib",
                "ML: Random Forest": "random_forest.joblib",
                "ML: XGBoost": "xgboost.joblib"}
+# Models retrained under the versions pinned in requirements.txt
+# (the originals in models/ include an xgboost pickle that no longer loads).
+MODEL_DIR = os.path.join(ROOT, "retrain", "models")
 
 st.set_page_config(page_title="Dynamic CSP Repair Lab", layout="wide")
 
@@ -36,7 +39,7 @@ def load_models():
     import joblib
     out = {}
     for label, fn in MODEL_FILES.items():
-        p = os.path.join(ROOT, "models", fn)
+        p = os.path.join(MODEL_DIR, fn)
         if os.path.exists(p):
             out[label] = joblib.load(p)
     return out
@@ -164,7 +167,7 @@ with st.sidebar:
     thr = st.slider("ML retain threshold (0 = argmax)", 0.0, 0.99, 0.0, 0.05)
     thr = None if thr == 0 else thr
     if not models:
-        st.info("No trained models found in models/. Run experiments/run_all.py to enable ML policies.")
+        st.info("No trained models found in retrain/models/. Run experiments/run_all.py to enable ML policies.")
 
 env = st.session_state.env
 state: SolverState = st.session_state.state

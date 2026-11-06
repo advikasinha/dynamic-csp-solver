@@ -1,0 +1,192 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.7534722222222222,
+    "macro_f1": 0.43906215377739305,
+    "retain_auc": 0.9036144578313252,
+    "mean_regret_nodes": 18.838194444444444,
+    "fit_time_s": 0.5845241546630859,
+    "confusion": [
+      [
+        1005,
+        186,
+        137
+      ],
+      [
+        12,
+        76,
+        17
+      ],
+      [
+        1,
+        2,
+        4
+      ]
+    ],
+    "report": {
+      "retain": {
+        "precision": 0.9872298624754421,
+        "recall": 0.7567771084337349,
+        "f1-score": 0.8567774936061381,
+        "support": 1328.0
+      },
+      "verify": {
+        "precision": 0.2878787878787879,
+        "recall": 0.7238095238095238,
+        "f1-score": 0.41192411924119243,
+        "support": 105.0
+      },
+      "discard": {
+        "precision": 0.02531645569620253,
+        "recall": 0.5714285714285714,
+        "f1-score": 0.048484848484848485,
+        "support": 7.0
+      },
+      "accuracy": 0.7534722222222222,
+      "macro avg": {
+        "precision": 0.43347503535014414,
+        "recall": 0.6840050678906101,
+        "f1-score": 0.43906215377739305,
+        "support": 1440.0
+      },
+      "weighted avg": {
+        "precision": 0.9315595453364813,
+        "recall": 0.7534722222222222,
+        "f1-score": 0.8204110680337989,
+        "support": 1440.0
+      }
+    }
+  },
+  "Random Forest": {
+    "accuracy": 0.9416666666666667,
+    "macro_f1": 0.5110250958436292,
+    "retain_auc": 0.9151920180722892,
+    "mean_regret_nodes": 14.225,
+    "fit_time_s": 3.0814716815948486,
+    "confusion": [
+      [
+        1305,
+        23,
+        0
+      ],
+      [
+        54,
+        51,
+        0
+      ],
+      [
+        5,
+        2,
+        0
+      ]
+    ],
+    "report": {
+      "retain": {
+        "precision": 0.9567448680351907,
+        "recall": 0.9826807228915663,
+        "f1-score": 0.9695393759286776,
+        "support": 1328.0
+      },
+      "verify": {
+        "precision": 0.6710526315789473,
+        "recall": 0.4857142857142857,
+        "f1-score": 0.56353591160221,
+        "support": 105.0
+      },
+      "discard": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+      },
+      "accuracy": 0.9416666666666667,
+      "macro avg": {
+        "precision": 0.542599166538046,
+        "recall": 0.4894650028686173,
+        "f1-score": 0.5110250958436292,
+        "support": 1440.0
+      },
+      "weighted avg": {
+        "precision": 0.9312622993517518,
+        "recall": 0.9416666666666667,
+        "f1-score": 0.9352219180218861,
+        "support": 1440.0
+      }
+    }
+  },
+  "XGBoost": {
+    "accuracy": 0.8875,
+    "macro_f1": 0.4847095157353407,
+    "retain_auc": 0.8637720524956971,
+    "mean_regret_nodes": 14.30625,
+    "fit_time_s": 1.6406855583190918,
+    "confusion": [
+      [
+        1229,
+        91,
+        8
+      ],
+      [
+        57,
+        48,
+        0
+      ],
+      [
+        4,
+        2,
+        1
+      ]
+    ],
+    "report": {
+      "retain": {
+        "precision": 0.9527131782945737,
+        "recall": 0.9254518072289156,
+        "f1-score": 0.9388846447669977,
+        "support": 1328.0
+      },
+      "verify": {
+        "precision": 0.3404255319148936,
+        "recall": 0.45714285714285713,
+        "f1-score": 0.3902439024390244,
+        "support": 105.0
+      },
+      "discard": {
+        "precision": 0.1111111111111111,
+        "recall": 0.14285714285714285,
+        "f1-score": 0.125,
+        "support": 7.0
+      },
+      "accuracy": 0.8875,
+      "macro avg": {
+        "precision": 0.46808327377352615,
+        "recall": 0.5084839357429719,
+        "f1-score": 0.4847095157353407,
+        "support": 1440.0
+      },
+      "weighted avg": {
+        "precision": 0.9039760829194691,
+        "recall": 0.8875,
+        "f1-score": 0.8949232069490768,
+        "support": 1440.0
+      }
+    }
+  },
+  "_reference": {
+    "always_retain_regret": 15.229166666666666,
+    "fixed_policy_regret": 14.029166666666667,
+    "oracle_label_share": {
+      "retain": 0.9222222222222223,
+      "verify": 0.07291666666666667,
+      "discard": 0.004861111111111111
+    },
+    "n_train_rows": 5765,
+    "n_val_rows": 1440,
+    "val_seq_ids": [
+      2,
+      8,
+      13,
+      15,
+      22,
+      23
+    ]
+  }
+}

@@ -1,0 +1,1081 @@
+method,seq,t,n,batch_size,success,first_try_success,nodes,time,changed,stage,n_retained
+Logistic Regression|None,2,0,60,2,True,True,0,0.00044350000098347664,0,1,60
+Logistic Regression|None,2,1,60,2,True,True,1,0.0009244999964721501,0,1,59
+Logistic Regression|None,2,2,60,1,True,True,34,0.0022176000056788325,0,1,26
+Logistic Regression|None,2,3,60,2,True,True,30,0.0012898999848403037,0,1,31
+Logistic Regression|None,2,4,60,2,True,True,63,0.006780700001399964,3,1,0
+Logistic Regression|None,2,5,60,4,True,True,101,0.009025499981362373,52,1,0
+Logistic Regression|None,2,6,60,1,True,True,85,0.006171500019263476,1,1,0
+Logistic Regression|None,2,7,60,4,True,True,2,0.0006957000005058944,1,1,60
+Logistic Regression|None,2,8,60,2,True,True,0,0.0003829000052064657,0,1,62
+Logistic Regression|None,2,9,60,4,True,True,237,0.018608000013045967,53,1,0
+Logistic Regression|None,2,10,60,4,True,True,189,0.015996700036339462,1,1,0
+Logistic Regression|None,2,11,60,1,True,True,11,0.0005567999905906618,0,1,52
+Logistic Regression|None,2,12,60,4,True,True,37,0.0014989000046625733,0,1,24
+Logistic Regression|None,2,13,60,3,True,True,41,0.0018114999984391034,2,1,20
+Logistic Regression|None,2,14,60,4,True,True,35,0.0018282000091858208,2,1,27
+Logistic Regression|None,8,0,60,2,True,True,13,0.0005586000042967498,2,1,47
+Logistic Regression|None,8,1,60,4,True,True,61,0.004244200012180954,22,1,0
+Logistic Regression|None,8,2,60,2,True,True,52,0.0031254999921657145,16,1,8
+Logistic Regression|None,8,3,60,3,True,True,23,0.000978600000962615,3,1,37
+Logistic Regression|None,8,4,60,4,True,True,59,0.004011500044725835,31,1,1
+Logistic Regression|None,8,5,60,3,True,True,0,0.0003720000386238098,0,1,60
+Logistic Regression|None,8,6,60,3,True,True,13,0.0007158999796956778,0,1,48
+Logistic Regression|None,8,7,60,4,True,True,5,0.00038049998693168163,0,1,57
+Logistic Regression|None,8,8,60,2,True,True,1,0.0004102999810129404,0,1,61
+Logistic Regression|None,8,9,60,4,True,True,406,0.03539989999262616,39,1,0
+Logistic Regression|None,8,10,60,4,True,True,59,0.003436799976043403,43,1,0
+Logistic Regression|None,8,11,60,1,True,True,92,0.006166299979668111,34,1,4
+Logistic Regression|None,8,12,60,2,True,True,13,0.000528200005646795,0,1,46
+Logistic Regression|None,8,13,60,1,True,True,12,0.00042369996663182974,0,1,47
+Logistic Regression|None,8,14,60,2,True,True,346,0.027073000033851713,40,1,0
+Logistic Regression|None,13,0,100,4,True,True,25,0.0013110999716445804,9,1,75
+Logistic Regression|None,13,1,100,1,True,True,0,0.0006296999636106193,0,1,100
+Logistic Regression|None,13,2,100,3,True,True,1,0.0006633999873884022,0,1,99
+Logistic Regression|None,13,3,100,2,True,True,31,0.0016874999855645,3,1,70
+Logistic Regression|None,13,4,100,1,True,True,5,0.0006947999936528504,0,1,97
+Logistic Regression|None,13,5,100,1,True,True,21,0.0011341000208631158,4,1,81
+Logistic Regression|None,13,6,100,1,True,True,23,0.0011671999818645418,2,1,79
+Logistic Regression|None,13,7,100,1,True,True,2,0.0006284000119194388,0,1,100
+Logistic Regression|None,13,8,100,2,True,False,124,0.012112000025808811,75,3,51
+Logistic Regression|None,13,9,100,1,True,True,2,0.0006333000492304564,0,1,100
+Logistic Regression|None,13,10,100,4,True,True,48,0.002546000003349036,22,1,54
+Logistic Regression|None,13,11,100,1,True,True,1,0.0006234999746084213,0,1,101
+Logistic Regression|None,13,12,100,1,True,True,5,0.0006802999996580184,0,1,96
+Logistic Regression|None,13,13,100,2,True,True,30,0.0013422999763861299,0,1,73
+Logistic Regression|None,13,14,100,3,True,True,5,0.000694699992891401,1,1,98
+Logistic Regression|None,15,0,100,3,True,True,882,0.11707610002486035,1,1,14
+Logistic Regression|None,15,1,100,4,True,False,18179,2.602649999957066,88,6,0
+Logistic Regression|None,15,2,100,4,True,False,5376,0.742080399999395,82,4,20
+Logistic Regression|None,15,3,100,3,True,False,10773,1.560051000036765,69,6,65
+Logistic Regression|None,15,4,100,1,True,True,17,0.0010538999922573566,0,1,85
+Logistic Regression|None,15,5,100,2,True,False,18163,2.914096599968616,70,6,78
+Logistic Regression|None,15,6,100,3,True,True,73,0.006361900013871491,2,1,28
+Logistic Regression|None,15,7,100,3,True,True,0,0.0006145000224933028,0,1,101
+Logistic Regression|None,15,8,100,4,True,True,0,0.0005732999998144805,0,1,100
+Logistic Regression|None,15,9,100,3,True,True,0,0.0007011000416241586,0,1,99
+Logistic Regression|None,15,10,100,3,True,True,78,0.006261899950914085,14,1,22
+Logistic Regression|None,15,11,100,1,True,True,31,0.001320500043220818,2,1,69
+Logistic Regression|None,15,12,100,2,True,False,6892,0.9838644999545068,74,4,63
+Logistic Regression|None,15,13,100,1,True,True,26,0.001216100004967302,0,1,75
+Logistic Regression|None,15,14,100,2,True,True,546,0.06895539996912703,32,1,0
+Logistic Regression|None,22,0,150,2,True,True,0,0.0009884999599307775,0,1,150
+Logistic Regression|None,22,1,150,2,True,True,5,0.000916799996048212,1,1,146
+Logistic Regression|None,22,2,150,2,True,True,67,0.004747800005134195,4,1,84
+Logistic Regression|None,22,3,150,2,True,True,878,0.1775832999846898,60,1,15
+Logistic Regression|None,22,4,150,4,True,False,22306,4.905488200020045,78,6,12
+Logistic Regression|None,22,5,150,3,True,False,17187,2.6190531000029296,106,6,36
+Logistic Regression|None,22,6,150,4,True,True,25,0.0006493000546470284,0,1,125
+Logistic Regression|None,22,7,150,2,True,False,9678,1.024334599962458,77,5,38
+Logistic Regression|None,22,8,150,4,True,False,2000,0.19560219999402761,88,3,69
+Logistic Regression|None,22,9,150,1,True,True,0,0.0004296000115573406,0,1,151
+Logistic Regression|None,22,10,150,4,True,True,1,0.0003972999984398484,0,1,150
+Logistic Regression|None,22,11,150,3,True,True,394,0.04329589998815209,101,1,4
+Logistic Regression|None,22,12,150,1,True,False,80270,10.144412699970417,122,6,67
+Logistic Regression|None,22,13,150,1,True,False,18605,2.8395128000411205,86,6,7
+Logistic Regression|None,22,14,150,2,True,False,19749,3.033594499982428,36,6,3
+Logistic Regression|None,23,0,150,4,True,False,9653,1.975127599958796,103,4,2
+Logistic Regression|None,23,1,150,2,True,False,6540,1.3720422000042163,103,4,8
+Logistic Regression|None,23,2,150,3,True,True,0,0.0010273000225424767,0,1,150
+Logistic Regression|None,23,3,150,3,True,True,4,0.0014252999681048095,2,1,146
+Logistic Regression|None,23,4,150,2,True,True,2,0.0009518999722786248,0,1,149
+Logistic Regression|None,23,5,150,2,True,True,1,0.0009113000123761594,0,1,150
+Logistic Regression|None,23,6,150,1,True,True,17,0.0013028999674133956,3,1,134
+Logistic Regression|None,23,7,150,2,True,True,22,0.0014088000170886517,2,1,128
+Logistic Regression|None,23,8,150,1,True,True,0,0.0007888000109232962,0,1,149
+Logistic Regression|None,23,9,150,2,True,True,2,0.0007582000107504427,0,1,148
+Logistic Regression|None,23,10,150,4,True,True,1,0.0012664000387303531,1,1,149
+Logistic Regression|None,23,11,150,3,True,True,5,0.0009515000274404883,1,1,146
+Logistic Regression|None,23,12,150,3,True,True,0,0.0009070999803952873,0,1,151
+Logistic Regression|None,23,13,150,2,True,True,0,0.0011532999924384058,0,1,149
+Logistic Regression|None,23,14,150,3,True,True,0,0.0009094000561162829,0,1,148
+Logistic Regression|0.6,2,0,60,2,True,True,0,0.00046579999616369605,0,1,60
+Logistic Regression|0.6,2,1,60,2,True,True,2,0.0003288000007160008,0,1,58
+Logistic Regression|0.6,2,2,60,1,True,True,40,0.002076999982818961,1,1,20
+Logistic Regression|0.6,2,3,60,2,True,True,44,0.0022649000165984035,0,1,17
+Logistic Regression|0.6,2,4,60,2,True,True,63,0.0044793999986723065,3,1,0
+Logistic Regression|0.6,2,5,60,4,True,True,101,0.008362900000065565,53,1,0
+Logistic Regression|0.6,2,6,60,1,True,True,85,0.005847699998412281,1,1,0
+Logistic Regression|0.6,2,7,60,4,True,True,5,0.0004593999474309385,5,1,57
+Logistic Regression|0.6,2,8,60,2,True,True,0,0.0003874999820254743,0,1,62
+Logistic Regression|0.6,2,9,60,4,True,True,237,0.018961000023409724,53,1,0
+Logistic Regression|0.6,2,10,60,4,True,True,189,0.01594080001814291,1,1,0
+Logistic Regression|0.6,2,11,60,1,True,True,20,0.0007772999815642834,0,1,43
+Logistic Regression|0.6,2,12,60,4,True,True,67,0.004128200002014637,21,1,4
+Logistic Regression|0.6,2,13,60,3,True,True,61,0.0037048999802209437,21,1,0
+Logistic Regression|0.6,2,14,60,4,True,True,1,0.0004056000034324825,0,1,61
+Logistic Regression|0.6,8,0,60,2,True,True,13,0.0006149000255391002,2,1,47
+Logistic Regression|0.6,8,1,60,4,True,True,61,0.004149399988818914,22,1,0
+Logistic Regression|0.6,8,2,60,2,True,True,60,0.004002500034403056,40,1,0
+Logistic Regression|0.6,8,3,60,3,True,True,43,0.002190199971664697,10,1,17
+Logistic Regression|0.6,8,4,60,4,True,True,0,0.0003448000061325729,0,1,60
+Logistic Regression|0.6,8,5,60,3,True,True,0,0.0003616000176407397,0,1,60
+Logistic Regression|0.6,8,6,60,3,True,True,18,0.0006989000248722732,1,1,43
+Logistic Regression|0.6,8,7,60,4,True,True,62,0.004222900024615228,36,1,0
+Logistic Regression|0.6,8,8,60,2,True,True,2,0.0004062999505549669,0,1,60
+Logistic Regression|0.6,8,9,60,4,True,True,281,0.024165699956938624,40,1,0
+Logistic Regression|0.6,8,10,60,4,True,True,106,0.007737100007943809,27,1,0
+Logistic Regression|0.6,8,11,60,1,True,True,35,0.001489299989771098,0,1,24
+Logistic Regression|0.6,8,12,60,2,True,True,30,0.0011968999751843512,0,1,29
+Logistic Regression|0.6,8,13,60,1,True,True,25,0.0009615999879315495,0,1,34
+Logistic Regression|0.6,8,14,60,2,True,True,9,0.00044059997890144587,0,1,50
+Logistic Regression|0.6,13,0,100,4,True,True,32,0.0016277999966405332,5,1,68
+Logistic Regression|0.6,13,1,100,1,True,True,0,0.0005803999956697226,0,1,100
+Logistic Regression|0.6,13,2,100,3,True,True,1,0.0006206000107340515,0,1,99
+Logistic Regression|0.6,13,3,100,2,True,True,39,0.0022037000162526965,5,1,62
+Logistic Regression|0.6,13,4,100,1,True,True,14,0.0008918999810703099,0,1,88
+Logistic Regression|0.6,13,5,100,1,True,True,25,0.0012544000055640936,8,1,77
+Logistic Regression|0.6,13,6,100,1,True,True,1,0.0006632999866269529,0,1,101
+Logistic Regression|0.6,13,7,100,1,True,True,4,0.0006814000080339611,0,1,98
+Logistic Regression|0.6,13,8,100,2,True,True,93,0.008995999989565462,37,1,9
+Logistic Regression|0.6,13,9,100,1,True,True,5,0.0006474999827332795,0,1,97
+Logistic Regression|0.6,13,10,100,4,True,True,10,0.0007501000072807074,0,1,92
+Logistic Regression|0.6,13,11,100,1,True,True,3,0.0005745000089518726,0,1,99
+Logistic Regression|0.6,13,12,100,1,True,True,8,0.0007112000021152198,0,1,93
+Logistic Regression|0.6,13,13,100,2,True,True,33,0.0017158999689854681,0,1,70
+Logistic Regression|0.6,13,14,100,3,True,True,1,0.0005321000353433192,0,1,102
+Logistic Regression|0.6,15,0,100,3,True,False,11464,1.7195568999741226,4,6,0
+Logistic Regression|0.6,15,1,100,4,True,False,18179,2.7188345000031404,89,6,0
+Logistic Regression|0.6,15,2,100,4,True,True,320,0.038329700008034706,82,1,0
+Logistic Regression|0.6,15,3,100,3,True,False,11012,1.5989128000219353,69,6,44
+Logistic Regression|0.6,15,4,100,1,True,True,43,0.0020625999895855784,0,1,59
+Logistic Regression|0.6,15,5,100,2,True,False,18155,2.9519642000086606,70,6,53
+Logistic Regression|0.6,15,6,100,3,True,False,5921,0.8865167000330985,67,3,6
+Logistic Regression|0.6,15,7,100,3,True,True,0,0.0006009999779053032,0,1,101
+Logistic Regression|0.6,15,8,100,4,True,True,2,0.0006443000165745616,0,1,98
+Logistic Regression|0.6,15,9,100,3,True,True,0,0.0004962999955751002,0,1,99
+Logistic Regression|0.6,15,10,100,3,True,True,11,0.000804700015578419,2,1,89
+Logistic Regression|0.6,15,11,100,1,True,True,134,0.01442929997574538,32,1,0
+Logistic Regression|0.6,15,12,100,2,True,False,7565,1.131136999989394,15,4,14
+Logistic Regression|0.6,15,13,100,1,True,True,65,0.004453799978364259,0,1,36
+Logistic Regression|0.6,15,14,100,2,True,True,115,0.01105740002822131,19,1,0
+Logistic Regression|0.6,22,0,150,2,True,True,0,0.002002399996854365,0,1,150
+Logistic Regression|0.6,22,1,150,2,True,True,11,0.0011520000407472253,1,1,140
+Logistic Regression|0.6,22,2,150,2,True,True,55,0.003778700018301606,4,1,96
+Logistic Regression|0.6,22,3,150,2,True,True,204,0.032964900019578636,10,1,0
+Logistic Regression|0.6,22,4,150,4,True,False,12304,2.5150845000171103,86,6,0
+Logistic Regression|0.6,22,5,150,3,True,True,3145,0.6316836000187322,72,1,11
+Logistic Regression|0.6,22,6,150,4,True,True,4536,0.89170620002551,75,1,6
+Logistic Regression|0.6,22,7,150,2,True,True,107,0.01090599998133257,0,1,43
+Logistic Regression|0.6,22,8,150,4,True,False,7813,1.7148654999909922,102,6,0
+Logistic Regression|0.6,22,9,150,1,True,True,1,0.0010443999781273305,0,1,150
+Logistic Regression|0.6,22,10,150,4,True,False,5364,1.2198344999924302,19,4,111
+Logistic Regression|0.6,22,11,150,3,True,False,5683,1.2344388999626972,79,4,14
+Logistic Regression|0.6,22,12,150,1,True,False,1750,0.39063160005025566,79,4,44
+Logistic Regression|0.6,22,13,150,1,True,True,77,0.005960900045465678,1,1,75
+Logistic Regression|0.6,22,14,150,2,True,False,19749,4.631148700020276,131,6,1
+Logistic Regression|0.6,23,0,150,4,True,True,4652,0.8849327000207268,103,1,0
+Logistic Regression|0.6,23,1,150,2,True,True,1539,0.30531169997993857,103,1,0
+Logistic Regression|0.6,23,2,150,3,True,True,0,0.0009480000007897615,0,1,150
+Logistic Regression|0.6,23,3,150,3,True,True,11,0.001096600026357919,2,1,139
+Logistic Regression|0.6,23,4,150,2,True,True,6,0.0010203999700024724,2,1,145
+Logistic Regression|0.6,23,5,150,2,True,True,3,0.0009252000018022954,0,1,148
+Logistic Regression|0.6,23,6,150,1,True,True,20,0.0011818999773822725,3,1,131
+Logistic Regression|0.6,23,7,150,2,True,True,54,0.005321000004187226,16,1,96
+Logistic Regression|0.6,23,8,150,1,True,True,7,0.0010503999656066298,0,1,142
+Logistic Regression|0.6,23,9,150,2,True,True,6,0.003048200043849647,0,1,144
+Logistic Regression|0.6,23,10,150,4,True,True,2,0.001316600013524294,1,1,148
+Logistic Regression|0.6,23,11,150,3,True,True,11,0.0017595000099390745,3,1,140
+Logistic Regression|0.6,23,12,150,3,True,True,0,0.0008827999699860811,0,1,151
+Logistic Regression|0.6,23,13,150,2,True,True,1,0.0010272000217810273,0,1,148
+Logistic Regression|0.6,23,14,150,3,True,True,0,0.002154999994672835,0,1,148
+Logistic Regression|0.8,2,0,60,2,True,True,0,0.00033870001789182425,0,1,60
+Logistic Regression|0.8,2,1,60,2,True,True,3,0.00044840003829449415,0,1,57
+Logistic Regression|0.8,2,2,60,1,True,True,47,0.0034031999530270696,2,1,13
+Logistic Regression|0.8,2,3,60,2,True,True,153,0.013080300006549805,25,1,1
+Logistic Regression|0.8,2,4,60,2,True,True,91,0.0069762999773956835,28,1,0
+Logistic Regression|0.8,2,5,60,4,True,True,101,0.007891800021752715,54,1,0
+Logistic Regression|0.8,2,6,60,1,True,True,85,0.006831200036685914,1,1,0
+Logistic Regression|0.8,2,7,60,4,True,True,34,0.0015598000027239323,2,1,28
+Logistic Regression|0.8,2,8,60,2,True,True,0,0.00040499999886378646,0,1,62
+Logistic Regression|0.8,2,9,60,4,True,True,127,0.010804699966683984,53,1,0
+Logistic Regression|0.8,2,10,60,4,True,True,189,0.017250899982172996,1,1,0
+Logistic Regression|0.8,2,11,60,1,True,True,53,0.003990299999713898,0,1,10
+Logistic Regression|0.8,2,12,60,4,True,True,61,0.003873899986501783,22,1,0
+Logistic Regression|0.8,2,13,60,3,True,True,61,0.006050399970263243,21,1,0
+Logistic Regression|0.8,2,14,60,4,True,True,7,0.0005425999988801777,1,1,55
+Logistic Regression|0.8,8,0,60,2,True,True,19,0.0007204000139608979,2,1,41
+Logistic Regression|0.8,8,1,60,4,True,True,61,0.003953100007493049,22,1,0
+Logistic Regression|0.8,8,2,60,2,True,True,60,0.004087199980858713,40,1,0
+Logistic Regression|0.8,8,3,60,3,True,True,60,0.0036052000359632075,2,1,0
+Logistic Regression|0.8,8,4,60,4,True,True,0,0.0003857999690808356,0,1,60
+Logistic Regression|0.8,8,5,60,3,True,True,60,0.0041297999559901655,5,1,0
+Logistic Regression|0.8,8,6,60,3,True,True,37,0.0015322999679483473,8,1,24
+Logistic Regression|0.8,8,7,60,4,True,True,22,0.0010884000221267343,0,1,40
+Logistic Regression|0.8,8,8,60,2,True,True,6,0.0004164999700151384,0,1,56
+Logistic Regression|0.8,8,9,60,4,True,True,500,0.04461559996707365,43,1,0
+Logistic Regression|0.8,8,10,60,4,True,True,86,0.005349699989892542,30,1,0
+Logistic Regression|0.8,8,11,60,1,True,True,84,0.00530259998049587,1,1,0
+Logistic Regression|0.8,8,12,60,2,True,True,601,0.05035560001851991,29,1,0
+Logistic Regression|0.8,8,13,60,1,True,True,374,0.02874769998015836,0,1,5
+Logistic Regression|0.8,8,14,60,2,True,True,316,0.025577799999155104,34,1,0
+Logistic Regression|0.8,13,0,100,4,True,True,95,0.009092999971471727,17,1,5
+Logistic Regression|0.8,13,1,100,1,True,True,1,0.0006303000263869762,0,1,99
+Logistic Regression|0.8,13,2,100,3,True,True,1,0.0005431000026874244,0,1,99
+Logistic Regression|0.8,13,3,100,2,True,True,90,0.008721599995624274,41,1,11
+Logistic Regression|0.8,13,4,100,1,True,True,24,0.0010844999924302101,0,1,78
+Logistic Regression|0.8,13,5,100,1,True,True,64,0.004415899980813265,15,1,38
+Logistic Regression|0.8,13,6,100,1,True,True,56,0.0037932000122964382,3,1,46
+Logistic Regression|0.8,13,7,100,1,True,True,11,0.0008458000374957919,1,1,91
+Logistic Regression|0.8,13,8,100,2,True,True,5,0.0006768000312149525,0,1,97
+Logistic Regression|0.8,13,9,100,1,True,True,11,0.0008080000407062471,0,1,91
+Logistic Regression|0.8,13,10,100,4,True,True,102,0.010286600037943572,54,1,0
+Logistic Regression|0.8,13,11,100,1,True,True,5,0.0007356000132858753,0,1,97
+Logistic Regression|0.8,13,12,100,1,True,True,39,0.002085800049826503,0,1,62
+Logistic Regression|0.8,13,13,100,2,True,True,53,0.003011799999512732,1,1,50
+Logistic Regression|0.8,13,14,100,3,True,True,40,0.0022493000142276287,1,1,63
+Logistic Regression|0.8,15,0,100,3,True,False,11464,1.6920220000320114,4,6,0
+Logistic Regression|0.8,15,1,100,4,True,False,18179,2.6178792000282556,89,6,0
+Logistic Regression|0.8,15,2,100,4,True,True,320,0.044282899994868785,82,1,0
+Logistic Regression|0.8,15,3,100,3,True,True,4006,0.6001273000147194,64,1,5
+Logistic Regression|0.8,15,4,100,1,True,True,1321,0.18779530003666878,0,1,12
+Logistic Regression|0.8,15,5,100,2,True,True,4390,0.694977100007236,62,1,5
+Logistic Regression|0.8,15,6,100,3,True,True,979,0.12982269999338314,56,1,0
+Logistic Regression|0.8,15,7,100,3,True,True,0,0.000658600009046495,0,1,101
+Logistic Regression|0.8,15,8,100,4,True,True,40,0.0020401999936439097,0,1,60
+Logistic Regression|0.8,15,9,100,3,True,True,3,0.0006585000082850456,0,1,96
+Logistic Regression|0.8,15,10,100,3,True,True,55,0.00347290001809597,0,1,45
+Logistic Regression|0.8,15,11,100,1,True,True,172,0.018451199983246624,2,1,22
+Logistic Regression|0.8,15,12,100,2,True,False,6814,1.046198199968785,47,4,2
+Logistic Regression|0.8,15,13,100,1,True,True,2439,0.37481649999972433,0,1,7
+Logistic Regression|0.8,15,14,100,2,True,True,591,0.0825557999778539,50,1,0
+Logistic Regression|0.8,22,0,150,2,True,True,0,0.0010837999871000648,0,1,150
+Logistic Regression|0.8,22,1,150,2,True,True,23,0.0016281999996863306,1,1,128
+Logistic Regression|0.8,22,2,150,2,True,True,2131,0.4129978999844752,4,1,22
+Logistic Regression|0.8,22,3,150,2,True,True,204,0.029716799966990948,10,1,0
+Logistic Regression|0.8,22,4,150,4,True,False,12304,2.565356199978851,86,6,0
+Logistic Regression|0.8,22,5,150,3,True,False,16103,3.4839560000109486,106,6,0
+Logistic Regression|0.8,22,6,150,4,True,False,12867,2.2123066000058316,0,4,12
+Logistic Regression|0.8,22,7,150,2,True,False,9647,1.124484299973119,92,6,0
+Logistic Regression|0.8,22,8,150,4,True,True,2969,0.3144433000124991,90,1,0
+Logistic Regression|0.8,22,9,150,1,True,True,3,0.0004314000252634287,0,1,148
+Logistic Regression|0.8,22,10,150,4,True,True,143,0.009690999984741211,6,1,21
+Logistic Regression|0.8,22,11,150,3,True,True,1628,0.1829882999882102,89,1,0
+Logistic Regression|0.8,22,12,150,1,True,False,85202,10.832717799989041,125,6,3
+Logistic Regression|0.8,22,13,150,1,True,False,13604,2.033109899959527,86,6,0
+Logistic Regression|0.8,22,14,150,2,True,False,14748,2.225901299971156,36,6,0
+Logistic Regression|0.8,23,0,150,4,True,True,4652,0.6036029999959283,103,1,0
+Logistic Regression|0.8,23,1,150,2,True,True,1539,0.2123818999971263,103,1,0
+Logistic Regression|0.8,23,2,150,3,True,True,1,0.0005914999637752771,0,1,149
+Logistic Regression|0.8,23,3,150,3,True,True,29,0.0010943999513983727,2,1,121
+Logistic Regression|0.8,23,4,150,2,True,True,22,0.0009536999859847128,3,1,129
+Logistic Regression|0.8,23,5,150,2,True,True,22,0.0015236000181175768,0,1,129
+Logistic Regression|0.8,23,6,150,1,True,True,78,0.007478399958927184,5,1,73
+Logistic Regression|0.8,23,7,150,2,True,True,145,0.014449300011619925,69,1,5
+Logistic Regression|0.8,23,8,150,1,True,True,72,0.0033417000086046755,0,1,77
+Logistic Regression|0.8,23,9,150,2,True,True,127,0.010538100032135844,23,1,23
+Logistic Regression|0.8,23,10,150,4,True,True,10,0.0006871999939903617,3,1,140
+Logistic Regression|0.8,23,11,150,3,True,True,38,0.001464199973270297,1,1,113
+Logistic Regression|0.8,23,12,150,3,True,True,12,0.000679899996612221,2,1,139
+Logistic Regression|0.8,23,13,150,2,True,True,27,0.0009970999672077596,0,1,122
+Logistic Regression|0.8,23,14,150,3,True,True,17,0.0013129999861121178,1,1,131
+Logistic Regression|0.9,2,0,60,2,True,True,0,0.0002300000051036477,0,1,60
+Logistic Regression|0.9,2,1,60,2,True,True,8,0.00030509999487549067,0,1,52
+Logistic Regression|0.9,2,2,60,1,True,True,247,0.016471699986141175,32,1,7
+Logistic Regression|0.9,2,3,60,2,True,True,90,0.006474099995102733,28,1,0
+Logistic Regression|0.9,2,4,60,2,True,True,63,0.00268169998889789,2,1,0
+Logistic Regression|0.9,2,5,60,4,True,True,101,0.0050397999584674835,54,1,0
+Logistic Regression|0.9,2,6,60,1,True,True,63,0.003321500029414892,1,1,0
+Logistic Regression|0.9,2,7,60,4,True,True,58,0.0025109000271186233,8,1,4
+Logistic Regression|0.9,2,8,60,2,True,True,0,0.00025159999495372176,0,1,62
+Logistic Regression|0.9,2,9,60,4,True,True,62,0.002574399986770004,49,1,0
+Logistic Regression|0.9,2,10,60,4,True,True,189,0.011357499985024333,22,1,0
+Logistic Regression|0.9,2,11,60,1,True,True,182,0.011709999991580844,0,1,0
+Logistic Regression|0.9,2,12,60,4,True,True,61,0.002523500006645918,17,1,0
+Logistic Regression|0.9,2,13,60,3,True,True,61,0.004617400001734495,20,1,0
+Logistic Regression|0.9,2,14,60,4,True,True,24,0.000674000009894371,1,1,38
+Logistic Regression|0.9,8,0,60,2,True,True,52,0.003071199986152351,2,1,8
+Logistic Regression|0.9,8,1,60,4,True,True,61,0.0027889999910257757,22,1,0
+Logistic Regression|0.9,8,2,60,2,True,True,60,0.0028540000203065574,40,1,0
+Logistic Regression|0.9,8,3,60,3,True,True,60,0.0027502000448293984,2,1,0
+Logistic Regression|0.9,8,4,60,4,True,True,1,0.00025270000332966447,0,1,59
+Logistic Regression|0.9,8,5,60,3,True,True,60,0.0051392000168561935,5,1,0
+Logistic Regression|0.9,8,6,60,3,True,True,61,0.003708900010678917,22,1,0
+Logistic Regression|0.9,8,7,60,4,True,True,48,0.0019594000186771154,0,1,14
+Logistic Regression|0.9,8,8,60,2,True,True,33,0.0010360999731346965,0,1,29
+Logistic Regression|0.9,8,9,60,4,True,True,203,0.013398699986282736,45,1,0
+Logistic Regression|0.9,8,10,60,4,True,True,59,0.0029776000301353633,48,1,0
+Logistic Regression|0.9,8,11,60,1,True,True,192,0.009933499968610704,26,1,0
+Logistic Regression|0.9,8,12,60,2,True,True,84,0.0036897999816574156,0,1,1
+Logistic Regression|0.9,8,13,60,1,True,True,727,0.037878000002820045,44,1,0
+Logistic Regression|0.9,8,14,60,2,True,True,61,0.002386000007390976,39,1,2
+Logistic Regression|0.9,13,0,100,4,True,True,100,0.010400499973911792,37,1,0
+Logistic Regression|0.9,13,1,100,1,True,True,1,0.0007031999994069338,0,1,99
+Logistic Regression|0.9,13,2,100,3,True,True,76,0.006412100046873093,14,1,24
+Logistic Regression|0.9,13,3,100,2,True,True,101,0.011295399977825582,34,1,0
+Logistic Regression|0.9,13,4,100,1,True,True,51,0.0037133999867364764,0,1,51
+Logistic Regression|0.9,13,5,100,1,True,True,97,0.011262200016062707,30,1,5
+Logistic Regression|0.9,13,6,100,1,True,True,13,0.0007311999797821045,0,1,89
+Logistic Regression|0.9,13,7,100,1,True,True,29,0.0016261999844573438,0,1,73
+Logistic Regression|0.9,13,8,100,2,True,True,102,0.011871099995914847,62,1,0
+Logistic Regression|0.9,13,9,100,1,True,True,47,0.0032324999920092523,1,1,55
+Logistic Regression|0.9,13,10,100,4,True,True,84,0.007880299992393702,12,1,18
+Logistic Regression|0.9,13,11,100,1,True,True,23,0.001207199995405972,0,1,79
+Logistic Regression|0.9,13,12,100,1,True,True,89,0.008265599957667291,5,1,12
+Logistic Regression|0.9,13,13,100,2,True,True,92,0.008976799959782511,45,1,11
+Logistic Regression|0.9,13,14,100,3,True,True,85,0.0074062999919988215,31,1,18
+Logistic Regression|0.9,15,0,100,3,True,False,11464,1.2397075999761,4,6,0
+Logistic Regression|0.9,15,1,100,4,True,False,18179,1.4852274000295438,89,6,0
+Logistic Regression|0.9,15,2,100,4,True,True,320,0.019873599987477064,82,1,0
+Logistic Regression|0.9,15,3,100,3,True,False,10475,0.8084058000240475,69,6,0
+Logistic Regression|0.9,15,4,100,1,True,False,11521,0.8754141999525018,53,6,0
+Logistic Regression|0.9,15,5,100,2,True,False,13123,1.0960296000121161,62,6,0
+Logistic Regression|0.9,15,6,100,3,True,True,1018,0.07938949996605515,67,1,0
+Logistic Regression|0.9,15,7,100,3,True,True,7,0.0003966999938711524,0,1,94
+Logistic Regression|0.9,15,8,100,4,True,True,90,0.004184600024018437,0,1,10
+Logistic Regression|0.9,15,9,100,3,True,True,20,0.0008956000092439353,0,1,79
+Logistic Regression|0.9,15,10,100,3,True,True,98,0.007570800022222102,35,1,2
+Logistic Regression|0.9,15,11,100,1,True,True,862,0.07736669998848811,75,1,0
+Logistic Regression|0.9,15,12,100,2,True,True,1817,0.14788440003758296,81,1,0
+Logistic Regression|0.9,15,13,100,1,True,True,2316,0.16447610000614077,22,1,0
+Logistic Regression|0.9,15,14,100,2,True,True,115,0.00622280000243336,26,1,0
+Logistic Regression|0.9,22,0,150,2,True,True,3,0.0004702000296674669,0,1,147
+Logistic Regression|0.9,22,1,150,2,True,True,85,0.0035693999961949885,2,1,66
+Logistic Regression|0.9,22,2,150,2,True,True,242,0.019629099988378584,0,1,32
+Logistic Regression|0.9,22,3,150,2,True,True,204,0.014254699985031039,10,1,0
+Logistic Regression|0.9,22,4,150,4,True,False,12304,1.3600974000291899,86,6,0
+Logistic Regression|0.9,22,5,150,3,True,False,16103,1.7381041999906301,106,6,0
+Logistic Regression|0.9,22,6,150,4,True,True,2865,0.29381800000555813,0,1,0
+Logistic Regression|0.9,22,7,150,2,True,False,9647,1.0652682000072673,92,6,0
+Logistic Regression|0.9,22,8,150,4,True,True,2969,0.2989388999994844,90,1,0
+Logistic Regression|0.9,22,9,150,1,True,True,3,0.0004305999609641731,0,1,148
+Logistic Regression|0.9,22,10,150,4,True,True,329,0.029581000038888305,6,1,0
+Logistic Regression|0.9,22,11,150,3,True,True,1628,0.16850649996194988,89,1,0
+Logistic Regression|0.9,22,12,150,1,True,False,75200,11.674830299976747,125,6,0
+Logistic Regression|0.9,22,13,150,1,True,False,13604,1.997244900034275,86,6,0
+Logistic Regression|0.9,22,14,150,2,True,False,14748,2.738774999976158,36,6,0
+Logistic Regression|0.9,23,0,150,4,True,True,4652,0.9098903000121936,103,1,0
+Logistic Regression|0.9,23,1,150,2,True,True,1539,0.3113730999757536,103,1,0
+Logistic Regression|0.9,23,2,150,3,True,True,17,0.0011242000036872923,0,1,133
+Logistic Regression|0.9,23,3,150,3,True,True,89,0.008171599998604506,2,1,61
+Logistic Regression|0.9,23,4,150,2,True,True,66,0.004827399970963597,4,1,85
+Logistic Regression|0.9,23,5,150,2,True,True,93,0.008797099988441914,0,1,58
+Logistic Regression|0.9,23,6,150,1,True,True,143,0.020753999997396022,38,1,8
+Logistic Regression|0.9,23,7,150,2,True,True,150,0.021990999986883253,62,1,0
+Logistic Regression|0.9,23,8,150,1,True,True,147,0.02263429999584332,33,1,2
+Logistic Regression|0.9,23,9,150,2,True,True,97,0.010034599981736392,3,1,53
+Logistic Regression|0.9,23,10,150,4,True,True,30,0.0016277999966405332,2,1,120
+Logistic Regression|0.9,23,11,150,3,True,True,120,0.014218199998140335,27,1,31
+Logistic Regression|0.9,23,12,150,3,True,True,22,0.0016089999699033797,1,1,129
+Logistic Regression|0.9,23,13,150,2,True,True,102,0.010225099977105856,0,1,47
+Logistic Regression|0.9,23,14,150,3,True,True,47,0.0027247999678365886,1,1,101
+Random Forest|None,2,0,60,2,True,True,0,0.00039160001324489713,0,1,60
+Random Forest|None,2,1,60,2,True,True,0,0.0004970000009052455,0,1,60
+Random Forest|None,2,2,60,1,True,True,0,0.0003972999984398484,0,1,60
+Random Forest|None,2,3,60,2,True,True,8,0.0005159000284038484,0,1,53
+Random Forest|None,2,4,60,2,True,True,16,0.0005931999767199159,0,1,47
+Random Forest|None,2,5,60,4,True,False,108,0.013378500007092953,51,3,21
+Random Forest|None,2,6,60,1,True,True,20,0.0008502000127919018,1,1,43
+Random Forest|None,2,7,60,4,True,True,3,0.00045009999303147197,2,1,59
+Random Forest|None,2,8,60,2,True,True,0,0.00036689999978989363,0,1,62
+Random Forest|None,2,9,60,4,True,False,1170,0.10747879999689758,44,3,34
+Random Forest|None,2,10,60,4,True,True,8,0.00044920004438608885,0,1,55
+Random Forest|None,2,11,60,1,True,True,0,0.0003378000110387802,0,1,63
+Random Forest|None,2,12,60,4,True,True,0,0.00032519997330382466,0,1,61
+Random Forest|None,2,13,60,3,True,True,0,0.0003383000148460269,0,1,61
+Random Forest|None,2,14,60,4,True,True,1,0.0003863000310957432,0,1,61
+Random Forest|None,8,0,60,2,True,True,2,0.0003236999618820846,1,1,58
+Random Forest|None,8,1,60,4,True,True,29,0.0011825999827124178,6,1,32
+Random Forest|None,8,2,60,2,True,True,0,0.0003793000360019505,0,1,60
+Random Forest|None,8,3,60,3,True,True,2,0.00020869995933026075,1,1,58
+Random Forest|None,8,4,60,4,True,False,42,0.0011934000067412853,11,2,56
+Random Forest|None,8,5,60,3,True,True,1,0.00019590003648772836,1,1,59
+Random Forest|None,8,6,60,3,True,True,1,0.00021399999968707561,0,1,60
+Random Forest|None,8,7,60,4,True,True,1,0.0003499999875202775,0,1,61
+Random Forest|None,8,8,60,2,True,True,0,0.0003524000057950616,0,1,62
+Random Forest|None,8,9,60,4,True,False,1493,0.08943779999390244,52,3,5
+Random Forest|None,8,10,60,4,True,True,32,0.0006451000226661563,2,1,27
+Random Forest|None,8,11,60,1,True,True,8,0.000228599994443357,3,1,51
+Random Forest|None,8,12,60,2,True,True,0,0.0001753999968059361,0,1,59
+Random Forest|None,8,13,60,1,True,True,0,0.0001832999987527728,0,1,59
+Random Forest|None,8,14,60,2,True,True,0,0.00017610000213608146,0,1,59
+Random Forest|None,13,0,100,4,True,True,3,0.0003085000207647681,2,1,97
+Random Forest|None,13,1,100,1,True,True,0,0.000291600008495152,0,1,100
+Random Forest|None,13,2,100,3,True,True,0,0.00028879998717457056,0,1,100
+Random Forest|None,13,3,100,2,True,True,3,0.0005910999607294798,1,1,98
+Random Forest|None,13,4,100,1,True,True,1,0.0005673000123351812,0,1,101
+Random Forest|None,13,5,100,1,True,True,2,0.0005612000240944326,1,1,100
+Random Forest|None,13,6,100,1,True,True,2,0.0003288000007160008,1,1,100
+Random Forest|None,13,7,100,1,True,True,0,0.00035200000274926424,0,1,102
+Random Forest|None,13,8,100,2,True,False,34,0.0011635000118985772,7,2,99
+Random Forest|None,13,9,100,1,True,True,0,0.00031619996298104525,0,1,102
+Random Forest|None,13,10,100,4,True,True,0,0.00031649996526539326,0,1,102
+Random Forest|None,13,11,100,1,True,True,0,0.0003117000451311469,0,1,102
+Random Forest|None,13,12,100,1,True,True,0,0.0005104999872855842,0,1,101
+Random Forest|None,13,13,100,2,True,True,2,0.00032980000833049417,0,1,101
+Random Forest|None,13,14,100,3,True,True,0,0.00032489997101947665,0,1,103
+Random Forest|None,15,0,100,3,True,True,24,0.0010020000045187771,1,1,77
+Random Forest|None,15,1,100,4,True,False,18254,1.418175800004974,88,6,23
+Random Forest|None,15,2,100,4,True,False,927,0.07034050003858283,65,3,61
+Random Forest|None,15,3,100,3,True,True,1,0.00030239997431635857,0,1,101
+Random Forest|None,15,4,100,1,True,True,0,0.00028549996204674244,0,1,102
+Random Forest|None,15,5,100,2,True,False,29,0.000940999947488308,1,2,102
+Random Forest|None,15,6,100,3,True,True,0,0.00028629996813833714,0,1,101
+Random Forest|None,15,7,100,3,True,True,0,0.0002986000035889447,0,1,101
+Random Forest|None,15,8,100,4,True,True,0,0.00030509999487549067,0,1,100
+Random Forest|None,15,9,100,3,True,True,0,0.00030259997583925724,0,1,99
+Random Forest|None,15,10,100,3,True,True,1,0.00038349995156750083,0,1,99
+Random Forest|None,15,11,100,1,True,False,1566,0.10356339998543262,45,4,91
+Random Forest|None,15,12,100,2,True,True,29,0.0006780999829061329,4,1,72
+Random Forest|None,15,13,100,1,True,False,123,0.005711100006010383,5,4,95
+Random Forest|None,15,14,100,2,True,True,0,0.00029550003819167614,0,1,100
+Random Forest|None,22,0,150,2,True,True,0,0.0006882000016048551,0,1,150
+Random Forest|None,22,1,150,2,True,True,1,0.0006993000279180706,0,1,150
+Random Forest|None,22,2,150,2,True,False,117,0.007217600010335445,3,3,150
+Random Forest|None,22,3,150,2,True,False,139,0.0088050999911502,4,3,114
+Random Forest|None,22,4,150,4,True,False,9663,1.1073795999982394,78,4,148
+Random Forest|None,22,5,150,3,True,False,17712,1.9604937999974936,107,6,111
+Random Forest|None,22,6,150,4,True,True,0,0.00041039998177438974,0,1,150
+Random Forest|None,22,7,150,2,True,False,9175,0.958887999993749,45,5,149
+Random Forest|None,22,8,150,4,True,True,2,0.0004295000107958913,0,1,149
+Random Forest|None,22,9,150,1,True,True,0,0.00046309997560456395,0,1,151
+Random Forest|None,22,10,150,4,True,False,158,0.012586700031533837,17,3,149
+Random Forest|None,22,11,150,3,True,False,1135,0.119929599983152,42,4,149
+Random Forest|None,22,12,150,1,True,True,12,0.0006705000414513052,0,1,140
+Random Forest|None,22,13,150,1,True,True,0,0.0004317000275477767,0,1,152
+Random Forest|None,22,14,150,2,True,True,1,0.000431500026024878,0,1,152
+Random Forest|None,23,0,150,4,True,False,5195,0.5996265999856405,58,4,148
+Random Forest|None,23,1,150,2,True,False,29,0.0011578999692574143,2,2,146
+Random Forest|None,23,2,150,3,True,True,1,0.0004515999462455511,1,1,149
+Random Forest|None,23,3,150,3,True,True,0,0.00043159996857866645,0,1,150
+Random Forest|None,23,4,150,2,True,True,1,0.00044899998465552926,0,1,150
+Random Forest|None,23,5,150,2,True,True,0,0.00043189997086301446,0,1,151
+Random Forest|None,23,6,150,1,True,True,0,0.0004361000028438866,0,1,151
+Random Forest|None,23,7,150,2,True,True,0,0.00041740003507584333,0,1,150
+Random Forest|None,23,8,150,1,True,True,0,0.0004275999963283539,0,1,149
+Random Forest|None,23,9,150,2,True,True,1,0.0004476999747566879,0,1,149
+Random Forest|None,23,10,150,4,True,True,1,0.00045140000293031335,1,1,149
+Random Forest|None,23,11,150,3,True,True,1,0.0005044999998062849,0,1,150
+Random Forest|None,23,12,150,3,True,True,0,0.00043730001198127866,0,1,151
+Random Forest|None,23,13,150,2,True,True,0,0.00045779999345541,0,1,149
+Random Forest|None,23,14,150,3,True,True,2,0.0004387000226415694,1,1,146
+Random Forest|0.6,2,0,60,2,True,True,0,0.00025240000104531646,0,1,60
+Random Forest|0.6,2,1,60,2,True,True,0,0.00017850002041086555,0,1,60
+Random Forest|0.6,2,2,60,1,True,True,0,0.00017409998690709472,0,1,60
+Random Forest|0.6,2,3,60,2,True,True,12,0.0002749999985098839,0,1,49
+Random Forest|0.6,2,4,60,2,True,True,16,0.0006098999874666333,0,1,47
+Random Forest|0.6,2,5,60,4,True,False,111,0.004299699969124049,51,3,13
+Random Forest|0.6,2,6,60,1,True,True,20,0.0004059000057168305,1,1,43
+Random Forest|0.6,2,7,60,4,True,True,1,0.00019400002202019095,1,1,61
+Random Forest|0.6,2,8,60,2,True,True,0,0.00019649998284876347,0,1,62
+Random Forest|0.6,2,9,60,4,True,False,1171,0.05499269999563694,44,3,29
+Random Forest|0.6,2,10,60,4,True,True,15,0.0003152000135742128,0,1,48
+Random Forest|0.6,2,11,60,1,True,True,0,0.00018750003073364496,0,1,63
+Random Forest|0.6,2,12,60,4,True,True,0,0.0001878999755717814,0,1,61
+Random Forest|0.6,2,13,60,3,True,True,0,0.00017950002802535892,0,1,61
+Random Forest|0.6,2,14,60,4,True,True,1,0.0002877999795600772,0,1,61
+Random Forest|0.6,8,0,60,2,True,True,2,0.0003535000141710043,1,1,58
+Random Forest|0.6,8,1,60,4,True,True,36,0.0009210999705828726,5,1,25
+Random Forest|0.6,8,2,60,2,True,True,0,0.0001802999759092927,0,1,60
+Random Forest|0.6,8,3,60,3,True,True,2,0.00020350003615021706,1,1,58
+Random Forest|0.6,8,4,60,4,True,True,21,0.0004067999543622136,6,1,39
+Random Forest|0.6,8,5,60,3,True,True,1,0.00019180000526830554,1,1,59
+Random Forest|0.6,8,6,60,3,True,False,34,0.000793200044427067,2,2,52
+Random Forest|0.6,8,7,60,4,True,True,1,0.00021570001263171434,0,1,61
+Random Forest|0.6,8,8,60,2,True,True,0,0.00020190002396702766,0,1,62
+Random Forest|0.6,8,9,60,4,True,False,1252,0.08426059997873381,54,3,6
+Random Forest|0.6,8,10,60,4,True,True,0,0.0002878000377677381,0,1,59
+Random Forest|0.6,8,11,60,1,True,True,11,0.00027050002245232463,1,1,48
+Random Forest|0.6,8,12,60,2,True,True,24,0.0004316999693401158,6,1,35
+Random Forest|0.6,8,13,60,1,True,True,0,0.0001694000093266368,0,1,59
+Random Forest|0.6,8,14,60,2,True,False,137,0.004397900018375367,13,3,38
+Random Forest|0.6,13,0,100,4,True,True,3,0.0003155000158585608,2,1,97
+Random Forest|0.6,13,1,100,1,True,True,0,0.0005873999907635152,0,1,100
+Random Forest|0.6,13,2,100,3,True,True,0,0.0003902000025846064,0,1,100
+Random Forest|0.6,13,3,100,2,True,True,2,0.000305800000205636,1,1,99
+Random Forest|0.6,13,4,100,1,True,True,1,0.00032079999800771475,0,1,101
+Random Forest|0.6,13,5,100,1,True,True,3,0.0003389000194147229,1,1,99
+Random Forest|0.6,13,6,100,1,True,True,2,0.00032480002846568823,1,1,100
+Random Forest|0.6,13,7,100,1,True,True,0,0.0003223000094294548,0,1,102
+Random Forest|0.6,13,8,100,2,True,False,34,0.0011655999696813524,5,2,98
+Random Forest|0.6,13,9,100,1,True,False,9,0.0006359000108204782,6,2,101
+Random Forest|0.6,13,10,100,4,True,False,40,0.0013221999979577959,3,2,96
+Random Forest|0.6,13,11,100,1,True,True,0,0.0003150000120513141,0,1,102
+Random Forest|0.6,13,12,100,1,True,True,0,0.0003157000173814595,0,1,101
+Random Forest|0.6,13,13,100,2,True,True,2,0.0003293000045232475,0,1,101
+Random Forest|0.6,13,14,100,3,True,True,0,0.0004151000175625086,0,1,103
+Random Forest|0.6,15,0,100,3,True,True,35,0.0008135000243782997,1,1,66
+Random Forest|0.6,15,1,100,4,True,False,18462,1.3784136999747716,88,6,17
+Random Forest|0.6,15,2,100,4,True,False,929,0.06466470001032576,65,3,55
+Random Forest|0.6,15,3,100,3,True,True,3,0.00030419998802244663,0,1,99
+Random Forest|0.6,15,4,100,1,True,True,0,0.0002875000354833901,0,1,102
+Random Forest|0.6,15,5,100,2,True,True,7,0.00035119999665766954,1,1,96
+Random Forest|0.6,15,6,100,3,True,True,0,0.0005175000405870378,0,1,101
+Random Forest|0.6,15,7,100,3,True,True,0,0.0003180000348947942,0,1,101
+Random Forest|0.6,15,8,100,4,True,True,0,0.0003312999615445733,0,1,100
+Random Forest|0.6,15,9,100,3,True,True,0,0.0005695999716408551,0,1,99
+Random Forest|0.6,15,10,100,3,True,True,1,0.0003635000321082771,0,1,99
+Random Forest|0.6,15,11,100,1,True,False,1566,0.13257310003973544,45,4,91
+Random Forest|0.6,15,12,100,2,True,True,32,0.0010334000107832253,4,1,69
+Random Forest|0.6,15,13,100,1,True,False,123,0.008160399971529841,5,4,95
+Random Forest|0.6,15,14,100,2,True,True,0,0.0003785000299103558,0,1,100
+Random Forest|0.6,22,0,150,2,True,True,0,0.0005531000206246972,0,1,150
+Random Forest|0.6,22,1,150,2,True,True,1,0.0006537000299431384,0,1,150
+Random Forest|0.6,22,2,150,2,True,False,117,0.009519599960185587,3,3,149
+Random Forest|0.6,22,3,150,2,True,True,84,0.0048596999840810895,4,1,67
+Random Forest|0.6,22,4,150,4,True,False,9663,1.4803505000309087,77,4,148
+Random Forest|0.6,22,5,150,3,True,False,17697,2.551889199996367,107,6,108
+Random Forest|0.6,22,6,150,4,True,True,0,0.0005246999789960682,0,1,150
+Random Forest|0.6,22,7,150,2,True,False,9176,1.2850652000051923,45,5,147
+Random Forest|0.6,22,8,150,4,True,True,3,0.0005595000111497939,0,1,148
+Random Forest|0.6,22,9,150,1,True,True,0,0.0005648999940603971,0,1,151
+Random Forest|0.6,22,10,150,4,True,False,163,0.017265499976929277,17,3,140
+Random Forest|0.6,22,11,150,3,True,False,1141,0.1540335000026971,42,4,135
+Random Forest|0.6,22,12,150,1,True,True,25,0.000881000014487654,0,1,127
+Random Forest|0.6,22,13,150,1,True,True,0,0.0005368000129237771,0,1,152
+Random Forest|0.6,22,14,150,2,True,True,2,0.0005556999822147191,0,1,151
+Random Forest|0.6,23,0,150,4,True,False,5196,0.819836699985899,58,4,133
+Random Forest|0.6,23,1,150,2,True,True,18,0.0007458999752998352,2,1,132
+Random Forest|0.6,23,2,150,3,True,True,1,0.0005587000050581992,1,1,149
+Random Forest|0.6,23,3,150,3,True,True,0,0.0006279000081121922,0,1,150
+Random Forest|0.6,23,4,150,2,True,True,1,0.0006198000046424568,0,1,150
+Random Forest|0.6,23,5,150,2,True,True,0,0.000567799957934767,0,1,151
+Random Forest|0.6,23,6,150,1,True,True,0,0.000568699964787811,0,1,151
+Random Forest|0.6,23,7,150,2,True,True,0,0.0006019999855197966,0,1,150
+Random Forest|0.6,23,8,150,1,True,True,0,0.0005953999934718013,0,1,149
+Random Forest|0.6,23,9,150,2,True,True,1,0.0006171000422909856,0,1,149
+Random Forest|0.6,23,10,150,4,True,True,1,0.0010175000061281025,1,1,149
+Random Forest|0.6,23,11,150,3,True,True,1,0.0007149999728426337,0,1,150
+Random Forest|0.6,23,12,150,3,True,True,0,0.0005796000477857888,0,1,151
+Random Forest|0.6,23,13,150,2,True,True,0,0.0006360000115819275,0,1,149
+Random Forest|0.6,23,14,150,3,True,True,2,0.0006243999814614654,1,1,146
+Random Forest|0.8,2,0,60,2,True,True,0,0.00024780002422630787,0,1,60
+Random Forest|0.8,2,1,60,2,True,True,0,0.00023639999562874436,0,1,60
+Random Forest|0.8,2,2,60,1,True,True,0,0.00022570003056898713,0,1,60
+Random Forest|0.8,2,3,60,2,True,True,28,0.0007238999824039638,0,1,33
+Random Forest|0.8,2,4,60,2,True,True,28,0.0007967999554239213,0,1,35
+Random Forest|0.8,2,5,60,4,True,True,101,0.00487599999178201,51,1,0
+Random Forest|0.8,2,6,60,1,True,True,30,0.0009022000012919307,1,1,33
+Random Forest|0.8,2,7,60,4,True,True,14,0.00041699997382238507,7,1,48
+Random Forest|0.8,2,8,60,2,True,True,0,0.00024809996830299497,0,1,62
+Random Forest|0.8,2,9,60,4,True,True,62,0.0026169000193476677,33,1,0
+Random Forest|0.8,2,10,60,4,True,True,251,0.016172399977222085,27,1,0
+Random Forest|0.8,2,11,60,1,True,True,0,0.00025050004478543997,0,1,63
+Random Forest|0.8,2,12,60,4,True,True,385,0.021707299980334938,24,1,0
+Random Forest|0.8,2,13,60,3,True,True,55,0.00216009997529909,2,1,6
+Random Forest|0.8,2,14,60,4,True,True,13,0.00041769997915253043,2,1,49
+Random Forest|0.8,8,0,60,2,True,True,7,0.00029420002829283476,2,1,53
+Random Forest|0.8,8,1,60,4,True,True,53,0.002525900024920702,6,1,8
+Random Forest|0.8,8,2,60,2,True,True,21,0.0005665000062435865,2,1,39
+Random Forest|0.8,8,3,60,3,True,True,25,0.0006893000099807978,8,1,35
+Random Forest|0.8,8,4,60,4,True,True,59,0.0023255000123754144,18,1,8
+Random Forest|0.8,8,5,60,3,True,True,34,0.0010698000551201403,2,1,26
+Random Forest|0.8,8,6,60,3,True,True,65,0.0022212000330910087,12,1,22
+Random Forest|0.8,8,7,60,4,True,True,36,0.0014563000295311213,0,1,26
+Random Forest|0.8,8,8,60,2,True,True,40,0.0013527999981306493,1,1,22
+Random Forest|0.8,8,9,60,4,True,True,252,0.024011400004383177,45,1,0
+Random Forest|0.8,8,10,60,4,True,True,59,0.0023533999919891357,1,1,0
+Random Forest|0.8,8,11,60,1,True,True,1,0.00024049996864050627,0,1,58
+Random Forest|0.8,8,12,60,2,True,True,55,0.00218079995829612,4,1,4
+Random Forest|0.8,8,13,60,1,True,True,0,0.0002400000230409205,0,1,59
+Random Forest|0.8,8,14,60,2,True,True,0,0.0003201999934390187,0,1,59
+Random Forest|0.8,13,0,100,4,True,True,12,0.0005075999652035534,2,1,88
+Random Forest|0.8,13,1,100,1,True,True,0,0.00037730002077296376,0,1,100
+Random Forest|0.8,13,2,100,3,True,True,0,0.0003765999572351575,0,1,100
+Random Forest|0.8,13,3,100,2,True,True,15,0.0007416000007651746,2,1,86
+Random Forest|0.8,13,4,100,1,True,True,2,0.00041009997949004173,0,1,100
+Random Forest|0.8,13,5,100,1,True,True,11,0.000505999953020364,1,1,91
+Random Forest|0.8,13,6,100,1,True,True,16,0.0005848000291734934,3,1,86
+Random Forest|0.8,13,7,100,1,True,True,0,0.0003885000478476286,0,1,102
+Random Forest|0.8,13,8,100,2,True,True,21,0.0007217000238597393,9,1,81
+Random Forest|0.8,13,9,100,1,True,True,0,0.00040259998058900237,0,1,102
+Random Forest|0.8,13,10,100,4,True,False,40,0.0017016000347211957,3,2,95
+Random Forest|0.8,13,11,100,1,True,True,0,0.00039250002009794116,0,1,102
+Random Forest|0.8,13,12,100,1,True,True,0,0.00038079998921602964,0,1,101
+Random Forest|0.8,13,13,100,2,True,True,13,0.0005322999786585569,0,1,90
+Random Forest|0.8,13,14,100,3,True,True,0,0.0006203000084497035,0,1,103
+Random Forest|0.8,15,0,100,3,True,False,11464,1.1567070000455715,4,6,0
+Random Forest|0.8,15,1,100,4,True,False,18179,1.7193113999674097,89,6,0
+Random Forest|0.8,15,2,100,4,True,False,966,0.09900789998937398,71,3,8
+Random Forest|0.8,15,3,100,3,True,False,10554,1.0349874999956228,82,6,93
+Random Forest|0.8,15,4,100,1,True,True,0,0.0003703999682329595,0,1,102
+Random Forest|0.8,15,5,100,2,True,False,18142,2.66509359999327,70,6,93
+Random Forest|0.8,15,6,100,3,True,True,0,0.0006234000320546329,0,1,101
+Random Forest|0.8,15,7,100,3,True,True,2,0.0006133000133559108,1,1,99
+Random Forest|0.8,15,8,100,4,True,True,0,0.000748499995097518,0,1,100
+Random Forest|0.8,15,9,100,3,True,True,0,0.0006148999673314393,0,1,99
+Random Forest|0.8,15,10,100,3,True,True,30,0.0014891999890096486,4,1,70
+Random Forest|0.8,15,11,100,1,True,False,179,0.01976599998306483,21,3,24
+Random Forest|0.8,15,12,100,2,True,True,15,0.0008455999777652323,1,1,86
+Random Forest|0.8,15,13,100,1,True,True,0,0.0006842999719083309,0,1,101
+Random Forest|0.8,15,14,100,2,True,True,0,0.0006294999620877206,0,1,100
+Random Forest|0.8,22,0,150,2,True,True,0,0.001151899981778115,0,1,150
+Random Forest|0.8,22,1,150,2,True,True,1,0.0007180999964475632,0,1,150
+Random Forest|0.8,22,2,150,2,True,False,121,0.011309900030028075,3,3,142
+Random Forest|0.8,22,3,150,2,True,True,204,0.023137800046242774,10,1,0
+Random Forest|0.8,22,4,150,4,True,False,9704,1.4314167000120506,77,4,50
+Random Forest|0.8,22,5,150,3,True,False,21142,2.962740399991162,108,6,34
+Random Forest|0.8,22,6,150,4,True,True,0,0.0005215000128373504,0,1,150
+Random Forest|0.8,22,7,150,2,True,False,9178,1.252521499991417,45,5,143
+Random Forest|0.8,22,8,150,4,True,True,38,0.0012286999844945967,0,1,113
+Random Forest|0.8,22,9,150,1,True,True,0,0.0005672000115737319,0,1,151
+Random Forest|0.8,22,10,150,4,True,False,174,0.015503800008445978,17,3,108
+Random Forest|0.8,22,11,150,3,True,False,1181,0.14965880004456267,42,4,121
+Random Forest|0.8,22,12,150,1,True,True,116,0.016114700003527105,0,1,36
+Random Forest|0.8,22,13,150,1,True,True,0,0.000661000027321279,0,1,152
+Random Forest|0.8,22,14,150,2,True,True,21,0.0007993999752216041,0,1,132
+Random Forest|0.8,23,0,150,4,True,False,5194,1.0183069999911822,58,4,65
+Random Forest|0.8,23,1,150,2,True,True,29,0.0019487999961711466,2,1,121
+Random Forest|0.8,23,2,150,3,True,True,2,0.0009969000238925219,1,1,148
+Random Forest|0.8,23,3,150,3,True,True,0,0.002910699986387044,0,1,150
+Random Forest|0.8,23,4,150,2,True,True,1,0.0010614999919198453,0,1,150
+Random Forest|0.8,23,5,150,2,True,True,0,0.0010187000152654946,0,1,151
+Random Forest|0.8,23,6,150,1,True,True,0,0.0009803000139072537,0,1,151
+Random Forest|0.8,23,7,150,2,True,True,0,0.0009204000234603882,0,1,150
+Random Forest|0.8,23,8,150,1,True,True,0,0.0009906000341288745,0,1,149
+Random Forest|0.8,23,9,150,2,True,True,1,0.0010008999961428344,0,1,149
+Random Forest|0.8,23,10,150,4,True,True,1,0.0008203000179491937,1,1,149
+Random Forest|0.8,23,11,150,3,True,True,1,0.0009637000039219856,0,1,150
+Random Forest|0.8,23,12,150,3,True,True,0,0.0008234999841079116,0,1,151
+Random Forest|0.8,23,13,150,2,True,True,0,0.0009632000001147389,0,1,149
+Random Forest|0.8,23,14,150,3,True,True,20,0.0014125000452622771,4,1,128
+Random Forest|0.9,2,0,60,2,True,True,0,0.0004103000392206013,0,1,60
+Random Forest|0.9,2,1,60,2,True,True,0,0.00038520002271980047,0,1,60
+Random Forest|0.9,2,2,60,1,True,True,0,0.00037299998803064227,0,1,60
+Random Forest|0.9,2,3,60,2,True,True,90,0.006580999994184822,0,1,0
+Random Forest|0.9,2,4,60,2,True,True,51,0.002751499996520579,0,1,12
+Random Forest|0.9,2,5,60,4,True,True,101,0.008189999964088202,51,1,0
+Random Forest|0.9,2,6,60,1,True,True,58,0.003831600013654679,1,1,5
+Random Forest|0.9,2,7,60,4,True,True,52,0.0032842999789863825,17,1,10
+Random Forest|0.9,2,8,60,2,True,True,0,0.0004217000096105039,0,1,62
+Random Forest|0.9,2,9,60,4,True,True,62,0.00407579995226115,26,1,0
+Random Forest|0.9,2,10,60,4,True,True,251,0.02172200003406033,27,1,0
+Random Forest|0.9,2,11,60,1,True,True,8,0.0005292000132612884,0,1,55
+Random Forest|0.9,2,12,60,4,True,True,385,0.03886359999887645,25,1,0
+Random Forest|0.9,2,13,60,3,True,True,61,0.0036968999775126576,2,1,0
+Random Forest|0.9,2,14,60,4,True,True,41,0.002208299993071705,2,1,21
+Random Forest|0.9,8,0,60,2,True,True,13,0.0006358999526128173,2,1,47
+Random Forest|0.9,8,1,60,4,True,True,61,0.004224400036036968,14,1,0
+Random Forest|0.9,8,2,60,2,True,True,55,0.003721299988683313,1,1,5
+Random Forest|0.9,8,3,60,3,True,True,45,0.002507600001990795,3,1,15
+Random Forest|0.9,8,4,60,4,True,True,60,0.004141300043556839,28,1,0
+Random Forest|0.9,8,5,60,3,True,True,60,0.0034002999891526997,43,1,0
+Random Forest|0.9,8,6,60,3,True,True,59,0.004062000021804124,8,1,2
+Random Forest|0.9,8,7,60,4,True,True,52,0.004216699977405369,0,1,10
+Random Forest|0.9,8,8,60,2,True,True,52,0.0035652999649755657,24,1,10
+Random Forest|0.9,8,9,60,4,True,True,390,0.035753500007558614,40,1,0
+Random Forest|0.9,8,10,60,4,True,True,59,0.0037474000127986073,1,1,0
+Random Forest|0.9,8,11,60,1,True,True,32,0.0012334000202827156,0,1,27
+Random Forest|0.9,8,12,60,2,True,True,18,0.0006955999997444451,0,1,41
+Random Forest|0.9,8,13,60,1,True,True,15,0.0006486999918706715,0,1,44
+Random Forest|0.9,8,14,60,2,True,True,8,0.0004191999905742705,0,1,51
+Random Forest|0.9,13,0,100,4,True,True,46,0.002737900009378791,13,1,54
+Random Forest|0.9,13,1,100,1,True,True,0,0.00078219996066764,0,1,100
+Random Forest|0.9,13,2,100,3,True,True,0,0.0005023000412620604,0,1,100
+Random Forest|0.9,13,3,100,2,True,True,70,0.005337200011126697,2,1,31
+Random Forest|0.9,13,4,100,1,True,True,7,0.0008063000277616084,0,1,95
+Random Forest|0.9,13,5,100,1,True,True,0,0.0007215000223368406,0,1,102
+Random Forest|0.9,13,6,100,1,True,True,34,0.001846599974669516,3,1,68
+Random Forest|0.9,13,7,100,1,True,True,0,0.0006861999863758683,0,1,102
+Random Forest|0.9,13,8,100,2,True,True,55,0.0037508999812416732,8,1,47
+Random Forest|0.9,13,9,100,1,True,True,0,0.0005467000300996006,0,1,102
+Random Forest|0.9,13,10,100,4,True,True,19,0.0010898999753408134,1,1,83
+Random Forest|0.9,13,11,100,1,True,True,0,0.000651800015475601,0,1,102
+Random Forest|0.9,13,12,100,1,True,True,0,0.0007318000425584614,0,1,101
+Random Forest|0.9,13,13,100,2,True,True,54,0.0036134999827481806,0,1,49
+Random Forest|0.9,13,14,100,3,True,True,47,0.0029304000199772418,2,1,56
+Random Forest|0.9,15,0,100,3,True,False,11464,1.2002995000220835,4,6,0
+Random Forest|0.9,15,1,100,4,True,False,18179,1.7616341999964789,89,6,0
+Random Forest|0.9,15,2,100,4,True,True,121,0.007561000005807728,71,1,0
+Random Forest|0.9,15,3,100,3,True,False,10661,1.0235837000072934,82,6,44
+Random Forest|0.9,15,4,100,1,True,True,0,0.0003577999887056649,0,1,102
+Random Forest|0.9,15,5,100,2,True,False,18141,1.8633082999731414,70,6,67
+Random Forest|0.9,15,6,100,3,True,True,2,0.0006973000126890838,0,1,99
+Random Forest|0.9,15,7,100,3,True,True,27,0.0009714000043459237,2,1,74
+Random Forest|0.9,15,8,100,4,True,True,0,0.0006822000141255558,0,1,100
+Random Forest|0.9,15,9,100,3,True,True,0,0.00045489997137337923,0,1,99
+Random Forest|0.9,15,10,100,3,True,True,48,0.002111900015734136,3,1,52
+Random Forest|0.9,15,11,100,1,True,True,331,0.032509999989997596,23,1,0
+Random Forest|0.9,15,12,100,2,True,True,63,0.002896999998483807,1,1,38
+Random Forest|0.9,15,13,100,1,True,True,3,0.00044649996561929584,0,1,98
+Random Forest|0.9,15,14,100,2,True,True,73,0.0036441999836824834,0,1,27
+Random Forest|0.9,22,0,150,2,True,True,0,0.001501500024460256,0,1,150
+Random Forest|0.9,22,1,150,2,True,True,1,0.0008490000036545098,0,1,150
+Random Forest|0.9,22,2,150,2,True,False,123,0.012794699985533953,3,3,133
+Random Forest|0.9,22,3,150,2,True,True,204,0.02580800000578165,10,1,0
+Random Forest|0.9,22,4,150,4,True,True,4648,1.0538315000012517,77,1,0
+Random Forest|0.9,22,5,150,3,True,False,16103,3.4325285000377335,108,6,0
+Random Forest|0.9,22,6,150,4,True,True,13,0.0009689999860711396,0,1,137
+Random Forest|0.9,22,7,150,2,True,False,9177,1.8307634000084363,45,5,127
+Random Forest|0.9,22,8,150,4,True,True,99,0.009348200052045286,0,1,52
+Random Forest|0.9,22,9,150,1,True,True,0,0.0007779999868944287,0,1,151
+Random Forest|0.9,22,10,150,4,True,False,1635,0.3067289000027813,60,3,44
+Random Forest|0.9,22,11,150,3,True,False,44697,9.646386399981566,124,6,103
+Random Forest|0.9,22,12,150,1,True,False,75200,10.21097529999679,110,6,0
+Random Forest|0.9,22,13,150,1,True,False,13673,1.9321315999841318,86,6,89
+Random Forest|0.9,22,14,150,2,True,True,1063,0.1564912999747321,14,1,0
+Random Forest|0.9,23,0,150,4,True,True,188,0.017843800014816225,58,1,0
+Random Forest|0.9,23,1,150,2,True,True,144,0.011717499990481883,2,1,6
+Random Forest|0.9,23,2,150,3,True,True,8,0.0005938999820500612,4,1,142
+Random Forest|0.9,23,3,150,3,True,True,0,0.0004928000271320343,0,1,150
+Random Forest|0.9,23,4,150,2,True,True,1,0.0004907000111415982,0,1,150
+Random Forest|0.9,23,5,150,2,True,True,0,0.0004683000151999295,0,1,151
+Random Forest|0.9,23,6,150,1,True,True,0,0.0004851999692618847,0,1,151
+Random Forest|0.9,23,7,150,2,True,True,0,0.00047910003922879696,0,1,150
+Random Forest|0.9,23,8,150,1,True,True,0,0.00045280001359060407,0,1,149
+Random Forest|0.9,23,9,150,2,True,True,1,0.00047889997949823737,0,1,149
+Random Forest|0.9,23,10,150,4,True,True,6,0.0004900000058114529,2,1,144
+Random Forest|0.9,23,11,150,3,True,True,1,0.00047289999201893806,0,1,150
+Random Forest|0.9,23,12,150,3,True,True,0,0.000471399980597198,0,1,151
+Random Forest|0.9,23,13,150,2,True,True,0,0.0004808000521734357,0,1,149
+Random Forest|0.9,23,14,150,3,True,True,79,0.0035391999990679324,2,1,69
+XGBoost|None,2,0,60,2,True,True,0,0.0002068999456241727,0,1,60
+XGBoost|None,2,1,60,2,True,True,0,0.00022500002523884177,0,1,60
+XGBoost|None,2,2,60,1,True,True,0,0.00017279997700825334,0,1,60
+XGBoost|None,2,3,60,2,True,True,10,0.0002561000292189419,0,1,51
+XGBoost|None,2,4,60,2,True,True,16,0.0003895999980159104,0,1,47
+XGBoost|None,2,5,60,4,True,False,114,0.00483439996605739,51,3,9
+XGBoost|None,2,6,60,1,True,True,16,0.00032649998320266604,1,1,47
+XGBoost|None,2,7,60,4,True,True,1,0.00021269998978823423,1,1,61
+XGBoost|None,2,8,60,2,True,True,0,0.00020159996347501874,0,1,62
+XGBoost|None,2,9,60,4,True,False,1218,0.07160150003619492,44,3,21
+XGBoost|None,2,10,60,4,True,True,20,0.00044949998846277595,0,1,43
+XGBoost|None,2,11,60,1,True,True,0,0.00020459998631849885,0,1,63
+XGBoost|None,2,12,60,4,True,True,0,0.00034060003235936165,0,1,61
+XGBoost|None,2,13,60,3,True,True,0,0.00034989998675882816,0,1,61
+XGBoost|None,2,14,60,4,True,True,1,0.00037889997474849224,0,1,61
+XGBoost|None,8,0,60,2,True,True,2,0.00025699997786432505,1,1,58
+XGBoost|None,8,1,60,4,True,True,36,0.0009948000079020858,6,1,25
+XGBoost|None,8,2,60,2,True,True,0,0.00023800000781193376,0,1,60
+XGBoost|None,8,3,60,3,True,True,2,0.0002638999721966684,1,1,58
+XGBoost|None,8,4,60,4,True,True,42,0.0012413000222295523,11,1,18
+XGBoost|None,8,5,60,3,True,True,1,0.00026840000646188855,1,1,59
+XGBoost|None,8,6,60,3,True,True,1,0.00023930001771077514,0,1,60
+XGBoost|None,8,7,60,4,True,True,1,0.0002609000075608492,0,1,61
+XGBoost|None,8,8,60,2,True,True,0,0.0002266999799758196,0,1,62
+XGBoost|None,8,9,60,4,True,False,1493,0.08584309997968376,52,3,5
+XGBoost|None,8,10,60,4,True,False,60,0.0024567999644204974,2,2,57
+XGBoost|None,8,11,60,1,True,True,30,0.0007130000158213079,3,1,29
+XGBoost|None,8,12,60,2,True,True,0,0.00024909997591748834,0,1,59
+XGBoost|None,8,13,60,1,True,True,0,0.0002038999809883535,0,1,59
+XGBoost|None,8,14,60,2,True,True,0,0.00027650000993162394,0,1,59
+XGBoost|None,13,0,100,4,True,True,32,0.002418499963823706,9,1,68
+XGBoost|None,13,1,100,1,True,True,0,0.0005762999644502997,0,1,100
+XGBoost|None,13,2,100,3,True,True,0,0.000494500040076673,0,1,100
+XGBoost|None,13,3,100,2,True,True,13,0.0007408999954350293,3,1,88
+XGBoost|None,13,4,100,1,True,True,1,0.0006737999501638114,0,1,101
+XGBoost|None,13,5,100,1,True,True,15,0.001428399991709739,4,1,87
+XGBoost|None,13,6,100,1,True,True,6,0.0007273000082932413,1,1,96
+XGBoost|None,13,7,100,1,True,True,0,0.0006153000285848975,0,1,102
+XGBoost|None,13,8,100,2,True,False,112,0.011665900005027652,24,3,85
+XGBoost|None,13,9,100,1,True,True,0,0.0006335999933071434,0,1,102
+XGBoost|None,13,10,100,4,True,True,0,0.0006320999818854034,0,1,102
+XGBoost|None,13,11,100,1,True,True,0,0.0006629999843426049,0,1,102
+XGBoost|None,13,12,100,1,True,True,0,0.0006224000244401395,0,1,101
+XGBoost|None,13,13,100,2,True,False,18,0.001628900005016476,2,2,101
+XGBoost|None,13,14,100,3,True,True,0,0.0006322000408545136,0,1,103
+XGBoost|None,15,0,100,3,True,True,90,0.007228299975395203,1,1,13
+XGBoost|None,15,1,100,4,True,False,18179,2.668438500026241,88,6,0
+XGBoost|None,15,2,100,4,True,False,138,0.015442899952176958,71,3,27
+XGBoost|None,15,3,100,3,True,False,10550,1.5052071000100113,82,6,101
+XGBoost|None,15,4,100,1,True,True,0,0.0005298000178299844,0,1,102
+XGBoost|None,15,5,100,2,True,False,18138,2.8061305000446737,70,6,102
+XGBoost|None,15,6,100,3,True,True,0,0.0005458000232465565,0,1,101
+XGBoost|None,15,7,100,3,True,True,30,0.0015413000364787877,2,1,71
+XGBoost|None,15,8,100,4,True,True,0,0.0006130999536253512,0,1,100
+XGBoost|None,15,9,100,3,True,True,0,0.0005742000066675246,0,1,99
+XGBoost|None,15,10,100,3,True,True,27,0.001178200007416308,3,1,73
+XGBoost|None,15,11,100,1,True,False,1682,0.2185749000054784,33,4,76
+XGBoost|None,15,12,100,2,True,True,2,0.0006318999803625047,0,1,99
+XGBoost|None,15,13,100,1,True,True,0,0.0005821000086143613,0,1,101
+XGBoost|None,15,14,100,2,True,True,0,0.0005719000473618507,0,1,100
+XGBoost|None,22,0,150,2,True,True,0,0.0008767000399529934,0,1,150
+XGBoost|None,22,1,150,2,True,True,1,0.0010438000317662954,0,1,150
+XGBoost|None,22,2,150,2,True,False,117,0.013649499975144863,3,3,150
+XGBoost|None,22,3,150,2,True,True,162,0.022783599968533963,4,1,4
+XGBoost|None,22,4,150,4,True,False,9663,2.0252393999835476,77,4,148
+XGBoost|None,22,5,150,3,True,False,17703,3.6313706999644637,107,6,100
+XGBoost|None,22,6,150,4,True,True,0,0.0008618999854661524,0,1,150
+XGBoost|None,22,7,150,2,True,False,9175,1.2785473000258207,45,5,149
+XGBoost|None,22,8,150,4,True,True,2,0.0007831000257283449,0,1,149
+XGBoost|None,22,9,150,1,True,True,0,0.0007518000202253461,0,1,151
+XGBoost|None,22,10,150,4,True,False,159,0.013832399970851839,17,3,143
+XGBoost|None,22,11,150,3,True,False,1139,0.14409150002757087,42,4,135
+XGBoost|None,22,12,150,1,True,True,44,0.001045399985741824,0,1,108
+XGBoost|None,22,13,150,1,True,True,0,0.0007655000081285834,0,1,152
+XGBoost|None,22,14,150,2,True,True,1,0.0007774000405333936,0,1,152
+XGBoost|None,23,0,150,4,True,False,5201,0.6919439999619499,58,4,93
+XGBoost|None,23,1,150,2,True,True,18,0.000561299966648221,2,1,132
+XGBoost|None,23,2,150,3,True,True,1,0.0004346999921835959,1,1,149
+XGBoost|None,23,3,150,3,True,True,0,0.0007202000124379992,0,1,150
+XGBoost|None,23,4,150,2,True,True,1,0.0007174999918788671,0,1,150
+XGBoost|None,23,5,150,2,True,True,0,0.0008283000206574798,0,1,151
+XGBoost|None,23,6,150,1,True,True,0,0.0007446000236086547,0,1,151
+XGBoost|None,23,7,150,2,True,True,0,0.0005908999592065811,0,1,150
+XGBoost|None,23,8,150,1,True,True,0,0.0007366000209003687,0,1,149
+XGBoost|None,23,9,150,2,True,True,1,0.0007291000219993293,0,1,149
+XGBoost|None,23,10,150,4,True,True,1,0.0007499000057578087,1,1,149
+XGBoost|None,23,11,150,3,True,True,1,0.0007095999899320304,0,1,150
+XGBoost|None,23,12,150,3,True,True,0,0.0007695000385865569,0,1,151
+XGBoost|None,23,13,150,2,True,True,0,0.000709500047378242,0,1,149
+XGBoost|None,23,14,150,3,True,True,21,0.0009196999599225819,2,1,127
+XGBoost|0.6,2,0,60,2,True,True,0,0.0003997000167146325,0,1,60
+XGBoost|0.6,2,1,60,2,True,True,0,0.0002107000327669084,0,1,60
+XGBoost|0.6,2,2,60,1,True,True,0,0.00017989997286349535,0,1,60
+XGBoost|0.6,2,3,60,2,True,True,19,0.000403400044888258,0,1,42
+XGBoost|0.6,2,4,60,2,True,True,18,0.0003782999701797962,0,1,45
+XGBoost|0.6,2,5,60,4,True,True,412,0.02255900000454858,31,1,3
+XGBoost|0.6,2,6,60,1,True,True,0,0.0003391000209376216,0,1,63
+XGBoost|0.6,2,7,60,4,True,True,0,0.00031569995917379856,0,1,62
+XGBoost|0.6,2,8,60,2,True,True,0,0.0003203999949619174,0,1,62
+XGBoost|0.6,2,9,60,4,True,False,282,0.021900799998547882,44,4,38
+XGBoost|0.6,2,10,60,4,True,False,222,0.014388100011274219,19,3,18
+XGBoost|0.6,2,11,60,1,True,True,0,0.0002762000076472759,0,1,63
+XGBoost|0.6,2,12,60,4,True,True,0,0.0003182999789714813,0,1,61
+XGBoost|0.6,2,13,60,3,True,True,58,0.0017396999755874276,2,1,3
+XGBoost|0.6,2,14,60,4,True,True,39,0.0009713000035844743,2,1,23
+XGBoost|0.6,8,0,60,2,True,True,2,0.00043780001578852534,1,1,58
+XGBoost|0.6,8,1,60,4,True,True,37,0.0018275000038556755,5,1,24
+XGBoost|0.6,8,2,60,2,True,True,0,0.00039279996417462826,0,1,60
+XGBoost|0.6,8,3,60,3,True,True,2,0.0004042000509798527,1,1,58
+XGBoost|0.6,8,4,60,4,True,True,42,0.002185799996368587,11,1,18
+XGBoost|0.6,8,5,60,3,True,True,1,0.0005229000234976411,1,1,59
+XGBoost|0.6,8,6,60,3,True,False,29,0.0016261999844573438,1,2,59
+XGBoost|0.6,8,7,60,4,True,True,1,0.0004444999503903091,0,1,61
+XGBoost|0.6,8,8,60,2,True,True,0,0.00041530001908540726,0,1,62
+XGBoost|0.6,8,9,60,4,True,True,734,0.06833440001355484,48,1,3
+XGBoost|0.6,8,10,60,4,True,True,0,0.0003725999849848449,0,1,59
+XGBoost|0.6,8,11,60,1,True,True,0,0.00038540002424269915,0,1,59
+XGBoost|0.6,8,12,60,2,True,False,472,0.03836479998426512,18,3,28
+XGBoost|0.6,8,13,60,1,True,True,0,0.0003485999768599868,0,1,59
+XGBoost|0.6,8,14,60,2,True,True,0,0.0003369000041857362,0,1,59
+XGBoost|0.6,13,0,100,4,True,True,37,0.0019848999800160527,5,1,63
+XGBoost|0.6,13,1,100,1,True,True,0,0.0006312999757938087,0,1,100
+XGBoost|0.6,13,2,100,3,True,True,0,0.0005942000425420702,0,1,100
+XGBoost|0.6,13,3,100,2,True,True,16,0.0009187000105157495,4,1,85
+XGBoost|0.6,13,4,100,1,True,True,2,0.0006681000231765211,0,1,100
+XGBoost|0.6,13,5,100,1,True,True,15,0.0009323999984189868,8,1,87
+XGBoost|0.6,13,6,100,1,True,True,0,0.0006212999578565359,0,1,102
+XGBoost|0.6,13,7,100,1,True,True,0,0.0005791999865323305,0,1,102
+XGBoost|0.6,13,8,100,2,True,True,32,0.0016434999997727573,8,1,70
+XGBoost|0.6,13,9,100,1,True,True,0,0.0005895000067539513,0,1,102
+XGBoost|0.6,13,10,100,4,True,True,0,0.0006332999910227954,0,1,102
+XGBoost|0.6,13,11,100,1,True,True,0,0.0007152000325731933,0,1,102
+XGBoost|0.6,13,12,100,1,True,True,0,0.0006857000407762825,0,1,101
+XGBoost|0.6,13,13,100,2,True,True,2,0.0006590000120922923,0,1,101
+XGBoost|0.6,13,14,100,3,True,True,0,0.0006771000334993005,0,1,103
+XGBoost|0.6,15,0,100,3,True,False,16465,2.403178000007756,4,6,1
+XGBoost|0.6,15,1,100,4,True,True,258,0.026714300038293004,40,1,2
+XGBoost|0.6,15,2,100,4,True,True,96,0.009180599998217076,1,1,5
+XGBoost|0.6,15,3,100,3,True,True,1,0.0006000999710522592,0,1,101
+XGBoost|0.6,15,4,100,1,True,True,0,0.0005737000028602779,0,1,102
+XGBoost|0.6,15,5,100,2,True,False,23125,3.5886209000018425,88,6,10
+XGBoost|0.6,15,6,100,3,True,True,0,0.000609799986705184,0,1,101
+XGBoost|0.6,15,7,100,3,True,True,31,0.0016233999631367624,2,1,70
+XGBoost|0.6,15,8,100,4,True,True,0,0.0006405999884009361,0,1,100
+XGBoost|0.6,15,9,100,3,True,True,0,0.000577600032556802,0,1,99
+XGBoost|0.6,15,10,100,3,True,True,30,0.00207880005473271,3,1,70
+XGBoost|0.6,15,11,100,1,True,False,2819,0.3499384999740869,71,4,47
+XGBoost|0.6,15,12,100,2,True,True,3,0.0006310000317171216,0,1,98
+XGBoost|0.6,15,13,100,1,True,True,0,0.0006113999988883734,0,1,101
+XGBoost|0.6,15,14,100,2,True,True,171,0.01974369998788461,32,1,5
+XGBoost|0.6,22,0,150,2,True,True,0,0.0009513000259175897,0,1,150
+XGBoost|0.6,22,1,150,2,True,True,1,0.0009217000333592296,0,1,150
+XGBoost|0.6,22,2,150,2,True,False,117,0.013603100029285997,3,3,150
+XGBoost|0.6,22,3,150,2,True,True,159,0.022174700046889484,4,1,1
+XGBoost|0.6,22,4,150,4,True,False,9663,1.9868701999657787,77,4,148
+XGBoost|0.6,22,5,150,3,True,False,17742,3.3827372000087053,107,6,91
+XGBoost|0.6,22,6,150,4,True,True,0,0.0005158999701961875,0,1,150
+XGBoost|0.6,22,7,150,2,True,False,9175,1.1003397000022233,45,5,149
+XGBoost|0.6,22,8,150,4,True,True,2,0.00042310002027079463,0,1,149
+XGBoost|0.6,22,9,150,1,True,True,0,0.0006138000171631575,0,1,151
+XGBoost|0.6,22,10,150,4,True,False,161,0.01115350000327453,17,3,139
+XGBoost|0.6,22,11,150,3,True,False,1139,0.16359360003843904,42,4,130
+XGBoost|0.6,22,12,150,1,True,True,76,0.0024651000276207924,0,1,76
+XGBoost|0.6,22,13,150,1,True,True,0,0.00042539997957646847,0,1,152
+XGBoost|0.6,22,14,150,2,True,True,1,0.000526099989656359,0,1,152
+XGBoost|0.6,23,0,150,4,True,False,5200,0.7331630000262521,58,4,73
+XGBoost|0.6,23,1,150,2,True,False,32,0.001942100003361702,2,2,128
+XGBoost|0.6,23,2,150,3,True,True,1,0.000811200006864965,1,1,149
+XGBoost|0.6,23,3,150,3,True,True,0,0.0007359000155702233,0,1,150
+XGBoost|0.6,23,4,150,2,True,True,1,0.000749099999666214,0,1,150
+XGBoost|0.6,23,5,150,2,True,True,0,0.0007263000006787479,0,1,151
+XGBoost|0.6,23,6,150,1,True,True,0,0.0007931000436656177,0,1,151
+XGBoost|0.6,23,7,150,2,True,True,0,0.0007588000153191388,0,1,150
+XGBoost|0.6,23,8,150,1,True,True,0,0.0007060000207275152,0,1,149
+XGBoost|0.6,23,9,150,2,True,True,1,0.0004209000035189092,0,1,149
+XGBoost|0.6,23,10,150,4,True,True,1,0.00041849998524412513,1,1,149
+XGBoost|0.6,23,11,150,3,True,True,1,0.0004268999909982085,0,1,150
+XGBoost|0.6,23,12,150,3,True,True,0,0.0007819000165909529,0,1,151
+XGBoost|0.6,23,13,150,2,True,True,0,0.0007212000200524926,0,1,149
+XGBoost|0.6,23,14,150,3,True,True,38,0.001996200007852167,2,1,110
+XGBoost|0.8,2,0,60,2,True,True,0,0.00041850004345178604,0,1,60
+XGBoost|0.8,2,1,60,2,True,True,0,0.0005078999674879014,0,1,60
+XGBoost|0.8,2,2,60,1,True,True,0,0.000367900007404387,0,1,60
+XGBoost|0.8,2,3,60,2,True,True,22,0.0008927999879233539,0,1,39
+XGBoost|0.8,2,4,60,2,True,True,26,0.0009536999859847128,0,1,37
+XGBoost|0.8,2,5,60,4,True,True,101,0.00807470001745969,51,1,0
+XGBoost|0.8,2,6,60,1,True,True,25,0.0010439000325277448,1,1,38
+XGBoost|0.8,2,7,60,4,True,True,11,0.0005698999739252031,2,1,51
+XGBoost|0.8,2,8,60,2,True,True,0,0.00046009995276108384,0,1,62
+XGBoost|0.8,2,9,60,4,True,True,69,0.004619100014679134,31,1,0
+XGBoost|0.8,2,10,60,4,True,True,87,0.006363699969369918,36,1,2
+XGBoost|0.8,2,11,60,1,True,True,0,0.0003816999960690737,0,1,63
+XGBoost|0.8,2,12,60,4,True,True,0,0.0003299000090919435,0,1,61
+XGBoost|0.8,2,13,60,3,True,False,129,0.010074700054246932,19,3,5
+XGBoost|0.8,2,14,60,4,True,True,3,0.000438000017311424,0,1,59
+XGBoost|0.8,8,0,60,2,True,True,2,0.00039080000715330243,1,1,58
+XGBoost|0.8,8,1,60,4,True,True,51,0.002974200004246086,6,1,10
+XGBoost|0.8,8,2,60,2,True,True,0,0.0003570999833755195,0,1,60
+XGBoost|0.8,8,3,60,3,True,True,3,0.0003738999948836863,1,1,57
+XGBoost|0.8,8,4,60,4,True,True,57,0.00358700001379475,26,1,3
+XGBoost|0.8,8,5,60,3,True,True,0,0.0004966999986208975,0,1,60
+XGBoost|0.8,8,6,60,3,True,False,70,0.005337300011888146,16,3,31
+XGBoost|0.8,8,7,60,4,True,True,1,0.00044929998693987727,0,1,61
+XGBoost|0.8,8,8,60,2,True,True,15,0.0006639999919570982,2,1,47
+XGBoost|0.8,8,9,60,4,True,True,314,0.028287200024351478,46,1,0
+XGBoost|0.8,8,10,60,4,True,True,0,0.00036210002144798636,0,1,59
+XGBoost|0.8,8,11,60,1,True,True,86,0.004972600028850138,15,1,4
+XGBoost|0.8,8,12,60,2,True,True,0,0.0003079000161960721,0,1,59
+XGBoost|0.8,8,13,60,1,True,True,0,0.00036940001882612705,0,1,59
+XGBoost|0.8,8,14,60,2,True,True,0,0.0003493999829515815,0,1,59
+XGBoost|0.8,13,0,100,4,True,True,88,0.008063399989623576,21,1,12
+XGBoost|0.8,13,1,100,1,True,True,0,0.0005719999899156392,0,1,100
+XGBoost|0.8,13,2,100,3,True,True,0,0.00063699996098876,0,1,100
+XGBoost|0.8,13,3,100,2,True,True,1,0.0005781000363640487,0,1,100
+XGBoost|0.8,13,4,100,1,True,True,8,0.000737300026230514,0,1,94
+XGBoost|0.8,13,5,100,1,True,True,21,0.001030400046147406,6,1,81
+XGBoost|0.8,13,6,100,1,True,True,16,0.0009406000026501715,1,1,86
+XGBoost|0.8,13,7,100,1,True,True,0,0.0006599000189453363,0,1,102
+XGBoost|0.8,13,8,100,2,True,True,36,0.0019486999954096973,4,1,66
+XGBoost|0.8,13,9,100,1,True,True,0,0.0006194000015966594,0,1,102
+XGBoost|0.8,13,10,100,4,True,True,0,0.0006963000050745904,0,1,102
+XGBoost|0.8,13,11,100,1,True,True,0,0.0006227000267244875,0,1,102
+XGBoost|0.8,13,12,100,1,True,True,0,0.0006441000150516629,0,1,101
+XGBoost|0.8,13,13,100,2,True,True,2,0.0006694999756291509,0,1,101
+XGBoost|0.8,13,14,100,3,True,True,0,0.0005954999942332506,0,1,103
+XGBoost|0.8,15,0,100,3,True,False,11464,1.690062100009527,4,6,0
+XGBoost|0.8,15,1,100,4,True,False,18179,2.6287301999982446,89,6,0
+XGBoost|0.8,15,2,100,4,True,True,121,0.012204800033941865,71,1,0
+XGBoost|0.8,15,3,100,3,True,False,10550,1.492784700007178,82,6,99
+XGBoost|0.8,15,4,100,1,True,True,0,0.0005981000140309334,0,1,102
+XGBoost|0.8,15,5,100,2,True,False,18139,2.7551647999789566,70,6,98
+XGBoost|0.8,15,6,100,3,True,True,0,0.0005799999926239252,0,1,101
+XGBoost|0.8,15,7,100,3,True,True,37,0.002061299979686737,2,1,64
+XGBoost|0.8,15,8,100,4,True,True,0,0.000700299977324903,0,1,100
+XGBoost|0.8,15,9,100,3,True,True,0,0.0005278000026009977,0,1,99
+XGBoost|0.8,15,10,100,3,True,True,51,0.0029671999509446323,3,1,49
+XGBoost|0.8,15,11,100,1,True,True,117,0.011923599988222122,33,1,6
+XGBoost|0.8,15,12,100,2,True,False,116,0.010576499975286424,13,3,84
+XGBoost|0.8,15,13,100,1,True,True,0,0.0006025000475347042,0,1,101
+XGBoost|0.8,15,14,100,2,True,True,0,0.0005648999940603971,0,1,100
+XGBoost|0.8,22,0,150,2,True,True,0,0.0008944000001065433,0,1,150
+XGBoost|0.8,22,1,150,2,True,True,1,0.0009120000177063048,0,1,150
+XGBoost|0.8,22,2,150,2,True,False,117,0.01297450001584366,3,3,149
+XGBoost|0.8,22,3,150,2,True,True,204,0.028512499993667006,10,1,0
+XGBoost|0.8,22,4,150,4,True,False,9683,2.002323199994862,77,4,148
+XGBoost|0.8,22,5,150,3,True,False,21129,2.816044499981217,108,6,66
+XGBoost|0.8,22,6,150,4,True,True,0,0.00073490000795573,0,1,150
+XGBoost|0.8,22,7,150,2,True,False,9177,1.1228040999849327,45,5,143
+XGBoost|0.8,22,8,150,4,True,True,11,0.0008133999654091895,0,1,140
+XGBoost|0.8,22,9,150,1,True,True,0,0.0007173000485636294,0,1,151
+XGBoost|0.8,22,10,150,4,True,False,168,0.017531200021039695,17,3,111
+XGBoost|0.8,22,11,150,3,True,False,1141,0.14954129996476695,42,4,120
+XGBoost|0.8,22,12,150,1,True,True,139,0.009326100000180304,16,1,13
+XGBoost|0.8,22,13,150,1,True,True,0,0.0004650999908335507,0,1,152
+XGBoost|0.8,22,14,150,2,True,True,1,0.0005251999828033149,0,1,152
+XGBoost|0.8,23,0,150,4,True,False,5195,0.6885361000313424,58,4,65
+XGBoost|0.8,23,1,150,2,True,True,34,0.0008901000255718827,2,1,116
+XGBoost|0.8,23,2,150,3,True,True,1,0.0004472000291571021,1,1,149
+XGBoost|0.8,23,3,150,3,True,True,0,0.0005718999891541898,0,1,150
+XGBoost|0.8,23,4,150,2,True,True,1,0.0006161000346764922,0,1,150
+XGBoost|0.8,23,5,150,2,True,True,0,0.0005791999865323305,0,1,151
+XGBoost|0.8,23,6,150,1,True,True,0,0.0005775000317953527,0,1,151
+XGBoost|0.8,23,7,150,2,True,True,0,0.000596199999563396,0,1,150
+XGBoost|0.8,23,8,150,1,True,True,0,0.0005666999495588243,0,1,149
+XGBoost|0.8,23,9,150,2,True,True,1,0.0007588000153191388,0,1,149
+XGBoost|0.8,23,10,150,4,True,True,1,0.0007075000321492553,1,1,149
+XGBoost|0.8,23,11,150,3,True,True,1,0.000741700001526624,0,1,150
+XGBoost|0.8,23,12,150,3,True,True,0,0.0007308999774977565,0,1,151
+XGBoost|0.8,23,13,150,2,True,True,0,0.0008078999817371368,0,1,149
+XGBoost|0.8,23,14,150,3,True,True,58,0.0025432000402361155,3,1,90
+XGBoost|0.9,2,0,60,2,True,True,0,0.00020050001330673695,0,1,60
+XGBoost|0.9,2,1,60,2,True,True,0,0.00018379994435235858,0,1,60
+XGBoost|0.9,2,2,60,1,True,True,0,0.00016609998419880867,0,1,60
+XGBoost|0.9,2,3,60,2,True,True,26,0.0005803999956697226,0,1,35
+XGBoost|0.9,2,4,60,2,True,True,61,0.002196200017351657,0,1,2
+XGBoost|0.9,2,5,60,4,True,True,101,0.0039431999903172255,51,1,0
+XGBoost|0.9,2,6,60,1,True,True,37,0.0008484999998472631,1,1,26
+XGBoost|0.9,2,7,60,4,True,True,24,0.0005589000065810978,2,1,38
+XGBoost|0.9,2,8,60,2,True,True,0,0.00018849998014047742,0,1,62
+XGBoost|0.9,2,9,60,4,True,True,69,0.002371500013396144,31,1,0
+XGBoost|0.9,2,10,60,4,True,True,198,0.00828080001519993,30,1,0
+XGBoost|0.9,2,11,60,1,True,True,0,0.0002712999703362584,0,1,63
+XGBoost|0.9,2,12,60,4,True,True,0,0.00019180000526830554,0,1,61
+XGBoost|0.9,2,13,60,3,True,True,721,0.0347922999644652,2,1,1
+XGBoost|0.9,2,14,60,4,True,True,6,0.00037679995875805616,0,1,56
+XGBoost|0.9,8,0,60,2,True,True,2,0.00021319999359548092,1,1,58
+XGBoost|0.9,8,1,60,4,True,True,59,0.0033247999963350594,6,1,2
+XGBoost|0.9,8,2,60,2,True,True,0,0.00032869999995455146,0,1,60
+XGBoost|0.9,8,3,60,3,True,True,18,0.0005877999938093126,1,1,42
+XGBoost|0.9,8,4,60,4,True,True,60,0.003276999981608242,13,1,0
+XGBoost|0.9,8,5,60,3,True,True,37,0.0014427000423893332,12,1,23
+XGBoost|0.9,8,6,60,3,True,True,34,0.0012643999652937055,3,1,27
+XGBoost|0.9,8,7,60,4,True,True,41,0.0010593999759294093,7,1,21
+XGBoost|0.9,8,8,60,2,True,True,29,0.0006883000023663044,4,1,33
+XGBoost|0.9,8,9,60,4,True,True,1380,0.09308089996920899,49,1,0
+XGBoost|0.9,8,10,60,4,True,True,26,0.0005152999656274915,2,1,33
+XGBoost|0.9,8,11,60,1,True,True,90,0.0026746000512503088,19,1,1
+XGBoost|0.9,8,12,60,2,True,True,0,0.0001748999929986894,0,1,59
+XGBoost|0.9,8,13,60,1,True,True,0,0.0002229000092484057,0,1,59
+XGBoost|0.9,8,14,60,2,True,True,0,0.0002891000476665795,0,1,59
+XGBoost|0.9,13,0,100,4,True,True,100,0.008861900016199797,37,1,0
+XGBoost|0.9,13,1,100,1,True,True,0,0.0003030999796465039,0,1,100
+XGBoost|0.9,13,2,100,3,True,True,65,0.0030581000028178096,2,1,35
+XGBoost|0.9,13,3,100,2,True,True,70,0.0034381000441499054,1,1,31
+XGBoost|0.9,13,4,100,1,True,True,13,0.0006804000004194677,2,1,89
+XGBoost|0.9,13,5,100,1,True,True,61,0.002166599966585636,1,1,41
+XGBoost|0.9,13,6,100,1,True,True,36,0.0009160000481642783,3,1,66
+XGBoost|0.9,13,7,100,1,True,True,7,0.0003677000058814883,1,1,95
+XGBoost|0.9,13,8,100,2,True,True,99,0.005943799973465502,21,1,3
+XGBoost|0.9,13,9,100,1,True,True,0,0.0003098000306636095,0,1,102
+XGBoost|0.9,13,10,100,4,True,True,20,0.0006895999540574849,1,1,82
+XGBoost|0.9,13,11,100,1,True,True,0,0.0004059000057168305,0,1,102
+XGBoost|0.9,13,12,100,1,True,True,0,0.0003454000107012689,0,1,101
+XGBoost|0.9,13,13,100,2,True,True,11,0.00042810000013560057,0,1,92
+XGBoost|0.9,13,14,100,3,True,True,55,0.0016481999773532152,2,1,48
+XGBoost|0.9,15,0,100,3,True,False,11464,1.0083152000443079,4,6,0
+XGBoost|0.9,15,1,100,4,True,False,18179,1.3722715000039898,89,6,0
+XGBoost|0.9,15,2,100,4,True,True,121,0.006315300008282065,71,1,0
+XGBoost|0.9,15,3,100,3,True,False,10563,0.9066604999825358,82,6,82
+XGBoost|0.9,15,4,100,1,True,True,0,0.00035419996129348874,0,1,102
+XGBoost|0.9,15,5,100,2,True,False,18143,1.8329594999668188,70,6,83
+XGBoost|0.9,15,6,100,3,True,True,0,0.0004820000031031668,0,1,101
+XGBoost|0.9,15,7,100,3,True,True,60,0.0028202999965287745,2,1,41
+XGBoost|0.9,15,8,100,4,True,True,0,0.00036860001273453236,0,1,100
+XGBoost|0.9,15,9,100,3,True,True,0,0.00038350000977516174,0,1,99
+XGBoost|0.9,15,10,100,3,True,True,86,0.007165400020312518,3,1,14
+XGBoost|0.9,15,11,100,1,True,True,2821,0.2569913999759592,74,1,0
+XGBoost|0.9,15,12,100,2,True,True,31,0.001359799993224442,0,1,70
+XGBoost|0.9,15,13,100,1,True,True,0,0.00035440002102404833,0,1,101
+XGBoost|0.9,15,14,100,2,True,True,121,0.007000099983997643,36,1,0
+XGBoost|0.9,22,0,150,2,True,True,0,0.000818000000435859,0,1,150
+XGBoost|0.9,22,1,150,2,True,True,1,0.00048719998449087143,0,1,150
+XGBoost|0.9,22,2,150,2,True,False,118,0.007195700018201023,3,3,147
+XGBoost|0.9,22,3,150,2,True,True,204,0.02184619999025017,10,1,0
+XGBoost|0.9,22,4,150,4,True,False,9683,1.2614248000318184,77,4,148
+XGBoost|0.9,22,5,150,3,True,False,26105,3.1305886000045575,108,6,9
+XGBoost|0.9,22,6,150,4,True,True,0,0.0005669000092893839,0,1,150
+XGBoost|0.9,22,7,150,2,True,False,9179,1.2186865999829024,45,5,139
+XGBoost|0.9,22,8,150,4,True,True,43,0.0012457999982871115,0,1,108
+XGBoost|0.9,22,9,150,1,True,True,0,0.000880700012203306,0,1,151
+XGBoost|0.9,22,10,150,4,True,False,167,0.024199499981477857,17,3,79
+XGBoost|0.9,22,11,150,3,True,False,5521,0.863007599953562,42,4,32
+XGBoost|0.9,22,12,150,1,True,False,85202,13.648969700036105,125,6,2
+XGBoost|0.9,22,13,150,1,True,False,13675,2.2573942000162788,86,6,128
+XGBoost|0.9,22,14,150,2,True,True,157,0.015772300015669316,14,1,17
+XGBoost|0.9,23,0,150,4,True,False,5189,0.7419640000443906,58,3,5
+XGBoost|0.9,23,1,150,2,True,True,119,0.0076778000220656395,2,1,31
+XGBoost|0.9,23,2,150,3,True,True,1,0.0011694999993778765,1,1,149
+XGBoost|0.9,23,3,150,3,True,True,0,0.0005039999959990382,0,1,150
+XGBoost|0.9,23,4,150,2,True,True,1,0.0004958999925293028,0,1,150
+XGBoost|0.9,23,5,150,2,True,True,0,0.0004352999967522919,0,1,151
+XGBoost|0.9,23,6,150,1,True,True,0,0.00042240001494064927,0,1,151
+XGBoost|0.9,23,7,150,2,True,True,0,0.00042830000165849924,0,1,150
+XGBoost|0.9,23,8,150,1,True,True,0,0.0004317000275477767,0,1,149
+XGBoost|0.9,23,9,150,2,True,True,1,0.00043670000741258264,0,1,149
+XGBoost|0.9,23,10,150,4,True,True,1,0.0004526000120677054,1,1,149
+XGBoost|0.9,23,11,150,3,True,True,1,0.00048149999929592013,0,1,150
+XGBoost|0.9,23,12,150,3,True,True,0,0.00040600000647827983,0,1,151
+XGBoost|0.9,23,13,150,2,True,True,0,0.00043399998685345054,0,1,149
+XGBoost|0.9,23,14,150,3,True,True,119,0.0070958000142127275,2,1,29
