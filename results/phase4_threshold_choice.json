@@ -1,0 +1,93 @@
+{
+  "chosen": {
+    "Logistic Regression": 0.6,
+    "Random Forest": null,
+    "XGBoost": 0.6
+  },
+  "table": [
+    {
+      "method": "Logistic Regression|0.6",
+      "nodes": 142026,
+      "changed": 1733,
+      "success": 1.0,
+      "score": 143759
+    },
+    {
+      "method": "Logistic Regression|0.8",
+      "nodes": 233035,
+      "changed": 2061,
+      "success": 1.0,
+      "score": 235096
+    },
+    {
+      "method": "Logistic Regression|0.9",
+      "nodes": 232634,
+      "changed": 2572,
+      "success": 1.0,
+      "score": 235206
+    },
+    {
+      "method": "Logistic Regression|None",
+      "nodes": 250792,
+      "changed": 1869,
+      "success": 1.0,
+      "score": 252661
+    },
+    {
+      "method": "Random Forest|0.6",
+      "nodes": 67415,
+      "changed": 773,
+      "success": 1.0,
+      "score": 68188
+    },
+    {
+      "method": "Random Forest|0.8",
+      "nodes": 108464,
+      "changed": 979,
+      "success": 1.0,
+      "score": 109443
+    },
+    {
+      "method": "Random Forest|0.9",
+      "nodes": 228648,
+      "changed": 1394,
+      "success": 1.0,
+      "score": 230042
+    },
+    {
+      "method": "Random Forest|None",
+      "nodes": 67292,
+      "changed": 755,
+      "success": 1.0,
+      "score": 68047
+    },
+    {
+      "method": "XGBoost|0.6",
+      "nodes": 92434,
+      "changed": 788,
+      "success": 1.0,
+      "score": 93222
+    },
+    {
+      "method": "XGBoost|0.8",
+      "nodes": 108668,
+      "changed": 972,
+      "success": 1.0,
+      "score": 109640
+    },
+    {
+      "method": "XGBoost|0.9",
+      "nodes": 184879,
+      "changed": 1193,
+      "success": 1.0,
+      "score": 186072
+    },
+    {
+      "method": "XGBoost|None",
+      "nodes": 96459,
+      "changed": 942,
+      "success": 1.0,
+      "score": 97401
+    }
+  ]
+}

@@ -1,0 +1,1081 @@
+method,seq,t,n,batch_size,success,first_try_success,nodes,time,changed,stage,n_retained
+Cold restart (BT+MRV+FC),0,0,60,4,True,True,89,0.0016252939999503724,32.0,1,
+Cold restart (BT+MRV+FC),0,1,60,1,True,True,89,0.0014527619998716546,0.0,1,
+Cold restart (BT+MRV+FC),0,2,60,1,True,True,81,0.0014445619999605697,0.0,1,
+Cold restart (BT+MRV+FC),0,3,60,4,True,True,159,0.0028743959999246727,25.0,1,
+Cold restart (BT+MRV+FC),0,4,60,1,True,True,158,0.002914129000146204,0.0,1,
+Cold restart (BT+MRV+FC),0,5,60,2,True,True,58,0.000909426999896823,48.0,1,
+Cold restart (BT+MRV+FC),0,6,60,2,True,True,58,0.0009290450000207784,0.0,1,
+Cold restart (BT+MRV+FC),0,7,60,3,True,True,119,0.0019518209999205283,16.0,1,
+Cold restart (BT+MRV+FC),0,8,60,2,True,True,92,0.0016584380000495003,48.0,1,
+Cold restart (BT+MRV+FC),0,9,60,4,True,True,57,0.0008817259999887028,39.0,1,
+Cold restart (BT+MRV+FC),0,10,60,1,True,True,57,0.0010392540000339068,0.0,1,
+Cold restart (BT+MRV+FC),0,11,60,1,True,True,57,0.0008738090000406373,0.0,1,
+Cold restart (BT+MRV+FC),0,12,60,3,True,True,69,0.0010629399998833833,41.0,1,
+Cold restart (BT+MRV+FC),0,13,60,4,True,True,75,0.0011452849998931924,33.0,1,
+Cold restart (BT+MRV+FC),0,14,60,2,True,True,57,0.0009167079999770067,16.0,1,
+Naive Min-Conflicts,0,0,60,4,True,True,4,8.58000000789616e-05,3.0,1,
+Naive Min-Conflicts,0,1,60,1,True,True,0,4.594799997903465e-05,0.0,1,
+Naive Min-Conflicts,0,2,60,1,True,True,0,4.4650000063484185e-05,0.0,1,
+Naive Min-Conflicts,0,3,60,4,True,True,1,4.788100000041595e-05,0.0,1,
+Naive Min-Conflicts,0,4,60,1,False,False,2950,0.0046994429999358545,,1,
+Naive Min-Conflicts,0,5,60,2,True,True,0,4.650000005312904e-05,0.0,1,
+Naive Min-Conflicts,0,6,60,2,True,True,0,4.479400013224222e-05,0.0,1,
+Naive Min-Conflicts,0,7,60,3,True,True,1,4.852200004279439e-05,1.0,1,
+Naive Min-Conflicts,0,8,60,2,True,True,0,4.555700002129015e-05,0.0,1,
+Naive Min-Conflicts,0,9,60,4,True,True,1,4.639100006897934e-05,0.0,1,
+Naive Min-Conflicts,0,10,60,1,True,True,0,4.7340000037365826e-05,0.0,1,
+Naive Min-Conflicts,0,11,60,1,True,True,0,4.3295000068610534e-05,0.0,1,
+Naive Min-Conflicts,0,12,60,3,True,True,2,5.013700001654797e-05,2.0,1,
+Naive Min-Conflicts,0,13,60,4,True,True,1,4.6155000063663465e-05,0.0,1,
+Naive Min-Conflicts,0,14,60,2,True,True,1,4.787000011674536e-05,1.0,1,
+Fixed reuse (r=1),0,0,60,4,True,True,67,0.0009246189999885246,3.0,1,7.0
+Fixed reuse (r=1),0,1,60,1,True,True,12,0.0001440129999537021,0.0,1,47.0
+Fixed reuse (r=1),0,2,60,1,True,True,16,0.00016520300005140598,0.0,1,43.0
+Fixed reuse (r=1),0,3,60,4,True,True,46,0.0006675510001059592,0.0,1,13.0
+Fixed reuse (r=1),0,4,60,1,True,False,130,0.0026007530000242696,21.0,4,46.0
+Fixed reuse (r=1),0,5,60,2,True,True,45,0.0006477379999978439,0.0,1,13.0
+Fixed reuse (r=1),0,6,60,2,True,True,29,0.0003032399999938207,0.0,1,29.0
+Fixed reuse (r=1),0,7,60,3,True,True,25,0.00027465399989523576,1.0,1,33.0
+Fixed reuse (r=1),0,8,60,2,True,True,47,0.0006811900000229798,0.0,1,10.0
+Fixed reuse (r=1),0,9,60,4,True,True,52,0.0008357389999673615,0.0,1,5.0
+Fixed reuse (r=1),0,10,60,1,True,True,18,0.00017356700004711456,0.0,1,39.0
+Fixed reuse (r=1),0,11,60,1,True,True,23,0.0002114509998136782,0.0,1,34.0
+Fixed reuse (r=1),0,12,60,3,True,True,50,0.0006904609999764943,1.0,1,6.0
+Fixed reuse (r=1),0,13,60,4,True,True,9,0.00011701700009325577,0.0,1,48.0
+Fixed reuse (r=1),0,14,60,2,True,True,17,0.00017679999996289553,5.0,1,40.0
+Warm start (verify all),0,0,60,4,True,True,92,0.0016936509998686233,26.0,1,0.0
+Warm start (verify all),0,1,60,1,True,True,59,0.0009707819999675849,1.0,1,0.0
+Warm start (verify all),0,2,60,1,True,True,59,0.0009424260001651419,6.0,1,0.0
+Warm start (verify all),0,3,60,4,True,True,59,0.0010157239998989098,4.0,1,0.0
+Warm start (verify all),0,4,60,1,True,True,115,0.0021314649998203095,4.0,1,0.0
+Warm start (verify all),0,5,60,2,True,True,58,0.0009391160001541721,32.0,1,0.0
+Warm start (verify all),0,6,60,2,True,True,58,0.0009336139999049919,1.0,1,0.0
+Warm start (verify all),0,7,60,3,True,True,84,0.0014713950001805642,18.0,1,0.0
+Warm start (verify all),0,8,60,2,True,True,57,0.000948590999996668,0.0,1,0.0
+Warm start (verify all),0,9,60,4,True,True,257,0.004833049000126266,33.0,1,0.0
+Warm start (verify all),0,10,60,1,True,True,57,0.00088479200007896,1.0,1,0.0
+Warm start (verify all),0,11,60,1,True,True,57,0.0008772290000251814,0.0,1,0.0
+Warm start (verify all),0,12,60,3,True,True,192,0.0033246790001157933,39.0,1,0.0
+Warm start (verify all),0,13,60,4,True,True,182,0.0033733150000898604,36.0,1,0.0
+Warm start (verify all),0,14,60,2,True,True,57,0.0009206069998981548,5.0,1,0.0
+Cold restart (BT+MRV+FC),1,0,60,3,True,True,277,0.0052206459999979415,31.0,1,
+Cold restart (BT+MRV+FC),1,1,60,2,True,True,337,0.006339208000099461,33.0,1,
+Cold restart (BT+MRV+FC),1,2,60,1,True,True,581,0.011203701000113142,21.0,1,
+Cold restart (BT+MRV+FC),1,3,60,3,True,True,189,0.003003772000056415,44.0,1,
+Cold restart (BT+MRV+FC),1,4,60,1,True,True,57,0.0009391599999162281,29.0,1,
+Cold restart (BT+MRV+FC),1,5,60,4,True,True,57,0.0009216800001468073,1.0,1,
+Cold restart (BT+MRV+FC),1,6,60,3,True,True,57,0.0009384990000853577,50.0,1,
+Cold restart (BT+MRV+FC),1,7,60,3,True,True,58,0.001250247999905696,30.0,1,
+Cold restart (BT+MRV+FC),1,8,60,3,True,True,58,0.0009575100000347447,7.0,1,
+Cold restart (BT+MRV+FC),1,9,60,1,True,True,59,0.0009963279999283259,0.0,1,
+Cold restart (BT+MRV+FC),1,10,60,1,True,True,59,0.0010323460001018248,3.0,1,
+Cold restart (BT+MRV+FC),1,11,60,3,True,True,57,0.0017280899999150279,37.0,1,
+Cold restart (BT+MRV+FC),1,12,60,4,True,True,56,0.001029185000106736,39.0,1,
+Cold restart (BT+MRV+FC),1,13,60,3,True,True,56,0.0008852479998040508,50.0,1,
+Cold restart (BT+MRV+FC),1,14,60,4,True,True,56,0.0008938139999372652,34.0,1,
+Naive Min-Conflicts,1,0,60,3,False,False,2900,0.004412237000224195,,1,
+Naive Min-Conflicts,1,1,60,2,False,False,2900,0.0042063250000410335,,1,
+Naive Min-Conflicts,1,2,60,1,False,False,2900,0.004432618999999249,,1,
+Naive Min-Conflicts,1,3,60,3,False,False,2901,0.0046124240000153804,,1,
+Naive Min-Conflicts,1,4,60,1,True,True,0,4.4092000052842195e-05,0.0,1,
+Naive Min-Conflicts,1,5,60,4,True,True,2,6.986399989727943e-05,2.0,1,
+Naive Min-Conflicts,1,6,60,3,True,True,3,5.458500004351663e-05,2.0,1,
+Naive Min-Conflicts,1,7,60,3,True,True,1,4.8457000048074406e-05,0.0,1,
+Naive Min-Conflicts,1,8,60,3,True,True,0,4.584100020110782e-05,0.0,1,
+Naive Min-Conflicts,1,9,60,1,True,True,1,4.945699993186281e-05,0.0,1,
+Naive Min-Conflicts,1,10,60,1,True,True,0,4.667200005314953e-05,0.0,1,
+Naive Min-Conflicts,1,11,60,3,True,True,0,4.310400004214898e-05,0.0,1,
+Naive Min-Conflicts,1,12,60,4,True,True,0,4.366500002106477e-05,0.0,1,
+Naive Min-Conflicts,1,13,60,3,True,True,0,4.3952000169156236e-05,0.0,1,
+Naive Min-Conflicts,1,14,60,4,True,True,1,4.612099996847974e-05,0.0,1,
+Fixed reuse (r=1),1,0,60,3,True,True,56,0.0008821429998988606,6.0,1,4.0
+Fixed reuse (r=1),1,1,60,2,True,False,353,0.00638416599986158,28.0,3,27.0
+Fixed reuse (r=1),1,2,60,1,True,False,125,0.006695271999888064,33.0,3,42.0
+Fixed reuse (r=1),1,3,60,3,True,False,74,0.0012840399999731744,18.0,3,20.0
+Fixed reuse (r=1),1,4,60,1,True,True,45,0.0006484670000190818,0.0,1,12.0
+Fixed reuse (r=1),1,5,60,4,True,True,31,0.0003515099999731319,0.0,1,26.0
+Fixed reuse (r=1),1,6,60,3,True,True,32,0.0003986149999946065,6.0,1,25.0
+Fixed reuse (r=1),1,7,60,3,True,True,29,0.00032715299994379166,0.0,1,29.0
+Fixed reuse (r=1),1,8,60,3,True,True,32,0.00039608300016880094,2.0,1,26.0
+Fixed reuse (r=1),1,9,60,1,True,True,9,0.00012842299997828377,1.0,1,50.0
+Fixed reuse (r=1),1,10,60,1,True,True,15,0.00016443899994555977,1.0,1,44.0
+Fixed reuse (r=1),1,11,60,3,True,True,56,0.0009263560000363213,0.0,1,1.0
+Fixed reuse (r=1),1,12,60,4,True,True,51,0.0007844780000141327,3.0,1,5.0
+Fixed reuse (r=1),1,13,60,3,True,True,27,0.00030635999996775354,2.0,1,29.0
+Fixed reuse (r=1),1,14,60,4,True,True,47,0.0006752970000434289,0.0,1,9.0
+Warm start (verify all),1,0,60,3,True,True,97,0.0015060709999943356,29.0,1,0.0
+Warm start (verify all),1,1,60,2,True,True,92,0.0017889900000227499,21.0,1,0.0
+Warm start (verify all),1,2,60,1,True,True,625,0.012239398000019719,11.0,1,0.0
+Warm start (verify all),1,3,60,3,True,True,503,0.010261714000080246,43.0,1,0.0
+Warm start (verify all),1,4,60,1,True,True,57,0.000904779999927996,0.0,1,0.0
+Warm start (verify all),1,5,60,4,True,True,57,0.0009407889999692998,14.0,1,0.0
+Warm start (verify all),1,6,60,3,True,True,57,0.0009168599999611615,43.0,1,0.0
+Warm start (verify all),1,7,60,3,True,True,58,0.0010265470000376808,10.0,1,0.0
+Warm start (verify all),1,8,60,3,True,True,58,0.0009735820001424145,7.0,1,0.0
+Warm start (verify all),1,9,60,1,True,True,59,0.001172322999991593,4.0,1,0.0
+Warm start (verify all),1,10,60,1,True,True,59,0.0010658809999313235,1.0,1,0.0
+Warm start (verify all),1,11,60,3,True,True,57,0.0009064319999652071,0.0,1,0.0
+Warm start (verify all),1,12,60,4,True,True,56,0.000925784000173735,4.0,1,0.0
+Warm start (verify all),1,13,60,3,True,True,56,0.0009317579999787995,23.0,1,0.0
+Warm start (verify all),1,14,60,4,True,True,56,0.0009603349999451893,0.0,1,0.0
+Cold restart (BT+MRV+FC),2,0,60,3,True,True,123,0.002894319999995787,33.0,1,
+Cold restart (BT+MRV+FC),2,1,60,1,True,True,123,0.0025620940000408154,0.0,1,
+Cold restart (BT+MRV+FC),2,2,60,3,True,True,124,0.0026546179999513697,3.0,1,
+Cold restart (BT+MRV+FC),2,3,60,3,True,True,60,0.000987230999953681,47.0,1,
+Cold restart (BT+MRV+FC),2,4,60,4,True,True,95,0.0018201719999524357,26.0,1,
+Cold restart (BT+MRV+FC),2,5,60,3,True,True,93,0.0017940410000392149,8.0,1,
+Cold restart (BT+MRV+FC),2,6,60,4,True,True,89,0.0017876780000278814,0.0,1,
+Cold restart (BT+MRV+FC),2,7,60,3,True,True,90,0.00182862099995873,0.0,1,
+Cold restart (BT+MRV+FC),2,8,60,4,True,True,366,0.009306187999982285,39.0,1,
+Cold restart (BT+MRV+FC),2,9,60,4,True,True,78,0.0014046500000404194,29.0,1,
+Cold restart (BT+MRV+FC),2,10,60,3,True,True,61,0.0010733300000538293,32.0,1,
+Cold restart (BT+MRV+FC),2,11,60,1,True,True,61,0.0010614729999360861,0.0,1,
+Cold restart (BT+MRV+FC),2,12,60,3,True,True,62,0.0011020809999990888,51.0,1,
+Cold restart (BT+MRV+FC),2,13,60,2,True,True,62,0.0011222440000437928,0.0,1,
+Cold restart (BT+MRV+FC),2,14,60,1,True,True,61,0.00103366600001209,0.0,1,
+Naive Min-Conflicts,2,0,60,3,False,False,3001,0.005111794999947961,,1,
+Naive Min-Conflicts,2,1,60,1,True,True,0,5.020799994781555e-05,0.0,1,
+Naive Min-Conflicts,2,2,60,3,True,True,4,5.913099994359072e-05,2.0,1,
+Naive Min-Conflicts,2,3,60,3,False,False,3001,0.0042979160000413685,,1,
+Naive Min-Conflicts,2,4,60,4,False,False,3001,0.004729778999944756,,1,
+Naive Min-Conflicts,2,5,60,3,False,False,3051,0.004576329999963491,,1,
+Naive Min-Conflicts,2,6,60,4,True,True,2,6.225299989637278e-05,1.0,1,
+Naive Min-Conflicts,2,7,60,3,True,True,2,5.7476999927530414e-05,1.0,1,
+Naive Min-Conflicts,2,8,60,4,True,True,2,5.5375000101776095e-05,1.0,1,
+Naive Min-Conflicts,2,9,60,4,False,False,3051,0.005121637999991435,,1,
+Naive Min-Conflicts,2,10,60,3,True,True,1,8.453800001007039e-05,1.0,1,
+Naive Min-Conflicts,2,11,60,1,True,True,1,5.382499989536882e-05,1.0,1,
+Naive Min-Conflicts,2,12,60,3,True,True,2,5.304499995872902e-05,1.0,1,
+Naive Min-Conflicts,2,13,60,2,True,True,0,4.973399995833461e-05,0.0,1,
+Naive Min-Conflicts,2,14,60,1,True,True,0,4.727099985757377e-05,0.0,1,
+Fixed reuse (r=1),2,0,60,3,True,False,70,0.001263053000002401,28.0,3,26.0
+Fixed reuse (r=1),2,1,60,1,True,True,11,0.00013723099982598796,0.0,1,49.0
+Fixed reuse (r=1),2,2,60,3,True,True,37,0.0004227080000873684,2.0,1,23.0
+Fixed reuse (r=1),2,3,60,3,True,False,564,0.013811599000064234,36.0,3,24.0
+Fixed reuse (r=1),2,4,60,4,True,True,39,0.000427983999998105,0.0,1,21.0
+Fixed reuse (r=1),2,5,60,3,True,False,90,0.0015749110000342625,11.0,3,33.0
+Fixed reuse (r=1),2,6,60,4,True,True,35,0.0003590470000744972,2.0,1,29.0
+Fixed reuse (r=1),2,7,60,3,True,True,27,0.00029301199992914917,0.0,1,36.0
+Fixed reuse (r=1),2,8,60,4,True,True,48,0.0006997390000833548,1.0,1,14.0
+Fixed reuse (r=1),2,9,60,4,True,True,57,0.0008950520000325923,3.0,1,4.0
+Fixed reuse (r=1),2,10,60,3,True,True,28,0.000322485999959099,0.0,1,33.0
+Fixed reuse (r=1),2,11,60,1,True,True,5,0.00015356799985966063,0.0,1,56.0
+Fixed reuse (r=1),2,12,60,3,True,True,30,0.000356115999920803,0.0,1,32.0
+Fixed reuse (r=1),2,13,60,2,True,True,26,0.00033075500004997593,0.0,1,36.0
+Fixed reuse (r=1),2,14,60,1,True,True,42,0.0005564199998389086,0.0,1,19.0
+Warm start (verify all),2,0,60,3,True,True,60,0.0009665259999565023,28.0,1,0.0
+Warm start (verify all),2,1,60,1,True,True,60,0.0012431150000793423,0.0,1,0.0
+Warm start (verify all),2,2,60,3,True,True,60,0.0009459279999646242,2.0,1,0.0
+Warm start (verify all),2,3,60,3,True,True,60,0.0009608580000985967,35.0,1,0.0
+Warm start (verify all),2,4,60,4,True,True,60,0.0009999399999287562,11.0,1,0.0
+Warm start (verify all),2,5,60,3,True,True,1019,0.02437291199998981,18.0,1,0.0
+Warm start (verify all),2,6,60,4,True,True,64,0.001082300000007308,1.0,1,0.0
+Warm start (verify all),2,7,60,3,True,True,63,0.001127292000091984,1.0,1,0.0
+Warm start (verify all),2,8,60,4,True,True,62,0.0010983219999616267,1.0,1,0.0
+Warm start (verify all),2,9,60,4,True,True,1504,0.03874131199995645,40.0,1,0.0
+Warm start (verify all),2,10,60,3,True,True,61,0.0010753840001598292,25.0,1,0.0
+Warm start (verify all),2,11,60,1,True,True,61,0.0010682209999686165,1.0,1,0.0
+Warm start (verify all),2,12,60,3,True,True,70,0.0012111129999539116,31.0,1,0.0
+Warm start (verify all),2,13,60,2,True,True,62,0.0011324889999286825,0.0,1,0.0
+Warm start (verify all),2,14,60,1,True,True,61,0.001052006000008987,0.0,1,0.0
+Cold restart (BT+MRV+FC),3,0,60,2,True,True,94,0.001927728999817191,17.0,1,
+Cold restart (BT+MRV+FC),3,1,60,1,True,True,90,0.0016718350000246573,52.0,1,
+Cold restart (BT+MRV+FC),3,2,60,4,True,True,60,0.0010201120001056552,35.0,1,
+Cold restart (BT+MRV+FC),3,3,60,4,True,True,61,0.0011360799999238225,30.0,1,
+Cold restart (BT+MRV+FC),3,4,60,3,True,True,61,0.0011313390000395884,47.0,1,
+Cold restart (BT+MRV+FC),3,5,60,2,True,True,60,0.001016673999856721,30.0,1,
+Cold restart (BT+MRV+FC),3,6,60,1,True,True,61,0.0010691370000586176,26.0,1,
+Cold restart (BT+MRV+FC),3,7,60,2,True,True,61,0.001094338000029893,19.0,1,
+Cold restart (BT+MRV+FC),3,8,60,2,True,True,61,0.0010712060000059864,44.0,1,
+Cold restart (BT+MRV+FC),3,9,60,3,True,True,62,0.0010963229999561008,20.0,1,
+Cold restart (BT+MRV+FC),3,10,60,4,True,True,62,0.0011291640000763437,10.0,1,
+Cold restart (BT+MRV+FC),3,11,60,4,True,True,60,0.0010600400000839727,3.0,1,
+Cold restart (BT+MRV+FC),3,12,60,4,True,True,58,0.0009460950000175217,5.0,1,
+Cold restart (BT+MRV+FC),3,13,60,4,True,True,58,0.0009508739999546378,9.0,1,
+Cold restart (BT+MRV+FC),3,14,60,2,True,True,58,0.0013061720001132926,13.0,1,
+Naive Min-Conflicts,3,0,60,2,False,False,3000,0.004631316000086372,,1,
+Naive Min-Conflicts,3,1,60,1,True,True,0,4.6859000121912686e-05,0.0,1,
+Naive Min-Conflicts,3,2,60,4,True,True,12,6.873200004520186e-05,3.0,1,
+Naive Min-Conflicts,3,3,60,4,True,True,1,4.966199981026875e-05,0.0,1,
+Naive Min-Conflicts,3,4,60,3,True,True,0,4.5722000095338444e-05,0.0,1,
+Naive Min-Conflicts,3,5,60,2,True,True,0,6.213899996510008e-05,0.0,1,
+Naive Min-Conflicts,3,6,60,1,True,True,1,5.241999997451785e-05,0.0,1,
+Naive Min-Conflicts,3,7,60,2,True,True,0,4.633699995792995e-05,0.0,1,
+Naive Min-Conflicts,3,8,60,2,True,True,0,4.6737000047869515e-05,0.0,1,
+Naive Min-Conflicts,3,9,60,3,True,True,2,5.262700005914667e-05,1.0,1,
+Naive Min-Conflicts,3,10,60,4,True,True,1,5.1149999990229844e-05,0.0,1,
+Naive Min-Conflicts,3,11,60,4,True,True,0,6.139499987511954e-05,0.0,1,
+Naive Min-Conflicts,3,12,60,4,True,True,0,4.569199995785311e-05,0.0,1,
+Naive Min-Conflicts,3,13,60,4,True,True,1,4.922800007989281e-05,1.0,1,
+Naive Min-Conflicts,3,14,60,2,True,True,0,4.386399996292312e-05,0.0,1,
+Fixed reuse (r=1),3,0,60,2,True,False,206,0.0042276500000753,16.0,3,33.0
+Fixed reuse (r=1),3,1,60,1,True,True,5,0.00010170199993808637,0.0,1,55.0
+Fixed reuse (r=1),3,2,60,4,True,True,26,0.0002878300001611933,3.0,1,34.0
+Fixed reuse (r=1),3,3,60,4,True,True,33,0.000430026000003636,5.0,1,28.0
+Fixed reuse (r=1),3,4,60,3,True,True,29,0.0003403949999665201,0.0,1,32.0
+Fixed reuse (r=1),3,5,60,2,True,True,45,0.0006530630000725068,0.0,1,15.0
+Fixed reuse (r=1),3,6,60,1,True,True,9,0.0001332140000158688,1.0,1,52.0
+Fixed reuse (r=1),3,7,60,2,True,True,29,0.0003468239999619982,0.0,1,32.0
+Fixed reuse (r=1),3,8,60,2,True,True,19,0.00021732100003646337,0.0,1,42.0
+Fixed reuse (r=1),3,9,60,3,True,True,35,0.00044664100005320506,0.0,1,27.0
+Fixed reuse (r=1),3,10,60,4,True,True,55,0.0054089159998511604,0.0,1,7.0
+Fixed reuse (r=1),3,11,60,4,True,True,59,0.0010569450000730285,0.0,1,1.0
+Fixed reuse (r=1),3,12,60,4,True,True,53,0.0008424299999205687,0.0,1,5.0
+Fixed reuse (r=1),3,13,60,4,True,True,46,0.0007097779998730402,0.0,1,12.0
+Fixed reuse (r=1),3,14,60,2,True,True,29,0.0003307169999970938,0.0,1,29.0
+Warm start (verify all),3,0,60,2,True,True,80,0.0014128900002106093,12.0,1,0.0
+Warm start (verify all),3,1,60,1,True,True,60,0.0009903420000227925,0.0,1,0.0
+Warm start (verify all),3,2,60,4,True,True,60,0.001028163000000859,51.0,1,0.0
+Warm start (verify all),3,3,60,4,True,True,61,0.0011696010001287505,10.0,1,0.0
+Warm start (verify all),3,4,60,3,True,True,61,0.0010612630001105572,0.0,1,0.0
+Warm start (verify all),3,5,60,2,True,True,60,0.0010122240000782767,1.0,1,0.0
+Warm start (verify all),3,6,60,1,True,True,61,0.0011702210001658386,0.0,1,0.0
+Warm start (verify all),3,7,60,2,True,True,61,0.0010405650000393507,4.0,1,0.0
+Warm start (verify all),3,8,60,2,True,True,61,0.0010418269998808682,9.0,1,0.0
+Warm start (verify all),3,9,60,3,True,True,62,0.0014932799999769486,21.0,1,0.0
+Warm start (verify all),3,10,60,4,True,True,62,0.0011187190000327973,1.0,1,0.0
+Warm start (verify all),3,11,60,4,True,True,60,0.001039773000002242,3.0,1,0.0
+Warm start (verify all),3,12,60,4,True,True,58,0.0009750199999416509,5.0,1,0.0
+Warm start (verify all),3,13,60,4,True,True,58,0.0010254720000375528,6.0,1,0.0
+Warm start (verify all),3,14,60,2,True,True,58,0.0009657519999564101,14.0,1,0.0
+Cold restart (BT+MRV+FC),4,0,60,4,True,True,2393,0.05337009599998055,49.0,1,
+Cold restart (BT+MRV+FC),4,1,60,1,True,True,2393,0.0527650999999878,0.0,1,
+Cold restart (BT+MRV+FC),4,2,60,1,True,True,661,0.013606421000076807,35.0,1,
+Cold restart (BT+MRV+FC),4,3,60,4,True,True,909,0.01951443100006145,33.0,1,
+Cold restart (BT+MRV+FC),4,4,60,4,True,True,810,0.016938545999892085,3.0,1,
+Cold restart (BT+MRV+FC),4,5,60,1,True,True,811,0.016934923000007984,2.0,1,
+Cold restart (BT+MRV+FC),4,6,60,3,True,True,878,0.018302365999943504,2.0,1,
+Cold restart (BT+MRV+FC),4,7,60,2,True,True,723,0.015970410999898377,3.0,1,
+Cold restart (BT+MRV+FC),4,8,60,1,True,True,661,0.01435201499998584,1.0,1,
+Cold restart (BT+MRV+FC),4,9,60,4,True,True,59,0.0009997219999604567,42.0,1,
+Cold restart (BT+MRV+FC),4,10,60,4,True,True,59,0.0010126290001153393,45.0,1,
+Cold restart (BT+MRV+FC),4,11,60,4,True,True,59,0.0010432270000819699,29.0,1,
+Cold restart (BT+MRV+FC),4,12,60,3,True,True,59,0.0010268219998579298,1.0,1,
+Cold restart (BT+MRV+FC),4,13,60,2,True,True,59,0.0011017080000783608,31.0,1,
+Cold restart (BT+MRV+FC),4,14,60,4,True,True,59,0.0010443480000503769,42.0,1,
+Naive Min-Conflicts,4,0,60,4,False,False,3000,0.0049384500000542175,,1,
+Naive Min-Conflicts,4,1,60,1,False,False,3001,0.004464753000092969,,1,
+Naive Min-Conflicts,4,2,60,1,False,False,3001,0.004878927999925509,,1,
+Naive Min-Conflicts,4,3,60,4,True,True,2,5.6894999943324365e-05,1.0,1,
+Naive Min-Conflicts,4,4,60,4,True,True,0,4.79209998047736e-05,0.0,1,
+Naive Min-Conflicts,4,5,60,1,True,True,0,4.577899994728796e-05,0.0,1,
+Naive Min-Conflicts,4,6,60,3,True,True,0,4.556600015348522e-05,0.0,1,
+Naive Min-Conflicts,4,7,60,2,True,True,5,5.721699994865048e-05,1.0,1,
+Naive Min-Conflicts,4,8,60,1,True,True,0,6.434800002352858e-05,0.0,1,
+Naive Min-Conflicts,4,9,60,4,True,True,2,5.245100010142778e-05,2.0,1,
+Naive Min-Conflicts,4,10,60,4,True,True,0,4.463000004761852e-05,0.0,1,
+Naive Min-Conflicts,4,11,60,4,True,True,1,4.8869000011109165e-05,1.0,1,
+Naive Min-Conflicts,4,12,60,3,True,True,0,4.5548000116468756e-05,0.0,1,
+Naive Min-Conflicts,4,13,60,2,True,True,0,4.466899986255157e-05,0.0,1,
+Naive Min-Conflicts,4,14,60,4,True,True,0,6.666299987045932e-05,0.0,1,
+Fixed reuse (r=1),4,0,60,4,True,False,2410,0.05352765899988299,28.0,3,22.0
+Fixed reuse (r=1),4,1,60,1,True,False,218,0.0051237899999705405,31.0,4,52.0
+Fixed reuse (r=1),4,2,60,1,True,False,223,0.004955121999955736,31.0,4,51.0
+Fixed reuse (r=1),4,3,60,4,True,True,42,0.0005348799998046161,1.0,1,19.0
+Fixed reuse (r=1),4,4,60,4,True,True,55,0.000911213999870597,0.0,1,5.0
+Fixed reuse (r=1),4,5,60,1,True,True,21,0.00020787500011465454,0.0,1,39.0
+Fixed reuse (r=1),4,6,60,3,True,True,18,0.00022244799993131892,0.0,1,42.0
+Fixed reuse (r=1),4,7,60,2,True,True,19,0.00019138000016027945,1.0,1,41.0
+Fixed reuse (r=1),4,8,60,1,True,True,43,0.0006333510000331444,0.0,1,16.0
+Fixed reuse (r=1),4,9,60,4,True,True,38,0.0004998330000489659,2.0,1,21.0
+Fixed reuse (r=1),4,10,60,4,True,True,26,0.0003051510000204871,0.0,1,33.0
+Fixed reuse (r=1),4,11,60,4,True,True,26,0.0003043650001472997,2.0,1,33.0
+Fixed reuse (r=1),4,12,60,3,True,True,26,0.0003069700001105957,6.0,1,33.0
+Fixed reuse (r=1),4,13,60,2,True,True,35,0.00045490200000131154,1.0,1,24.0
+Fixed reuse (r=1),4,14,60,4,True,True,42,0.0005986659998598043,3.0,1,17.0
+Warm start (verify all),4,0,60,4,True,True,2382,0.052602817999968465,28.0,1,0.0
+Warm start (verify all),4,1,60,1,True,True,199,0.004572167000105765,31.0,1,0.0
+Warm start (verify all),4,2,60,1,True,True,194,0.004052705000049173,31.0,1,0.0
+Warm start (verify all),4,3,60,4,True,True,61,0.001106552000010197,1.0,1,0.0
+Warm start (verify all),4,4,60,4,True,True,60,0.0010805070000969863,0.0,1,0.0
+Warm start (verify all),4,5,60,1,True,True,60,0.0014009139999870968,0.0,1,0.0
+Warm start (verify all),4,6,60,3,True,True,60,0.0010737369998423674,0.0,1,0.0
+Warm start (verify all),4,7,60,2,True,True,60,0.001088599000013346,1.0,1,0.0
+Warm start (verify all),4,8,60,1,True,True,59,0.0010185429998728068,0.0,1,0.0
+Warm start (verify all),4,9,60,4,True,True,59,0.0010663079999631009,2.0,1,0.0
+Warm start (verify all),4,10,60,4,True,True,59,0.0014657179999630898,0.0,1,0.0
+Warm start (verify all),4,11,60,4,True,True,59,0.0010514640000565123,2.0,1,0.0
+Warm start (verify all),4,12,60,3,True,True,59,0.0010171029998673475,18.0,1,0.0
+Warm start (verify all),4,13,60,2,True,True,59,0.001012362999972538,9.0,1,0.0
+Warm start (verify all),4,14,60,4,True,True,59,0.0010573249999197287,7.0,1,0.0
+Cold restart (BT+MRV+FC),5,0,60,2,True,True,108,0.0020475740000165388,1.0,1,
+Cold restart (BT+MRV+FC),5,1,60,4,True,True,187,0.0035488199998781056,53.0,1,
+Cold restart (BT+MRV+FC),5,2,60,3,True,True,114,0.002053208999996059,52.0,1,
+Cold restart (BT+MRV+FC),5,3,60,3,True,True,102,0.0018931930001144792,27.0,1,
+Cold restart (BT+MRV+FC),5,4,60,4,True,True,68,0.0015196789997844462,40.0,1,
+Cold restart (BT+MRV+FC),5,5,60,3,True,True,61,0.0010406930000499415,26.0,1,
+Cold restart (BT+MRV+FC),5,6,60,2,True,True,68,0.001157619999958115,26.0,1,
+Cold restart (BT+MRV+FC),5,7,60,2,True,True,75,0.0013281420001476363,0.0,1,
+Cold restart (BT+MRV+FC),5,8,60,2,True,True,68,0.0011166580000008253,2.0,1,
+Cold restart (BT+MRV+FC),5,9,60,2,True,True,70,0.0011654450001969963,0.0,1,
+Cold restart (BT+MRV+FC),5,10,60,1,True,True,75,0.0013308840000263444,0.0,1,
+Cold restart (BT+MRV+FC),5,11,60,3,True,True,103,0.002199824000172157,35.0,1,
+Cold restart (BT+MRV+FC),5,12,60,2,True,True,937,0.025582568999880095,37.0,1,
+Cold restart (BT+MRV+FC),5,13,60,4,True,True,85,0.0016671249998125859,35.0,1,
+Cold restart (BT+MRV+FC),5,14,60,1,True,True,86,0.0017037889999755862,0.0,1,
+Naive Min-Conflicts,5,0,60,2,True,True,2,5.8810999917113804e-05,1.0,1,
+Naive Min-Conflicts,5,1,60,4,True,True,32,0.00010133599994333053,5.0,1,
+Naive Min-Conflicts,5,2,60,3,False,False,2951,0.00463265100006538,,1,
+Naive Min-Conflicts,5,3,60,3,False,False,3002,0.004480380000131845,,1,
+Naive Min-Conflicts,5,4,60,4,False,False,3051,0.00431793400002789,,1,
+Naive Min-Conflicts,5,5,60,3,True,True,0,4.949100002704654e-05,0.0,1,
+Naive Min-Conflicts,5,6,60,2,False,False,3050,0.004877675999978237,,1,
+Naive Min-Conflicts,5,7,60,2,False,False,3050,0.004493235999916578,,1,
+Naive Min-Conflicts,5,8,60,2,True,True,1,5.4039000133343507e-05,1.0,1,
+Naive Min-Conflicts,5,9,60,2,True,True,2,5.3143000059208134e-05,1.0,1,
+Naive Min-Conflicts,5,10,60,1,True,True,1,4.971999987901654e-05,0.0,1,
+Naive Min-Conflicts,5,11,60,3,False,False,3152,0.0040795579998302856,,1,
+Naive Min-Conflicts,5,12,60,2,False,False,3152,0.004840779999994993,,1,
+Naive Min-Conflicts,5,13,60,4,True,True,9,7.311600006687513e-05,2.0,1,
+Naive Min-Conflicts,5,14,60,1,True,True,1,5.774300007033162e-05,0.0,1,
+Fixed reuse (r=1),5,0,60,2,True,True,23,0.00021637800000462448,1.0,1,37.0
+Fixed reuse (r=1),5,1,60,4,True,True,79,0.0013062030000128289,5.0,1,6.0
+Fixed reuse (r=1),5,2,60,3,True,False,64,0.0010886349998600053,7.0,3,32.0
+Fixed reuse (r=1),5,3,60,3,True,False,110,0.0020593340000232274,21.0,3,32.0
+Fixed reuse (r=1),5,4,60,4,True,False,66,0.0012205139998968662,7.0,3,28.0
+Fixed reuse (r=1),5,5,60,3,True,True,23,0.00024364700016121787,0.0,1,38.0
+Fixed reuse (r=1),5,6,60,2,True,False,320,0.006737678000035885,27.0,4,46.0
+Fixed reuse (r=1),5,7,60,2,True,False,885,0.02256859700014502,33.0,3,30.0
+Fixed reuse (r=1),5,8,60,2,True,True,49,0.0006977299999562092,1.0,1,11.0
+Fixed reuse (r=1),5,9,60,2,True,True,20,0.00019073799990110274,1.0,1,41.0
+Fixed reuse (r=1),5,10,60,1,True,True,9,0.00011793599992415693,0.0,1,53.0
+Fixed reuse (r=1),5,11,60,3,True,False,110,0.002398005999793895,57.0,3,25.0
+Fixed reuse (r=1),5,12,60,2,True,False,819,0.02141532400014512,35.0,4,42.0
+Fixed reuse (r=1),5,13,60,4,True,True,59,0.0009363470001062524,2.0,1,4.0
+Fixed reuse (r=1),5,14,60,1,True,True,10,0.00013291000004755915,0.0,1,54.0
+Warm start (verify all),5,0,60,2,True,True,60,0.0009442929999750049,1.0,1,0.0
+Warm start (verify all),5,1,60,4,True,True,73,0.0011939519999941695,32.0,1,0.0
+Warm start (verify all),5,2,60,3,True,True,126,0.0022685090000322816,27.0,1,0.0
+Warm start (verify all),5,3,60,3,True,True,200,0.0040020920000642946,36.0,1,0.0
+Warm start (verify all),5,4,60,4,True,True,120,0.00250359900019248,35.0,1,0.0
+Warm start (verify all),5,5,60,3,True,True,61,0.0010691800000586227,1.0,1,0.0
+Warm start (verify all),5,6,60,2,True,True,240,0.005028047999985574,27.0,1,0.0
+Warm start (verify all),5,7,60,2,True,True,441,0.010608543999978792,4.0,1,0.0
+Warm start (verify all),5,8,60,2,True,True,60,0.0010266340000271157,1.0,1,0.0
+Warm start (verify all),5,9,60,2,True,True,61,0.0009679380000306992,1.0,1,0.0
+Warm start (verify all),5,10,60,1,True,True,62,0.000999180000007982,0.0,1,0.0
+Warm start (verify all),5,11,60,3,True,True,104,0.0022144110000681394,57.0,1,0.0
+Warm start (verify all),5,12,60,2,True,True,726,0.0185151760001645,35.0,1,0.0
+Warm start (verify all),5,13,60,4,True,True,63,0.0010475629999291414,2.0,1,0.0
+Warm start (verify all),5,14,60,1,True,True,64,0.0010698099999899569,0.0,1,0.0
+Cold restart (BT+MRV+FC),6,0,100,4,True,True,3100,0.11282557100003032,85.0,1,
+Cold restart (BT+MRV+FC),6,1,100,1,True,True,1703,0.05746434299999237,58.0,1,
+Cold restart (BT+MRV+FC),6,2,100,4,True,True,9226,0.33481926199988266,67.0,1,
+Cold restart (BT+MRV+FC),6,3,100,4,True,True,100,0.002531330000010712,73.0,1,
+Cold restart (BT+MRV+FC),6,4,100,4,True,True,101,0.0026882070001192915,37.0,1,
+Cold restart (BT+MRV+FC),6,5,100,4,True,True,102,0.0027683689997957117,81.0,1,
+Cold restart (BT+MRV+FC),6,6,100,4,True,True,102,0.0027138440000271657,0.0,1,
+Cold restart (BT+MRV+FC),6,7,100,3,True,True,102,0.0027270239997960743,1.0,1,
+Cold restart (BT+MRV+FC),6,8,100,4,True,True,102,0.00275477300010607,17.0,1,
+Cold restart (BT+MRV+FC),6,9,100,4,True,True,2830,0.10387979999995878,47.0,1,
+Cold restart (BT+MRV+FC),6,10,100,1,True,True,2787,0.10422210899992024,1.0,1,
+Cold restart (BT+MRV+FC),6,11,100,3,True,True,4364,0.17455272000006516,69.0,1,
+Cold restart (BT+MRV+FC),6,12,100,1,True,True,4364,0.17187778700008494,0.0,1,
+Cold restart (BT+MRV+FC),6,13,100,2,True,True,3108,0.11888104399986332,69.0,1,
+Cold restart (BT+MRV+FC),6,14,100,2,True,True,2391,0.09606781399997999,3.0,1,
+Naive Min-Conflicts,6,0,100,4,False,False,5052,0.00818986500007668,,1,
+Naive Min-Conflicts,6,1,100,1,True,True,0,9.493699985796411e-05,0.0,1,
+Naive Min-Conflicts,6,2,100,4,False,False,5002,0.007692608000070322,,1,
+Naive Min-Conflicts,6,3,100,4,True,True,1,0.00010157299993807101,1.0,1,
+Naive Min-Conflicts,6,4,100,4,True,True,2,8.508799987794191e-05,1.0,1,
+Naive Min-Conflicts,6,5,100,4,True,True,2,8.291400013149541e-05,1.0,1,
+Naive Min-Conflicts,6,6,100,4,True,True,1,0.00010130900000149268,1.0,1,
+Naive Min-Conflicts,6,7,100,3,True,True,0,8.084099999905447e-05,0.0,1,
+Naive Min-Conflicts,6,8,100,4,True,True,2,8.96760000159702e-05,2.0,1,
+Naive Min-Conflicts,6,9,100,4,False,False,5104,0.008130022999921493,,1,
+Naive Min-Conflicts,6,10,100,1,False,False,5101,0.008303269999942131,,1,
+Naive Min-Conflicts,6,11,100,3,False,False,5202,0.013151801999811141,,1,
+Naive Min-Conflicts,6,12,100,1,True,True,0,9.375499985253555e-05,0.0,1,
+Naive Min-Conflicts,6,13,100,2,True,True,9,0.00011292099998172489,1.0,1,
+Naive Min-Conflicts,6,14,100,2,False,False,5252,0.009092860999999175,,1,
+Fixed reuse (r=1),6,0,100,4,True,False,1769,0.07361989799983348,65.0,3,56.0
+Fixed reuse (r=1),6,1,100,1,True,True,65,0.0010888120000345225,0.0,1,35.0
+Fixed reuse (r=1),6,2,100,4,True,False,1825,0.06208271699983925,41.0,3,59.0
+Fixed reuse (r=1),6,3,100,4,True,True,36,0.0004947259999426024,1.0,1,64.0
+Fixed reuse (r=1),6,4,100,4,True,True,38,0.0009441560000595928,0.0,1,63.0
+Fixed reuse (r=1),6,5,100,4,True,True,33,0.0004535939999641414,1.0,1,69.0
+Fixed reuse (r=1),6,6,100,4,True,True,54,0.0009089170000606828,7.0,1,48.0
+Fixed reuse (r=1),6,7,100,3,True,True,32,0.00043376300004638324,0.0,1,70.0
+Fixed reuse (r=1),6,8,100,4,True,True,31,0.00045020099992143514,5.0,1,71.0
+Fixed reuse (r=1),6,9,100,4,True,False,1037,0.03841382800010251,56.0,3,25.0
+Fixed reuse (r=1),6,10,100,1,True,True,8,0.00018676199988476583,0.0,1,94.0
+Fixed reuse (r=1),6,11,100,3,True,False,9765,0.39726012200003424,72.0,6,78.0
+Fixed reuse (r=1),6,12,100,1,True,True,6,0.0001950119999492017,0.0,1,98.0
+Fixed reuse (r=1),6,13,100,2,True,False,130,0.003467168000042875,2.0,3,48.0
+Fixed reuse (r=1),6,14,100,2,True,False,7431,0.3077033119998305,70.0,6,86.0
+Warm start (verify all),6,0,100,4,True,True,3328,0.11950513000010687,73.0,1,0.0
+Warm start (verify all),6,1,100,1,True,True,100,0.0029564579999714624,0.0,1,0.0
+Warm start (verify all),6,2,100,4,True,True,2561,0.08939272099996742,62.0,1,0.0
+Warm start (verify all),6,3,100,4,True,True,100,0.0026453369998762355,1.0,1,0.0
+Warm start (verify all),6,4,100,4,True,True,101,0.002696520000199598,38.0,1,0.0
+Warm start (verify all),6,5,100,4,True,True,102,0.0028524860001652996,4.0,1,0.0
+Warm start (verify all),6,6,100,4,True,True,102,0.002845053999863012,37.0,1,0.0
+Warm start (verify all),6,7,100,3,True,True,102,0.00285170899996956,3.0,1,0.0
+Warm start (verify all),6,8,100,4,True,True,102,0.002709196000068914,2.0,1,0.0
+Warm start (verify all),6,9,100,4,True,True,569,0.02070625399983328,76.0,1,0.0
+Warm start (verify all),6,10,100,1,True,True,102,0.0026493289999507397,1.0,1,0.0
+Warm start (verify all),6,11,100,3,True,False,9365,0.37928062300011334,69.0,6,0.0
+Warm start (verify all),6,12,100,1,True,True,104,0.002832695000051899,0.0,1,0.0
+Warm start (verify all),6,13,100,2,True,True,104,0.0028634020000026794,2.0,1,0.0
+Warm start (verify all),6,14,100,2,True,False,7392,0.3050915740000164,70.0,6,0.0
+Cold restart (BT+MRV+FC),7,0,100,3,True,True,250,0.007302136999896902,12.0,1,
+Cold restart (BT+MRV+FC),7,1,100,1,True,True,248,0.007622384000114835,0.0,1,
+Cold restart (BT+MRV+FC),7,2,100,3,True,True,1525,0.05118476100005864,63.0,1,
+Cold restart (BT+MRV+FC),7,3,100,1,True,True,1822,0.05963932700001351,0.0,1,
+Cold restart (BT+MRV+FC),7,4,100,1,True,True,146,0.004054067999959443,59.0,1,
+Cold restart (BT+MRV+FC),7,5,100,4,True,True,731,0.020430174000011903,60.0,1,
+Cold restart (BT+MRV+FC),7,6,100,3,True,True,949,0.027802885000028255,54.0,1,
+Cold restart (BT+MRV+FC),7,7,100,1,True,True,929,0.027321571000129552,3.0,1,
+Cold restart (BT+MRV+FC),7,8,100,2,True,True,778,0.02255629000001136,7.0,1,
+Cold restart (BT+MRV+FC),7,9,100,1,True,True,778,0.022622903999945265,0.0,1,
+Cold restart (BT+MRV+FC),7,10,100,3,True,True,95,0.002701673999808918,52.0,1,
+Cold restart (BT+MRV+FC),7,11,100,2,True,True,96,0.002375196999992113,77.0,1,
+Cold restart (BT+MRV+FC),7,12,100,2,True,True,1966,0.06380394899997555,51.0,1,
+Cold restart (BT+MRV+FC),7,13,100,1,True,True,96,0.0023292030000447994,54.0,1,
+Cold restart (BT+MRV+FC),7,14,100,1,True,True,95,0.002250923000019611,8.0,1,
+Naive Min-Conflicts,7,0,100,3,False,False,4900,0.007470870999895851,,1,
+Naive Min-Conflicts,7,1,100,1,True,True,0,7.074599989209673e-05,0.0,1,
+Naive Min-Conflicts,7,2,100,3,False,False,4901,0.008338718999993944,,1,
+Naive Min-Conflicts,7,3,100,1,False,False,4900,0.008065622000003714,,1,
+Naive Min-Conflicts,7,4,100,1,True,True,0,7.778199983476952e-05,0.0,1,
+Naive Min-Conflicts,7,5,100,4,False,False,4852,0.00796963999982836,,1,
+Naive Min-Conflicts,7,6,100,3,False,False,4853,0.006735922999951072,,1,
+Naive Min-Conflicts,7,7,100,1,True,True,2,8.334700009982043e-05,2.0,1,
+Naive Min-Conflicts,7,8,100,2,True,True,0,7.36330000563612e-05,0.0,1,
+Naive Min-Conflicts,7,9,100,1,True,True,0,8.621799997854396e-05,0.0,1,
+Naive Min-Conflicts,7,10,100,3,True,True,1,7.473400000890251e-05,1.0,1,
+Naive Min-Conflicts,7,11,100,2,True,True,1,7.332799987125327e-05,0.0,1,
+Naive Min-Conflicts,7,12,100,2,False,False,4801,0.0074005310000302416,,1,
+Naive Min-Conflicts,7,13,100,1,True,True,0,7.2260999786522e-05,0.0,1,
+Naive Min-Conflicts,7,14,100,1,True,True,0,6.825499986007344e-05,0.0,1,
+Fixed reuse (r=1),7,0,100,3,True,False,139,0.003480868999986342,9.0,3,28.0
+Fixed reuse (r=1),7,1,100,1,True,True,15,0.00019714400013981503,0.0,1,83.0
+Fixed reuse (r=1),7,2,100,3,True,False,137,0.003216694999991887,30.0,3,57.0
+Fixed reuse (r=1),7,3,100,1,True,True,18,0.00022092100016379845,0.0,1,80.0
+Fixed reuse (r=1),7,4,100,1,True,True,40,0.00047773000005690847,0.0,1,57.0
+Fixed reuse (r=1),7,5,100,4,True,False,185,0.0056822509998255555,74.0,3,47.0
+Fixed reuse (r=1),7,6,100,3,True,True,25,0.0003283339999597956,0.0,1,72.0
+Fixed reuse (r=1),7,7,100,1,True,True,15,0.00020061100008206267,0.0,1,82.0
+Fixed reuse (r=1),7,8,100,2,True,True,70,0.0011503839998567855,0.0,1,26.0
+Fixed reuse (r=1),7,9,100,1,True,True,9,0.00016577099995629396,0.0,1,87.0
+Fixed reuse (r=1),7,10,100,3,True,True,61,0.0009756969998306886,0.0,1,34.0
+Fixed reuse (r=1),7,11,100,2,True,True,16,0.0002341319998322433,1.0,1,80.0
+Fixed reuse (r=1),7,12,100,2,True,False,101,0.002165251000178614,23.0,3,74.0
+Fixed reuse (r=1),7,13,100,1,True,True,0,0.00015342899996539927,0.0,1,96.0
+Fixed reuse (r=1),7,14,100,1,True,True,43,0.0005636160001358803,0.0,1,52.0
+Warm start (verify all),7,0,100,3,True,True,98,0.0023781890001828287,9.0,1,0.0
+Warm start (verify all),7,1,100,1,True,True,98,0.002392988000110563,0.0,1,0.0
+Warm start (verify all),7,2,100,3,True,True,828,0.026289023999879646,63.0,1,0.0
+Warm start (verify all),7,3,100,1,True,True,464,0.013714213999946878,26.0,1,0.0
+Warm start (verify all),7,4,100,1,True,True,97,0.002341191999903458,0.0,1,0.0
+Warm start (verify all),7,5,100,4,True,True,155,0.0032104330000493064,69.0,1,0.0
+Warm start (verify all),7,6,100,3,True,True,165,0.004429217000051722,59.0,1,0.0
+Warm start (verify all),7,7,100,1,True,True,97,0.0026295790000858688,24.0,1,0.0
+Warm start (verify all),7,8,100,2,True,True,96,0.002364292000038404,0.0,1,0.0
+Warm start (verify all),7,9,100,1,True,True,96,0.0023130399999899964,18.0,1,0.0
+Warm start (verify all),7,10,100,3,True,True,95,0.0022751720000542264,38.0,1,0.0
+Warm start (verify all),7,11,100,2,True,True,96,0.0023003569999673346,22.0,1,0.0
+Warm start (verify all),7,12,100,2,True,True,103,0.0024013639999793668,24.0,1,0.0
+Warm start (verify all),7,13,100,1,True,True,96,0.002303198999925371,0.0,1,0.0
+Warm start (verify all),7,14,100,1,True,True,95,0.0023003740000149264,0.0,1,0.0
+Cold restart (BT+MRV+FC),8,0,100,3,True,True,3117,0.1088545789998534,60.0,1,
+Cold restart (BT+MRV+FC),8,1,100,1,True,True,104,0.0031687529999544495,69.0,1,
+Cold restart (BT+MRV+FC),8,2,100,1,True,True,104,0.002707591999978831,0.0,1,
+Cold restart (BT+MRV+FC),8,3,100,3,True,True,5264,0.18940253400000984,34.0,1,
+Cold restart (BT+MRV+FC),8,4,100,4,True,True,5554,0.21375614300018242,14.0,1,
+Cold restart (BT+MRV+FC),8,5,100,3,True,True,427,0.014500429000008808,33.0,1,
+Cold restart (BT+MRV+FC),8,6,100,2,True,True,3600,0.13800990799995816,83.0,1,
+Cold restart (BT+MRV+FC),8,7,100,4,True,True,4415,0.1600348080000913,66.0,1,
+Cold restart (BT+MRV+FC),8,8,100,2,True,True,1416,0.052553380000063044,24.0,1,
+Cold restart (BT+MRV+FC),8,9,100,4,True,True,10057,0.4106621200000973,58.0,1,
+Cold restart (BT+MRV+FC),8,10,100,2,True,True,56493,2.3492895300000782,59.0,1,
+Cold restart (BT+MRV+FC),8,11,100,2,True,True,2567,0.10481507800000145,38.0,1,
+Cold restart (BT+MRV+FC),8,12,100,1,True,True,2432,0.10066766300019481,2.0,1,
+Cold restart (BT+MRV+FC),8,13,100,4,True,True,1379,0.05463412899985087,56.0,1,
+Cold restart (BT+MRV+FC),8,14,100,3,True,True,1205,0.04824808600005781,16.0,1,
+Naive Min-Conflicts,8,0,100,3,False,False,5051,0.008775195999987773,,1,
+Naive Min-Conflicts,8,1,100,1,True,True,1,9.196399992106308e-05,1.0,1,
+Naive Min-Conflicts,8,2,100,1,True,True,0,7.824500016795355e-05,0.0,1,
+Naive Min-Conflicts,8,3,100,3,False,False,5051,0.0071947909998471005,,1,
+Naive Min-Conflicts,8,4,100,4,True,True,0,7.941999979266257e-05,0.0,1,
+Naive Min-Conflicts,8,5,100,3,True,True,0,7.523700014644419e-05,0.0,1,
+Naive Min-Conflicts,8,6,100,2,False,False,5052,0.0086753040000076,,1,
+Naive Min-Conflicts,8,7,100,4,False,False,5051,0.006989960000055362,,1,
+Naive Min-Conflicts,8,8,100,2,True,True,0,8.230499997807783e-05,0.0,1,
+Naive Min-Conflicts,8,9,100,4,False,False,5152,0.00858324899991203,,1,
+Naive Min-Conflicts,8,10,100,2,False,False,5151,0.008575422999911098,,1,
+Naive Min-Conflicts,8,11,100,2,False,False,5201,0.008830237999973178,,1,
+Naive Min-Conflicts,8,12,100,1,True,True,0,0.00012446000005184032,0.0,1,
+Naive Min-Conflicts,8,13,100,4,True,True,0,8.206400002563896e-05,0.0,1,
+Naive Min-Conflicts,8,14,100,3,True,True,14,0.00011646699999801058,2.0,1,
+Fixed reuse (r=1),8,0,100,3,True,False,9751,0.3680831419999322,50.0,4,58.0
+Fixed reuse (r=1),8,1,100,1,True,True,13,0.00020813700007238367,1.0,1,88.0
+Fixed reuse (r=1),8,2,100,1,True,True,13,0.00020908400006192096,0.0,1,88.0
+Fixed reuse (r=1),8,3,100,3,True,False,125,0.0039164089998848794,6.0,3,41.0
+Fixed reuse (r=1),8,4,100,4,True,True,54,0.0008019490001061058,0.0,1,47.0
+Fixed reuse (r=1),8,5,100,3,True,True,67,0.0012414939999416674,0.0,1,33.0
+Fixed reuse (r=1),8,6,100,2,True,False,8677,0.33890973600000507,80.0,6,83.0
+Fixed reuse (r=1),8,7,100,4,True,False,107,0.002930846000026577,5.0,3,64.0
+Fixed reuse (r=1),8,8,100,2,True,True,24,0.00036271500016482605,0.0,1,77.0
+Fixed reuse (r=1),8,9,100,4,True,False,20073,0.8463168450000467,51.0,6,63.0
+Fixed reuse (r=1),8,10,100,2,True,False,61532,2.6632538439998825,59.0,6,87.0
+Fixed reuse (r=1),8,11,100,2,True,False,7628,0.3162493910001558,38.0,6,88.0
+Fixed reuse (r=1),8,12,100,1,True,True,19,0.0002656669998941652,0.0,1,85.0
+Fixed reuse (r=1),8,13,100,4,True,True,90,0.002557619000072009,0.0,1,12.0
+Fixed reuse (r=1),8,14,100,3,True,True,26,0.00036289700005909253,2.0,1,77.0
+Warm start (verify all),8,0,100,3,True,True,4741,0.17793862600001376,50.0,1,0.0
+Warm start (verify all),8,1,100,1,True,True,122,0.003376168000158941,51.0,1,0.0
+Warm start (verify all),8,2,100,1,True,True,101,0.002891233000127613,1.0,1,0.0
+Warm start (verify all),8,3,100,3,True,True,101,0.0027998570001273038,1.0,1,0.0
+Warm start (verify all),8,4,100,4,True,True,1004,0.0361565740001879,26.0,1,0.0
+Warm start (verify all),8,5,100,3,True,True,652,0.02254059100005179,32.0,1,0.0
+Warm start (verify all),8,6,100,2,True,False,8601,0.35499630599997545,73.0,6,0.0
+Warm start (verify all),8,7,100,4,True,True,101,0.00273617099992407,5.0,1,0.0
+Warm start (verify all),8,8,100,2,True,True,101,0.0026233430000957014,0.0,1,0.0
+Warm start (verify all),8,9,100,4,True,False,15058,0.6353962539999429,51.0,6,0.0
+Warm start (verify all),8,10,100,2,True,False,61494,2.7026543470001343,59.0,6,0.0
+Warm start (verify all),8,11,100,2,True,False,7568,0.35930794299997615,38.0,6,0.0
+Warm start (verify all),8,12,100,1,True,True,104,0.0030010909999873547,0.0,1,0.0
+Warm start (verify all),8,13,100,4,True,True,102,0.003207329000133541,0.0,1,0.0
+Warm start (verify all),8,14,100,3,True,True,103,0.0032203279999976075,2.0,1,0.0
+Cold restart (BT+MRV+FC),9,0,100,2,True,True,3648,0.12467526999989786,62.0,1,
+Cold restart (BT+MRV+FC),9,1,100,3,True,True,3184,0.11195808299999044,19.0,1,
+Cold restart (BT+MRV+FC),9,2,100,4,True,True,1281,0.042707626000037635,70.0,1,
+Cold restart (BT+MRV+FC),9,3,100,4,True,True,12412,0.49717380499987485,81.0,1,
+Cold restart (BT+MRV+FC),9,4,100,3,True,True,16730,0.6316929879999407,60.0,1,
+Cold restart (BT+MRV+FC),9,5,100,2,True,True,13470,0.5090367860000242,14.0,1,
+Cold restart (BT+MRV+FC),9,6,100,4,True,True,2043,0.07468284599985964,87.0,1,
+Cold restart (BT+MRV+FC),9,7,100,3,True,True,6683,0.2569425550000233,85.0,1,
+Cold restart (BT+MRV+FC),9,8,100,3,True,True,110082,4.90150662699989,59.0,1,
+Cold restart (BT+MRV+FC),9,9,100,3,True,True,76713,3.3232437710000795,4.0,1,
+Cold restart (BT+MRV+FC),9,10,100,3,True,True,68446,3.039072989000033,3.0,1,
+Cold restart (BT+MRV+FC),9,11,100,4,True,True,39815,1.7753275390000454,7.0,1,
+Cold restart (BT+MRV+FC),9,12,100,2,True,True,28609,1.33567280200009,4.0,1,
+Cold restart (BT+MRV+FC),9,13,100,1,True,True,28275,1.2606446009999672,2.0,1,
+Cold restart (BT+MRV+FC),9,14,100,4,True,True,8239,0.4091790449999735,56.0,1,
+Naive Min-Conflicts,9,0,100,2,False,False,5000,0.0066696420001335355,,1,
+Naive Min-Conflicts,9,1,100,3,True,True,0,7.59609999931854e-05,0.0,1,
+Naive Min-Conflicts,9,2,100,4,False,False,5051,0.007658923000008144,,1,
+Naive Min-Conflicts,9,3,100,4,False,False,5052,0.008149619000050734,,1,
+Naive Min-Conflicts,9,4,100,3,False,False,5101,0.008252791000131765,,1,
+Naive Min-Conflicts,9,5,100,2,True,True,22,0.00012528299998848524,2.0,1,
+Naive Min-Conflicts,9,6,100,4,False,False,5102,0.007966157000055318,,1,
+Naive Min-Conflicts,9,7,100,3,False,False,5152,0.007766037999999753,,1,
+Naive Min-Conflicts,9,8,100,3,False,False,5151,0.007827214999906573,,1,
+Naive Min-Conflicts,9,9,100,3,False,False,5152,0.007946984999989581,,1,
+Naive Min-Conflicts,9,10,100,3,True,True,4,0.00010539599998082849,1.0,1,
+Naive Min-Conflicts,9,11,100,4,True,True,0,8.362499988834315e-05,0.0,1,
+Naive Min-Conflicts,9,12,100,2,True,True,3,9.47159999213909e-05,1.0,1,
+Naive Min-Conflicts,9,13,100,1,True,True,0,8.01020000835706e-05,0.0,1,
+Naive Min-Conflicts,9,14,100,4,True,True,3,9.125800011133833e-05,1.0,1,
+Fixed reuse (r=1),9,0,100,2,True,False,157,0.003823007999926631,27.0,3,71.0
+Fixed reuse (r=1),9,1,100,3,True,True,38,0.0005026960000122926,0.0,1,62.0
+Fixed reuse (r=1),9,2,100,4,True,False,6300,0.21920215399995868,80.0,6,39.0
+Fixed reuse (r=1),9,3,100,4,True,False,758,0.02475872599984541,64.0,3,34.0
+Fixed reuse (r=1),9,4,100,3,True,False,640,0.023369492999790964,27.0,3,66.0
+Fixed reuse (r=1),9,5,100,2,True,True,22,0.0004139150000810332,2.0,1,80.0
+Fixed reuse (r=1),9,6,100,4,True,False,7049,0.33739052299983996,84.0,6,57.0
+Fixed reuse (r=1),9,7,100,3,True,False,104,0.004201727999998184,14.0,3,79.0
+Fixed reuse (r=1),9,8,100,3,True,False,115097,5.1193160930001795,70.0,6,29.0
+Fixed reuse (r=1),9,9,100,3,True,True,33,0.0004575699999804783,1.0,1,70.0
+Fixed reuse (r=1),9,10,100,3,True,True,37,0.000492434999841862,1.0,1,67.0
+Fixed reuse (r=1),9,11,100,4,True,True,55,0.0008212230000026466,0.0,1,49.0
+Fixed reuse (r=1),9,12,100,2,True,True,28,0.0003498690000469651,0.0,1,77.0
+Fixed reuse (r=1),9,13,100,1,True,True,18,0.00025067600017791847,0.0,1,87.0
+Fixed reuse (r=1),9,14,100,4,True,False,1556,0.07285486399996444,53.0,3,69.0
+Warm start (verify all),9,0,100,2,True,False,8649,0.28512091499987946,62.0,6,0.0
+Warm start (verify all),9,1,100,3,True,True,100,0.0026804980000179057,0.0,1,0.0
+Warm start (verify all),9,2,100,4,True,True,1541,0.05091859700019086,35.0,1,0.0
+Warm start (verify all),9,3,100,4,True,False,17413,0.6466203769998629,89.0,6,0.0
+Warm start (verify all),9,4,100,3,True,False,21731,0.8022265719998813,60.0,6,0.0
+Warm start (verify all),9,5,100,2,True,True,102,0.002822632000061276,1.0,1,0.0
+Warm start (verify all),9,6,100,4,True,True,3325,0.1194892930000151,41.0,1,0.0
+Warm start (verify all),9,7,100,3,True,True,103,0.0031998399999793037,0.0,1,0.0
+Warm start (verify all),9,8,100,3,True,True,103,0.0027412250001361826,0.0,1,0.0
+Warm start (verify all),9,9,100,3,True,True,103,0.002814808000039193,3.0,1,0.0
+Warm start (verify all),9,10,100,3,True,True,104,0.0028858250000212138,1.0,1,0.0
+Warm start (verify all),9,11,100,4,True,True,104,0.002866313000140508,0.0,1,0.0
+Warm start (verify all),9,12,100,2,True,True,105,0.002895594999927198,0.0,1,0.0
+Warm start (verify all),9,13,100,1,True,True,105,0.0029103449999183795,0.0,1,0.0
+Warm start (verify all),9,14,100,4,True,False,13240,0.6488282029999937,88.0,6,0.0
+Cold restart (BT+MRV+FC),10,0,100,4,True,True,690,0.059560747999967134,77.0,1,
+Cold restart (BT+MRV+FC),10,1,100,1,True,True,673,0.03474990999984584,0.0,1,
+Cold restart (BT+MRV+FC),10,2,100,4,True,True,2633,0.1043395970000347,53.0,1,
+Cold restart (BT+MRV+FC),10,3,100,4,True,True,1053,0.040639375999944605,57.0,1,
+Cold restart (BT+MRV+FC),10,4,100,3,True,True,1958,0.07750868399989486,74.0,1,
+Cold restart (BT+MRV+FC),10,5,100,1,True,True,1958,0.07438647899994066,0.0,1,
+Cold restart (BT+MRV+FC),10,6,100,4,True,True,2891,0.11348667499987641,81.0,1,
+Cold restart (BT+MRV+FC),10,7,100,4,True,True,100,0.00274387299987211,69.0,1,
+Cold restart (BT+MRV+FC),10,8,100,1,True,True,100,0.0026300000001810986,0.0,1,
+Cold restart (BT+MRV+FC),10,9,100,1,True,True,100,0.003216699000176959,0.0,1,
+Cold restart (BT+MRV+FC),10,10,100,4,True,True,7112,0.2820743920001405,66.0,1,
+Cold restart (BT+MRV+FC),10,11,100,2,True,True,4665,0.24114376600005016,43.0,1,
+Cold restart (BT+MRV+FC),10,12,100,3,True,True,413,0.019166442000141615,69.0,1,
+Cold restart (BT+MRV+FC),10,13,100,1,True,True,434,0.01480296299996553,18.0,1,
+Cold restart (BT+MRV+FC),10,14,100,3,True,True,98,0.002565903000004255,59.0,1,
+Naive Min-Conflicts,10,0,100,4,False,False,5000,0.008325146000061068,,1,
+Naive Min-Conflicts,10,1,100,1,True,True,0,8.095099997262878e-05,0.0,1,
+Naive Min-Conflicts,10,2,100,4,False,False,5002,0.007680176000121719,,1,
+Naive Min-Conflicts,10,3,100,4,False,False,4952,0.007603512000059709,,1,
+Naive Min-Conflicts,10,4,100,3,False,False,4951,0.008595370999955776,,1,
+Naive Min-Conflicts,10,5,100,1,True,True,0,8.883300006345962e-05,0.0,1,
+Naive Min-Conflicts,10,6,100,4,False,False,5003,0.007821228000011615,,1,
+Naive Min-Conflicts,10,7,100,4,True,True,2,0.00010117700003320351,2.0,1,
+Naive Min-Conflicts,10,8,100,1,True,True,0,8.326200008923479e-05,0.0,1,
+Naive Min-Conflicts,10,9,100,1,True,True,0,0.00010587199994915863,0.0,1,
+Naive Min-Conflicts,10,10,100,4,False,False,5002,0.008242004000067027,,1,
+Naive Min-Conflicts,10,11,100,2,True,True,0,8.058399998844834e-05,0.0,1,
+Naive Min-Conflicts,10,12,100,3,True,True,7,9.552799997436523e-05,2.0,1,
+Naive Min-Conflicts,10,13,100,1,True,True,0,7.60809998610057e-05,0.0,1,
+Naive Min-Conflicts,10,14,100,3,True,True,1,8.110500016300648e-05,1.0,1,
+Fixed reuse (r=1),10,0,100,4,True,False,124,0.003237418000026082,10.0,3,57.0
+Fixed reuse (r=1),10,1,100,1,True,True,17,0.0002408269999705226,0.0,1,83.0
+Fixed reuse (r=1),10,2,100,4,True,False,5231,0.2178999790000944,24.0,4,60.0
+Fixed reuse (r=1),10,3,100,4,True,False,128,0.0038572429998566804,60.0,3,52.0
+Fixed reuse (r=1),10,4,100,3,True,False,11964,0.5143175019998125,72.0,6,58.0
+Fixed reuse (r=1),10,5,100,1,True,True,3,0.0002478389999396313,0.0,1,96.0
+Fixed reuse (r=1),10,6,100,4,True,True,39,0.0008036859999265289,0.0,1,61.0
+Fixed reuse (r=1),10,7,100,4,True,True,38,0.00079254199999923,0.0,1,62.0
+Fixed reuse (r=1),10,8,100,1,True,True,17,0.00037848000010853866,0.0,1,83.0
+Fixed reuse (r=1),10,9,100,1,True,True,13,0.00032245100010186434,3.0,1,87.0
+Fixed reuse (r=1),10,10,100,4,True,True,40,0.0007969620000949362,0.0,1,60.0
+Fixed reuse (r=1),10,11,100,2,True,True,64,0.0016931350000959355,0.0,1,35.0
+Fixed reuse (r=1),10,12,100,3,True,True,82,0.002595015999986572,1.0,1,16.0
+Fixed reuse (r=1),10,13,100,1,True,True,18,0.00031946200010679604,0.0,1,80.0
+Fixed reuse (r=1),10,14,100,3,True,True,26,0.0004938570000376785,4.0,1,72.0
+Warm start (verify all),10,0,100,4,True,True,100,0.0037594129998979042,10.0,1,0.0
+Warm start (verify all),10,1,100,1,True,True,100,0.0035820119999243616,0.0,1,0.0
+Warm start (verify all),10,2,100,4,True,True,222,0.009832661000018561,24.0,1,0.0
+Warm start (verify all),10,3,100,4,True,True,496,0.023787741999967693,60.0,1,0.0
+Warm start (verify all),10,4,100,3,True,False,6959,0.2769425589999628,71.0,6,0.0
+Warm start (verify all),10,5,100,1,True,True,99,0.003493926999908581,0.0,1,0.0
+Warm start (verify all),10,6,100,4,True,True,100,0.0027472009999200964,0.0,1,0.0
+Warm start (verify all),10,7,100,4,True,True,100,0.0027964839998730895,0.0,1,0.0
+Warm start (verify all),10,8,100,1,True,True,100,0.002755999999862979,0.0,1,0.0
+Warm start (verify all),10,9,100,1,True,True,100,0.00279238100006296,3.0,1,0.0
+Warm start (verify all),10,10,100,4,True,True,100,0.0026904300000296644,0.0,1,0.0
+Warm start (verify all),10,11,100,2,True,True,99,0.0026294969998161832,0.0,1,0.0
+Warm start (verify all),10,12,100,3,True,True,98,0.0025358069999583677,1.0,1,0.0
+Warm start (verify all),10,13,100,1,True,True,98,0.002539479000006395,0.0,1,0.0
+Warm start (verify all),10,14,100,3,True,True,98,0.0029934500000763364,25.0,1,0.0
+Cold restart (BT+MRV+FC),11,0,100,2,True,True,927,0.0327078469999833,45.0,1,
+Cold restart (BT+MRV+FC),11,1,100,4,True,True,597,0.022405276000199592,11.0,1,
+Cold restart (BT+MRV+FC),11,2,100,3,True,True,580,0.022757994999892617,85.0,1,
+Cold restart (BT+MRV+FC),11,3,100,3,True,True,786,0.031006813999965743,62.0,1,
+Cold restart (BT+MRV+FC),11,4,100,4,True,True,103,0.0028913659998579533,79.0,1,
+Cold restart (BT+MRV+FC),11,5,100,1,True,True,103,0.0029401500000858505,73.0,1,
+Cold restart (BT+MRV+FC),11,6,100,2,True,True,102,0.0032648579999658978,1.0,1,
+Cold restart (BT+MRV+FC),11,7,100,3,True,True,103,0.0030077080000410206,46.0,1,
+Cold restart (BT+MRV+FC),11,8,100,1,True,True,103,0.0030050319999190833,32.0,1,
+Cold restart (BT+MRV+FC),11,9,100,4,True,True,103,0.003017708000015773,80.0,1,
+Cold restart (BT+MRV+FC),11,10,100,2,True,True,5451,0.2437154179999652,68.0,1,
+Cold restart (BT+MRV+FC),11,11,100,2,True,True,103,0.003048360999855504,57.0,1,
+Cold restart (BT+MRV+FC),11,12,100,4,True,True,102,0.002882164000084231,80.0,1,
+Cold restart (BT+MRV+FC),11,13,100,2,True,True,102,0.004014107999864791,69.0,1,
+Cold restart (BT+MRV+FC),11,14,100,1,True,True,102,0.0034673810000640515,26.0,1,
+Naive Min-Conflicts,11,0,100,2,False,False,5000,0.00791181299996424,,1,
+Naive Min-Conflicts,11,1,100,4,True,True,211,0.0004710099999556405,4.0,1,
+Naive Min-Conflicts,11,2,100,3,False,False,5100,0.007796314999950482,,1,
+Naive Min-Conflicts,11,3,100,3,False,False,5101,0.008040579000180514,,1,
+Naive Min-Conflicts,11,4,100,4,True,True,3,0.00010335900014979416,2.0,1,
+Naive Min-Conflicts,11,5,100,1,True,True,0,8.350699999937206e-05,0.0,1,
+Naive Min-Conflicts,11,6,100,2,True,True,1,8.792699986770458e-05,1.0,1,
+Naive Min-Conflicts,11,7,100,3,True,True,2,9.169899999506015e-05,1.0,1,
+Naive Min-Conflicts,11,8,100,1,True,True,0,8.431899982497271e-05,0.0,1,
+Naive Min-Conflicts,11,9,100,4,True,True,0,8.579799987273873e-05,0.0,1,
+Naive Min-Conflicts,11,10,100,2,False,False,5155,0.00829278199989858,,1,
+Naive Min-Conflicts,11,11,100,2,True,True,0,8.786200010035827e-05,0.0,1,
+Naive Min-Conflicts,11,12,100,4,True,True,1,0.00012159199991401692,1.0,1,
+Naive Min-Conflicts,11,13,100,2,True,True,0,8.257800004685123e-05,0.0,1,
+Naive Min-Conflicts,11,14,100,1,True,True,0,8.263400013674982e-05,0.0,1,
+Fixed reuse (r=1),11,0,100,2,True,False,469,0.017899291000048834,41.0,3,66.0
+Fixed reuse (r=1),11,1,100,4,True,False,1100,0.03965768099988054,14.0,3,55.0
+Fixed reuse (r=1),11,2,100,3,True,True,55,0.0008204420000765822,0.0,1,47.0
+Fixed reuse (r=1),11,3,100,3,True,True,44,0.0006099910001466924,0.0,1,58.0
+Fixed reuse (r=1),11,4,100,4,True,True,34,0.0004763320000620297,6.0,1,69.0
+Fixed reuse (r=1),11,5,100,1,True,True,11,0.00021288400012053899,0.0,1,92.0
+Fixed reuse (r=1),11,6,100,2,True,True,22,0.0003181540000696259,0.0,1,80.0
+Fixed reuse (r=1),11,7,100,3,True,True,43,0.0006735930001013912,0.0,1,60.0
+Fixed reuse (r=1),11,8,100,1,True,True,8,0.0002060209999399376,3.0,1,95.0
+Fixed reuse (r=1),11,9,100,4,True,True,30,0.000403010000127324,0.0,1,73.0
+Fixed reuse (r=1),11,10,100,2,True,False,6719,0.3069814430000406,63.0,4,50.0
+Fixed reuse (r=1),11,11,100,2,True,True,12,0.0002370099998643127,0.0,1,91.0
+Fixed reuse (r=1),11,12,100,4,True,True,76,0.0016709520000404154,27.0,1,26.0
+Fixed reuse (r=1),11,13,100,2,True,True,23,0.00034811699993042566,0.0,1,79.0
+Fixed reuse (r=1),11,14,100,1,True,True,14,0.0003199259999746573,1.0,1,88.0
+Warm start (verify all),11,0,100,2,True,True,884,0.03189027600001282,36.0,1,0.0
+Warm start (verify all),11,1,100,4,True,True,102,0.0027809480000087206,4.0,1,0.0
+Warm start (verify all),11,2,100,3,True,True,880,0.030400322000105007,66.0,1,0.0
+Warm start (verify all),11,3,100,3,True,True,4046,0.16231514800006153,47.0,1,0.0
+Warm start (verify all),11,4,100,4,True,True,103,0.003153522000047815,39.0,1,0.0
+Warm start (verify all),11,5,100,1,True,True,103,0.0030950640000355634,0.0,1,0.0
+Warm start (verify all),11,6,100,2,True,True,102,0.0033490890000393847,1.0,1,0.0
+Warm start (verify all),11,7,100,3,True,True,103,0.0029893139999330742,28.0,1,0.0
+Warm start (verify all),11,8,100,1,True,True,103,0.002983851999942999,0.0,1,0.0
+Warm start (verify all),11,9,100,4,True,True,103,0.0030040300000564457,35.0,1,0.0
+Warm start (verify all),11,10,100,2,True,False,10452,0.4715276490001088,75.0,6,0.0
+Warm start (verify all),11,11,100,2,True,True,103,0.003027382000027501,43.0,1,0.0
+Warm start (verify all),11,12,100,4,True,True,102,0.0029293049999523646,52.0,1,0.0
+Warm start (verify all),11,13,100,2,True,True,102,0.0029231570001684304,45.0,1,0.0
+Warm start (verify all),11,14,100,1,True,True,102,0.0034455670001989347,0.0,1,0.0
+Cold restart (BT+MRV+FC),12,0,150,4,True,True,275,0.01110362500003248,109.0,1,
+Cold restart (BT+MRV+FC),12,1,150,1,True,True,282,0.01131110100004662,15.0,1,
+Cold restart (BT+MRV+FC),12,2,150,3,True,True,31990,1.7163912070000151,76.0,1,
+Cold restart (BT+MRV+FC),12,3,150,1,True,True,29273,1.5620578380001007,69.0,1,
+Cold restart (BT+MRV+FC),12,4,150,4,True,True,148,0.005481017999954929,117.0,1,
+Cold restart (BT+MRV+FC),12,5,150,1,True,True,148,0.005500061999782702,0.0,1,
+Cold restart (BT+MRV+FC),12,6,150,3,True,True,1436,0.062118805000181965,69.0,1,
+Cold restart (BT+MRV+FC),12,7,150,1,True,True,1706,0.07568828700004815,27.0,1,
+Cold restart (BT+MRV+FC),12,8,150,1,True,True,1711,0.07643745200016383,0.0,1,
+Cold restart (BT+MRV+FC),12,9,150,4,True,True,265,0.010935526999901413,82.0,1,
+Cold restart (BT+MRV+FC),12,10,150,2,True,True,148,0.005619539999997869,47.0,1,
+Cold restart (BT+MRV+FC),12,11,150,2,True,True,148,0.005527467000092656,41.0,1,
+Cold restart (BT+MRV+FC),12,12,150,2,True,True,148,0.005562269999927594,83.0,1,
+Cold restart (BT+MRV+FC),12,13,150,3,True,True,149,0.005698902000176531,109.0,1,
+Cold restart (BT+MRV+FC),12,14,150,1,True,True,149,0.005609350999975504,83.0,1,
+Naive Min-Conflicts,12,0,150,4,False,False,7451,0.013445056000136901,,1,
+Naive Min-Conflicts,12,1,150,1,True,True,1,0.00011886099991897936,1.0,1,
+Naive Min-Conflicts,12,2,150,3,False,False,7451,0.011917953999954989,,1,
+Naive Min-Conflicts,12,3,150,1,True,True,0,0.00011129800009257451,0.0,1,
+Naive Min-Conflicts,12,4,150,4,False,False,7402,0.010889783999800784,,1,
+Naive Min-Conflicts,12,5,150,1,True,True,0,0.00012125600005674642,0.0,1,
+Naive Min-Conflicts,12,6,150,3,True,True,3,0.00018172000000049593,3.0,1,
+Naive Min-Conflicts,12,7,150,1,True,True,3,0.0001231999999617983,2.0,1,
+Naive Min-Conflicts,12,8,150,1,False,False,7400,0.011772081999879447,,1,
+Naive Min-Conflicts,12,9,150,4,False,False,7401,0.0120397209998373,,1,
+Naive Min-Conflicts,12,10,150,2,True,True,1,0.00013130899992574996,1.0,1,
+Naive Min-Conflicts,12,11,150,2,True,True,2,0.00012842699993598217,2.0,1,
+Naive Min-Conflicts,12,12,150,2,True,True,2,0.00012113699995097704,2.0,1,
+Naive Min-Conflicts,12,13,150,3,True,True,22,0.00018868899996959954,5.0,1,
+Naive Min-Conflicts,12,14,150,1,True,True,0,0.00011337099999764177,0.0,1,
+Fixed reuse (r=1),12,0,150,4,True,False,159,0.007052390999888303,83.0,3,67.0
+Fixed reuse (r=1),12,1,150,1,True,True,4,0.00023245800002769101,1.0,1,145.0
+Fixed reuse (r=1),12,2,150,3,True,False,1093,0.047087762000046496,77.0,3,114.0
+Fixed reuse (r=1),12,3,150,1,True,True,51,0.0008799020001788449,0.0,1,97.0
+Fixed reuse (r=1),12,4,150,4,True,True,65,0.0011813349999556522,0.0,1,83.0
+Fixed reuse (r=1),12,5,150,1,True,True,8,0.00024409399998148729,0.0,1,140.0
+Fixed reuse (r=1),12,6,150,3,True,False,1887,0.08900153400009003,56.0,4,115.0
+Fixed reuse (r=1),12,7,150,1,True,True,11,0.00027613800011749845,1.0,1,137.0
+Fixed reuse (r=1),12,8,150,1,True,True,16,0.0003021800000624353,0.0,1,132.0
+Fixed reuse (r=1),12,9,150,4,True,False,1955,0.08884701400006634,51.0,3,63.0
+Fixed reuse (r=1),12,10,150,2,True,True,30,0.0004744069999560452,0.0,1,118.0
+Fixed reuse (r=1),12,11,150,2,True,True,28,0.0005018259998905705,3.0,1,120.0
+Fixed reuse (r=1),12,12,150,2,True,True,16,0.00032345599993277574,1.0,1,132.0
+Fixed reuse (r=1),12,13,150,3,True,True,28,0.00043623900000966387,4.0,1,121.0
+Fixed reuse (r=1),12,14,150,1,True,True,16,0.0003188630000749981,0.0,1,133.0
+Warm start (verify all),12,0,150,4,True,True,229,0.008785837000004904,90.0,1,0.0
+Warm start (verify all),12,1,150,1,True,True,149,0.006005319999985659,1.0,1,0.0
+Warm start (verify all),12,2,150,3,True,True,149,0.005635049999909825,70.0,1,0.0
+Warm start (verify all),12,3,150,1,True,True,148,0.005523559000039313,0.0,1,0.0
+Warm start (verify all),12,4,150,4,True,True,878,0.03784954400020979,73.0,1,0.0
+Warm start (verify all),12,5,150,1,True,True,148,0.005597683999894798,0.0,1,0.0
+Warm start (verify all),12,6,150,3,True,True,148,0.00558629099987229,3.0,1,0.0
+Warm start (verify all),12,7,150,1,True,True,148,0.005927014000008057,2.0,1,0.0
+Warm start (verify all),12,8,150,1,True,True,2037,0.09742919499990421,46.0,1,0.0
+Warm start (verify all),12,9,150,4,True,True,1187,0.050601542999856974,48.0,1,0.0
+Warm start (verify all),12,10,150,2,True,True,148,0.005701223999949434,21.0,1,0.0
+Warm start (verify all),12,11,150,2,True,True,148,0.005614375000050131,48.0,1,0.0
+Warm start (verify all),12,12,150,2,True,True,148,0.005687351000005947,2.0,1,0.0
+Warm start (verify all),12,13,150,3,True,True,160,0.006466373999955977,37.0,1,0.0
+Warm start (verify all),12,14,150,1,True,True,149,0.005837143999997352,0.0,1,0.0
+Cold restart (BT+MRV+FC),13,0,150,3,True,True,3967,0.2151825620001091,79.0,1,
+Cold restart (BT+MRV+FC),13,1,150,1,True,True,1949,0.10469530099999247,88.0,1,
+Cold restart (BT+MRV+FC),13,2,150,4,True,True,4248,0.19269036600007894,110.0,1,
+Cold restart (BT+MRV+FC),13,3,150,1,True,True,3056,0.15051030099994023,107.0,1,
+Cold restart (BT+MRV+FC),13,4,150,2,True,True,963,0.0453987609998876,112.0,1,
+Cold restart (BT+MRV+FC),13,5,150,4,True,True,27173,1.4867563669999981,98.0,1,
+Cold restart (BT+MRV+FC),13,6,150,4,True,True,32735,1.775950081000019,6.0,1,
+Cold restart (BT+MRV+FC),13,7,150,1,True,True,17350,0.9543293740000536,5.0,1,
+Cold restart (BT+MRV+FC),13,8,150,1,True,True,245,0.0094911650000995,105.0,1,
+Cold restart (BT+MRV+FC),13,9,150,1,True,True,2033,0.09595038100019337,82.0,1,
+Cold restart (BT+MRV+FC),13,10,150,1,True,True,3868,0.20566231499992682,84.0,1,
+Cold restart (BT+MRV+FC),13,11,150,1,True,True,3723,0.19413144700001794,3.0,1,
+Cold restart (BT+MRV+FC),13,12,150,3,True,True,147,0.005321813000136899,93.0,1,
+Cold restart (BT+MRV+FC),13,13,150,4,True,True,147,0.0052951740001390135,105.0,1,
+Cold restart (BT+MRV+FC),13,14,150,4,True,True,148,0.005423886000016864,31.0,1,
+Naive Min-Conflicts,13,0,150,3,True,True,2,0.0001252490001206752,2.0,1,
+Naive Min-Conflicts,13,1,150,1,True,True,0,0.00011161299994455476,0.0,1,
+Naive Min-Conflicts,13,2,150,4,False,False,7402,0.012334680000094522,,1,
+Naive Min-Conflicts,13,3,150,1,False,False,7401,0.012286849000020084,,1,
+Naive Min-Conflicts,13,4,150,2,False,False,7401,0.011770085000080144,,1,
+Naive Min-Conflicts,13,5,150,4,False,False,7402,0.011504462000175408,,1,
+Naive Min-Conflicts,13,6,150,4,True,True,3,0.00012775599998349207,1.0,1,
+Naive Min-Conflicts,13,7,150,1,False,False,7400,0.011671280999962619,,1,
+Naive Min-Conflicts,13,8,150,1,False,False,7401,0.012136112000007415,,1,
+Naive Min-Conflicts,13,9,150,1,True,True,0,0.00011936100008824724,0.0,1,
+Naive Min-Conflicts,13,10,150,1,True,True,3,0.00012456499985091796,1.0,1,
+Naive Min-Conflicts,13,11,150,1,True,True,1,0.00011574900008781697,1.0,1,
+Naive Min-Conflicts,13,12,150,3,True,True,0,0.0001374899998154433,0.0,1,
+Naive Min-Conflicts,13,13,150,4,True,True,2,0.0001236390000940446,1.0,1,
+Naive Min-Conflicts,13,14,150,4,True,True,3,0.0001224929999352753,2.0,1,
+Fixed reuse (r=1),13,0,150,3,True,True,98,0.0024542790001760295,1.0,1,50.0
+Fixed reuse (r=1),13,1,150,1,True,True,15,0.00034591799999361683,0.0,1,133.0
+Fixed reuse (r=1),13,2,150,4,True,False,3297,0.16428627100003723,30.0,4,111.0
+Fixed reuse (r=1),13,3,150,1,True,False,689,0.031346314000074926,75.0,4,135.0
+Fixed reuse (r=1),13,4,150,2,True,False,6014,0.3184836030000042,115.0,6,125.0
+Fixed reuse (r=1),13,5,150,4,True,True,45,0.0006327579999378941,3.0,1,103.0
+Fixed reuse (r=1),13,6,150,4,True,False,5378,0.2789959730000646,42.0,4,64.0
+Fixed reuse (r=1),13,7,150,1,True,True,16,0.00034370799994576373,0.0,1,132.0
+Fixed reuse (r=1),13,8,150,1,True,True,12,0.00026225100009469315,0.0,1,136.0
+Fixed reuse (r=1),13,9,150,1,True,True,74,0.0019430539998666063,0.0,1,73.0
+Fixed reuse (r=1),13,10,150,1,True,False,13894,0.7299304789999042,97.0,6,139.0
+Fixed reuse (r=1),13,11,150,1,True,True,4,0.00028074600004401873,0.0,1,144.0
+Fixed reuse (r=1),13,12,150,3,True,True,67,0.0012728330000300048,0.0,1,80.0
+Fixed reuse (r=1),13,13,150,4,True,True,74,0.0019346100000348088,3.0,1,73.0
+Fixed reuse (r=1),13,14,150,4,True,True,44,0.0007309229999918898,0.0,1,104.0
+Warm start (verify all),13,0,150,3,True,True,148,0.005629974999919796,1.0,1,0.0
+Warm start (verify all),13,1,150,1,True,True,148,0.005641958999831331,0.0,1,0.0
+Warm start (verify all),13,2,150,4,True,True,1919,0.08400591899999199,30.0,1,0.0
+Warm start (verify all),13,3,150,1,True,True,652,0.028917805999981283,75.0,1,0.0
+Warm start (verify all),13,4,150,2,True,False,5964,0.3079175130001204,115.0,6,0.0
+Warm start (verify all),13,5,150,4,True,True,148,0.0057048740000027465,3.0,1,0.0
+Warm start (verify all),13,6,150,4,True,True,345,0.013750907000030566,42.0,1,0.0
+Warm start (verify all),13,7,150,1,True,True,148,0.005643457999894963,0.0,1,0.0
+Warm start (verify all),13,8,150,1,True,True,148,0.005561788000022716,0.0,1,0.0
+Warm start (verify all),13,9,150,1,True,True,147,0.005851278000136517,0.0,1,0.0
+Warm start (verify all),13,10,150,1,True,False,8869,0.4613940960000491,97.0,6,0.0
+Warm start (verify all),13,11,150,1,True,True,148,0.0055041719999735506,0.0,1,0.0
+Warm start (verify all),13,12,150,3,True,True,147,0.005548234999878332,0.0,1,0.0
+Warm start (verify all),13,13,150,4,True,True,147,0.005379361999985122,15.0,1,0.0
+Warm start (verify all),13,14,150,4,True,True,148,0.006041147999894747,0.0,1,0.0
+Cold restart (BT+MRV+FC),14,0,150,3,True,True,4113,0.22755297200001223,87.0,1,
+Cold restart (BT+MRV+FC),14,1,150,2,True,True,3798,0.2103905769999983,20.0,1,
+Cold restart (BT+MRV+FC),14,2,150,1,True,True,2368,0.12687788400012323,7.0,1,
+Cold restart (BT+MRV+FC),14,3,150,1,True,True,2411,0.12496784900008606,107.0,1,
+Cold restart (BT+MRV+FC),14,4,150,3,True,True,1896,0.0983541719999721,23.0,1,
+Cold restart (BT+MRV+FC),14,5,150,1,True,True,190,0.007468676999906165,108.0,1,
+Cold restart (BT+MRV+FC),14,6,150,2,True,True,3354,0.18291604799992456,81.0,1,
+Cold restart (BT+MRV+FC),14,7,150,2,True,True,7067,0.3956507220000276,107.0,1,
+Cold restart (BT+MRV+FC),14,8,150,4,True,True,112523,6.958655353999802,124.0,1,
+Cold restart (BT+MRV+FC),14,9,150,4,True,True,116741,7.201743276000116,5.0,1,
+Cold restart (BT+MRV+FC),14,10,150,3,True,True,72984,4.439419735000001,86.0,1,
+Cold restart (BT+MRV+FC),14,11,150,4,True,True,61797,3.808178115000146,12.0,1,
+Cold restart (BT+MRV+FC),14,12,150,1,True,True,57619,3.328902934000098,13.0,1,
+Cold restart (BT+MRV+FC),14,13,150,3,True,True,95328,5.6445291330001055,93.0,1,
+Cold restart (BT+MRV+FC),14,14,150,3,True,True,148,0.005483669000113878,93.0,1,
+Naive Min-Conflicts,14,0,150,3,False,False,7451,0.012257332999979553,,1,
+Naive Min-Conflicts,14,1,150,2,False,False,7451,0.010830802000100448,,1,
+Naive Min-Conflicts,14,2,150,1,True,True,0,0.00011484099991321273,0.0,1,
+Naive Min-Conflicts,14,3,150,1,False,False,7451,0.01119002499990529,,1,
+Naive Min-Conflicts,14,4,150,3,False,False,7400,0.011762473000089813,,1,
+Naive Min-Conflicts,14,5,150,1,False,False,7401,0.01098759800015614,,1,
+Naive Min-Conflicts,14,6,150,2,True,True,78,0.0002420900000288384,7.0,1,
+Naive Min-Conflicts,14,7,150,2,True,True,483,0.0008703490000243619,9.0,1,
+Naive Min-Conflicts,14,8,150,4,False,False,7502,0.010918348000132028,,1,
+Naive Min-Conflicts,14,9,150,4,False,False,7450,0.012300903000095786,,1,
+Naive Min-Conflicts,14,10,150,3,False,False,7451,0.010709858000154782,,1,
+Naive Min-Conflicts,14,11,150,4,False,False,7453,0.012307344999953784,,1,
+Naive Min-Conflicts,14,12,150,1,True,True,0,0.00011714500010384654,0.0,1,
+Naive Min-Conflicts,14,13,150,3,False,False,7401,0.010144682999907673,,1,
+Naive Min-Conflicts,14,14,150,3,True,True,2,0.0001285119999465678,2.0,1,
+Fixed reuse (r=1),14,0,150,3,True,False,936,0.047889739999845915,46.0,3,85.0
+Fixed reuse (r=1),14,1,150,2,True,True,23,0.00034026699995592935,0.0,1,126.0
+Fixed reuse (r=1),14,2,150,1,True,True,21,0.00031796600001143815,0.0,1,128.0
+Fixed reuse (r=1),14,3,150,1,True,False,12449,0.711425669999926,96.0,6,139.0
+Fixed reuse (r=1),14,4,150,3,True,True,74,0.0014428989998123143,0.0,1,74.0
+Fixed reuse (r=1),14,5,150,1,True,True,11,0.00028910399987580604,0.0,1,137.0
+Fixed reuse (r=1),14,6,150,2,True,False,2606,0.13849625400007426,68.0,4,121.0
+Fixed reuse (r=1),14,7,150,2,True,True,32,0.0005137690000083239,0.0,1,117.0
+Fixed reuse (r=1),14,8,150,4,True,True,38,0.0005792079998627742,1.0,1,112.0
+Fixed reuse (r=1),14,9,150,4,True,True,102,0.002653387999998813,0.0,1,47.0
+Fixed reuse (r=1),14,10,150,3,True,False,8817,0.5054311290000442,88.0,4,73.0
+Fixed reuse (r=1),14,11,150,4,True,False,71811,4.295209685000145,117.0,6,106.0
+Fixed reuse (r=1),14,12,150,1,True,True,52,0.0008490639997944527,0.0,1,96.0
+Fixed reuse (r=1),14,13,150,3,True,False,105541,6.1281440349998775,93.0,6,113.0
+Fixed reuse (r=1),14,14,150,3,True,True,33,0.0005359889998999279,0.0,1,115.0
+Warm start (verify all),14,0,150,3,True,True,3213,0.14722660000006726,52.0,1,0.0
+Warm start (verify all),14,1,150,2,True,True,154,0.005476111000007222,12.0,1,0.0
+Warm start (verify all),14,2,150,1,True,True,149,0.0054944930000147,0.0,1,0.0
+Warm start (verify all),14,3,150,1,True,True,1553,0.07627033300013863,90.0,1,0.0
+Warm start (verify all),14,4,150,3,True,True,3004,0.15051247700012027,59.0,1,0.0
+Warm start (verify all),14,5,150,1,True,True,707,0.031895484999949986,65.0,1,0.0
+Warm start (verify all),14,6,150,2,True,True,857,0.03377330500006792,7.0,1,0.0
+Warm start (verify all),14,7,150,2,True,True,173,0.006209044999877733,9.0,1,0.0
+Warm start (verify all),14,8,150,4,True,True,216,0.0075060940000639675,13.0,1,0.0
+Warm start (verify all),14,9,150,4,True,True,149,0.005938163999871904,3.0,1,0.0
+Warm start (verify all),14,10,150,3,True,True,169,0.0063965889999053616,45.0,1,0.0
+Warm start (verify all),14,11,150,4,True,True,2927,0.16152031199999328,111.0,1,0.0
+Warm start (verify all),14,12,150,1,True,True,148,0.005349163999881057,0.0,1,0.0
+Warm start (verify all),14,13,150,3,True,False,100329,5.888546012000006,103.0,6,0.0
+Warm start (verify all),14,14,150,3,True,True,148,0.006297076000009838,0.0,1,0.0
+Cold restart (BT+MRV+FC),15,0,150,2,True,True,3197,0.19098656899996058,48.0,1,
+Cold restart (BT+MRV+FC),15,1,150,1,True,True,3197,0.191523504000088,3.0,1,
+Cold restart (BT+MRV+FC),15,2,150,4,True,True,426,0.021504984999864973,87.0,1,
+Cold restart (BT+MRV+FC),15,3,150,2,True,True,150,0.005839668000135134,81.0,1,
+Cold restart (BT+MRV+FC),15,4,150,4,True,True,150,0.0062281650000386435,79.0,1,
+Cold restart (BT+MRV+FC),15,5,150,3,True,True,150,0.005816646000084802,0.0,1,
+Cold restart (BT+MRV+FC),15,6,150,2,True,True,151,0.006167343000015535,83.0,1,
+Cold restart (BT+MRV+FC),15,7,150,4,True,True,152,0.006000893999953405,103.0,1,
+Cold restart (BT+MRV+FC),15,8,150,1,True,True,152,0.006018764999907944,0.0,1,
+Cold restart (BT+MRV+FC),15,9,150,1,True,True,152,0.006047807999948418,88.0,1,
+Cold restart (BT+MRV+FC),15,10,150,4,True,True,153,0.006770154999912847,111.0,1,
+Cold restart (BT+MRV+FC),15,11,150,2,True,True,153,0.006044664000000921,63.0,1,
+Cold restart (BT+MRV+FC),15,12,150,1,True,True,153,0.005989318999809257,131.0,1,
+Cold restart (BT+MRV+FC),15,13,150,1,True,True,153,0.006001037000032738,112.0,1,
+Cold restart (BT+MRV+FC),15,14,150,4,True,True,153,0.006139862000054563,112.0,1,
+Naive Min-Conflicts,15,0,150,2,False,False,7500,0.01169957499996599,,1,
+Naive Min-Conflicts,15,1,150,1,True,True,0,0.0001089820000288455,0.0,1,
+Naive Min-Conflicts,15,2,150,4,False,False,7502,0.013055437999810238,,1,
+Naive Min-Conflicts,15,3,150,2,True,True,0,0.00012073999982931127,0.0,1,
+Naive Min-Conflicts,15,4,150,4,True,True,4,0.00013092500012135133,4.0,1,
+Naive Min-Conflicts,15,5,150,3,True,True,1,0.00012254700004632468,1.0,1,
+Naive Min-Conflicts,15,6,150,2,True,True,1,0.0001233209998190432,0.0,1,
+Naive Min-Conflicts,15,7,150,4,True,True,2,0.00014792699994359282,1.0,1,
+Naive Min-Conflicts,15,8,150,1,True,True,0,0.00012461400001484435,0.0,1,
+Naive Min-Conflicts,15,9,150,1,True,True,3,0.0001285099999677186,1.0,1,
+Naive Min-Conflicts,15,10,150,4,True,True,3,0.00012909699989904766,2.0,1,
+Naive Min-Conflicts,15,11,150,2,True,True,2,0.000128564000078768,2.0,1,
+Naive Min-Conflicts,15,12,150,1,True,True,0,0.00012504999995144317,0.0,1,
+Naive Min-Conflicts,15,13,150,1,True,True,0,0.00012332500000411528,0.0,1,
+Naive Min-Conflicts,15,14,150,4,True,True,4,0.00013483200018526986,4.0,1,
+Fixed reuse (r=1),15,0,150,2,True,False,956,0.05123040600005879,43.0,4,115.0
+Fixed reuse (r=1),15,1,150,1,True,True,14,0.00028472100007093104,0.0,1,136.0
+Fixed reuse (r=1),15,2,150,4,True,False,10447,0.6743404070000452,82.0,6,106.0
+Fixed reuse (r=1),15,3,150,2,True,True,4,0.00025102599988713337,1.0,1,146.0
+Fixed reuse (r=1),15,4,150,4,True,True,34,0.0005192440000882925,7.0,1,116.0
+Fixed reuse (r=1),15,5,150,3,True,True,31,0.000472456999887072,2.0,1,119.0
+Fixed reuse (r=1),15,6,150,2,True,True,29,0.00046708099989700713,0.0,1,122.0
+Fixed reuse (r=1),15,7,150,4,True,True,61,0.0011023750000731525,1.0,1,91.0
+Fixed reuse (r=1),15,8,150,1,True,True,15,0.0003426620000936964,0.0,1,137.0
+Fixed reuse (r=1),15,9,150,1,True,True,17,0.0003348010000081558,0.0,1,135.0
+Fixed reuse (r=1),15,10,150,4,True,True,49,0.0008665640000344865,6.0,1,104.0
+Fixed reuse (r=1),15,11,150,2,True,True,39,0.0007446490001257189,0.0,1,114.0
+Fixed reuse (r=1),15,12,150,1,True,True,9,0.00027238500001658394,0.0,1,144.0
+Fixed reuse (r=1),15,13,150,1,True,True,11,0.00028992800002924923,0.0,1,142.0
+Fixed reuse (r=1),15,14,150,4,True,True,49,0.0008541869999589835,0.0,1,104.0
+Warm start (verify all),15,0,150,2,True,True,150,0.005730942999889521,43.0,1,0.0
+Warm start (verify all),15,1,150,1,True,True,150,0.005930390000003172,0.0,1,0.0
+Warm start (verify all),15,2,150,4,True,False,5427,0.33943503199998304,82.0,6,0.0
+Warm start (verify all),15,3,150,2,True,True,150,0.005769332999989274,1.0,1,0.0
+Warm start (verify all),15,4,150,4,True,True,150,0.005547477999925832,95.0,1,0.0
+Warm start (verify all),15,5,150,3,True,True,150,0.005905165000058332,0.0,1,0.0
+Warm start (verify all),15,6,150,2,True,True,151,0.006235454000034224,1.0,1,0.0
+Warm start (verify all),15,7,150,4,True,True,152,0.005874291000054654,0.0,1,0.0
+Warm start (verify all),15,8,150,1,True,True,152,0.006081109999968248,0.0,1,0.0
+Warm start (verify all),15,9,150,1,True,True,152,0.005956616000048598,0.0,1,0.0
+Warm start (verify all),15,10,150,4,True,True,153,0.006010398000171335,1.0,1,0.0
+Warm start (verify all),15,11,150,2,True,True,153,0.006281786000045031,0.0,1,0.0
+Warm start (verify all),15,12,150,1,True,True,153,0.006278806999944209,44.0,1,0.0
+Warm start (verify all),15,13,150,1,True,True,153,0.006113744000003862,0.0,1,0.0
+Warm start (verify all),15,14,150,4,True,True,153,0.0060499429998799314,0.0,1,0.0
+Cold restart (BT+MRV+FC),16,0,150,4,True,True,1234,0.06935530600003403,110.0,1,
+Cold restart (BT+MRV+FC),16,1,150,3,True,True,3680,0.22158058900004107,76.0,1,
+Cold restart (BT+MRV+FC),16,2,150,4,True,True,37105,2.333986201000016,104.0,1,
+Cold restart (BT+MRV+FC),16,3,150,4,True,True,44152,2.787109942999905,91.0,1,
+Cold restart (BT+MRV+FC),16,4,150,3,True,True,152,0.005962559999943551,77.0,1,
+Cold restart (BT+MRV+FC),16,5,150,3,True,True,154,0.006159647000004043,99.0,1,
+Cold restart (BT+MRV+FC),16,6,150,3,True,True,155,0.006333172000040577,31.0,1,
+Cold restart (BT+MRV+FC),16,7,150,4,True,True,155,0.00666595600000619,86.0,1,
+Cold restart (BT+MRV+FC),16,8,150,2,True,True,155,0.0061517290000665525,70.0,1,
+Cold restart (BT+MRV+FC),16,9,150,4,True,True,155,0.006423081000093589,121.0,1,
+Cold restart (BT+MRV+FC),16,10,150,1,True,True,155,0.006246176000104242,11.0,1,
+Cold restart (BT+MRV+FC),16,11,150,3,True,True,155,0.006325159999960306,116.0,1,
+Cold restart (BT+MRV+FC),16,12,150,3,True,True,155,0.008666968999932578,114.0,1,
+Cold restart (BT+MRV+FC),16,13,150,4,True,True,102016,7.010462390000157,91.0,1,
+Cold restart (BT+MRV+FC),16,14,150,1,True,True,374975,25.71284952299993,127.0,1,
+Naive Min-Conflicts,16,0,150,4,False,False,7502,0.010115584999994098,,1,
+Naive Min-Conflicts,16,1,150,3,False,False,7551,0.010545200000024124,,1,
+Naive Min-Conflicts,16,2,150,4,False,False,7603,0.012641980000125841,,1,
+Naive Min-Conflicts,16,3,150,4,True,True,3,0.00013194600001043,1.0,1,
+Naive Min-Conflicts,16,4,150,3,True,True,1,0.0001317700000527111,1.0,1,
+Naive Min-Conflicts,16,5,150,3,True,True,3,0.00012051299995619047,1.0,1,
+Naive Min-Conflicts,16,6,150,3,True,True,1,0.00018043899990516366,0.0,1,
+Naive Min-Conflicts,16,7,150,4,True,True,1,0.00011808499994003796,1.0,1,
+Naive Min-Conflicts,16,8,150,2,True,True,3,0.00012378999986140116,3.0,1,
+Naive Min-Conflicts,16,9,150,4,True,True,1,0.00011786300001404015,1.0,1,
+Naive Min-Conflicts,16,10,150,1,True,True,1,0.00011850800001411699,1.0,1,
+Naive Min-Conflicts,16,11,150,3,True,True,0,0.00011784499997702369,0.0,1,
+Naive Min-Conflicts,16,12,150,3,True,True,2,0.00012445999982446665,2.0,1,
+Naive Min-Conflicts,16,13,150,4,False,False,7808,0.011916179000081684,,1,
+Naive Min-Conflicts,16,14,150,1,True,True,2,0.0001374720000058005,1.0,1,
+Fixed reuse (r=1),16,0,150,4,True,False,1415,0.07117237700003898,62.0,3,87.0
+Fixed reuse (r=1),16,1,150,3,True,True,38,0.0005078480000975105,0.0,1,113.0
+Fixed reuse (r=1),16,2,150,4,True,False,6569,0.37452400200004377,44.0,4,105.0
+Fixed reuse (r=1),16,3,150,4,True,False,420,0.020711828000003152,6.0,3,66.0
+Fixed reuse (r=1),16,4,150,3,True,True,28,0.00047348200018859643,0.0,1,124.0
+Fixed reuse (r=1),16,5,150,3,True,True,23,0.00039916800005812547,0.0,1,131.0
+Fixed reuse (r=1),16,6,150,3,True,True,24,0.0004360559998985991,2.0,1,131.0
+Fixed reuse (r=1),16,7,150,4,True,True,52,0.0009421590000329161,0.0,1,103.0
+Fixed reuse (r=1),16,8,150,2,True,True,21,0.0003819010000825074,0.0,1,134.0
+Fixed reuse (r=1),16,9,150,4,True,True,46,0.0008008610000160843,2.0,1,109.0
+Fixed reuse (r=1),16,10,150,1,True,True,20,0.00036248800006433157,0.0,1,135.0
+Fixed reuse (r=1),16,11,150,3,True,True,31,0.0004956740001489379,5.0,1,124.0
+Fixed reuse (r=1),16,12,150,3,True,True,46,0.000737772999855224,1.0,1,109.0
+Fixed reuse (r=1),16,13,150,4,True,False,112027,7.660640351999973,90.0,6,72.0
+Fixed reuse (r=1),16,14,150,1,True,False,384998,25.850393151999924,127.0,6,148.0
+Warm start (verify all),16,0,150,4,True,True,150,0.006071111999972345,76.0,1,0.0
+Warm start (verify all),16,1,150,3,True,True,941,0.046617488000038065,64.0,1,0.0
+Warm start (verify all),16,2,150,4,True,False,42106,2.544111115000078,102.0,6,0.0
+Warm start (verify all),16,3,150,4,True,False,49153,2.9484390899999653,91.0,6,0.0
+Warm start (verify all),16,4,150,3,True,True,152,0.006084047999820541,0.0,1,0.0
+Warm start (verify all),16,5,150,3,True,True,154,0.0060475809998479235,6.0,1,0.0
+Warm start (verify all),16,6,150,3,True,True,155,0.00604687300005935,11.0,1,0.0
+Warm start (verify all),16,7,150,4,True,True,155,0.00608834299987393,0.0,1,0.0
+Warm start (verify all),16,8,150,2,True,True,155,0.00603191400000469,0.0,1,0.0
+Warm start (verify all),16,9,150,4,True,True,155,0.006397246999995332,90.0,1,0.0
+Warm start (verify all),16,10,150,1,True,True,155,0.006064917000003334,0.0,1,0.0
+Warm start (verify all),16,11,150,3,True,True,155,0.005995750000010958,2.0,1,0.0
+Warm start (verify all),16,12,150,3,True,True,155,0.006047726999895531,32.0,1,0.0
+Warm start (verify all),16,13,150,4,True,True,3398,0.18603511799983607,77.0,1,0.0
+Warm start (verify all),16,14,150,1,True,True,157,0.006707388999984687,0.0,1,0.0
+Cold restart (BT+MRV+FC),17,0,150,2,True,True,6677,0.34350073499990685,88.0,1,
+Cold restart (BT+MRV+FC),17,1,150,1,True,True,5921,0.3195746489998328,110.0,1,
+Cold restart (BT+MRV+FC),17,2,150,1,True,True,4319,0.2828165359999275,15.0,1,
+Cold restart (BT+MRV+FC),17,3,150,4,True,True,1656,0.0824191700000938,105.0,1,
+Cold restart (BT+MRV+FC),17,4,150,3,True,True,8543,0.4788103890000457,98.0,1,
+Cold restart (BT+MRV+FC),17,5,150,1,True,True,6352,0.37324308300003395,7.0,1,
+Cold restart (BT+MRV+FC),17,6,150,4,True,True,150,0.0060452259999692615,78.0,1,
+Cold restart (BT+MRV+FC),17,7,150,1,True,True,150,0.005892805000030421,100.0,1,
+Cold restart (BT+MRV+FC),17,8,150,4,True,True,149,0.00582940399999643,31.0,1,
+Cold restart (BT+MRV+FC),17,9,150,4,True,True,149,0.006200041000056444,60.0,1,
+Cold restart (BT+MRV+FC),17,10,150,1,True,True,149,0.006131278000111706,0.0,1,
+Cold restart (BT+MRV+FC),17,11,150,4,True,True,149,0.005734064000080252,28.0,1,
+Cold restart (BT+MRV+FC),17,12,150,3,True,True,149,0.00580169299996669,103.0,1,
+Cold restart (BT+MRV+FC),17,13,150,3,True,True,149,0.006641431999923952,89.0,1,
+Cold restart (BT+MRV+FC),17,14,150,4,True,True,149,0.006022477999977127,85.0,1,
+Naive Min-Conflicts,17,0,150,2,False,False,7500,0.012750844000038342,,1,
+Naive Min-Conflicts,17,1,150,1,True,True,0,0.00012194999999337597,0.0,1,
+Naive Min-Conflicts,17,2,150,1,False,False,7500,0.013133202000062738,,1,
+Naive Min-Conflicts,17,3,150,4,True,True,9,0.00017339999999421707,4.0,1,
+Naive Min-Conflicts,17,4,150,3,True,True,3,0.00012914399985675118,2.0,1,
+Naive Min-Conflicts,17,5,150,1,True,True,0,0.00011453299998720468,0.0,1,
+Naive Min-Conflicts,17,6,150,4,True,True,2,0.00012649399991460086,2.0,1,
+Naive Min-Conflicts,17,7,150,1,True,True,1,0.00012073000016243896,1.0,1,
+Naive Min-Conflicts,17,8,150,4,True,True,1,0.00012108999999327352,0.0,1,
+Naive Min-Conflicts,17,9,150,4,True,True,8,0.00014144199985821615,2.0,1,
+Naive Min-Conflicts,17,10,150,1,True,True,0,0.0001366520000374294,0.0,1,
+Naive Min-Conflicts,17,11,150,4,True,True,1,0.00011974000017289654,0.0,1,
+Naive Min-Conflicts,17,12,150,3,True,True,0,0.00011625499996625877,0.0,1,
+Naive Min-Conflicts,17,13,150,3,True,True,1,0.00011968300009357336,0.0,1,
+Naive Min-Conflicts,17,14,150,4,True,True,1,0.00011737699992409034,0.0,1,
+Fixed reuse (r=1),17,0,150,2,True,False,5750,0.3174797080000644,80.0,4,106.0
+Fixed reuse (r=1),17,1,150,1,True,True,6,0.00024186799987546692,0.0,1,144.0
+Fixed reuse (r=1),17,2,150,1,True,False,9378,0.48066958599997633,112.0,6,130.0
+Fixed reuse (r=1),17,3,150,4,True,False,2831,0.144534055999884,42.0,3,105.0
+Fixed reuse (r=1),17,4,150,3,True,True,45,0.0006927539998287102,2.0,1,105.0
+Fixed reuse (r=1),17,5,150,1,True,True,25,0.0003183290000379202,0.0,1,125.0
+Fixed reuse (r=1),17,6,150,4,True,True,46,0.0007554359999630833,4.0,1,104.0
+Fixed reuse (r=1),17,7,150,1,True,True,9,0.000296745000014198,0.0,1,141.0
+Fixed reuse (r=1),17,8,150,4,True,True,95,0.0023315260000345006,3.0,1,54.0
+Fixed reuse (r=1),17,9,150,4,True,True,98,0.002506029999949533,2.0,1,51.0
+Fixed reuse (r=1),17,10,150,1,True,True,8,0.0002534950001518155,2.0,1,141.0
+Fixed reuse (r=1),17,11,150,4,True,True,71,0.0014441769999393728,10.0,1,78.0
+Fixed reuse (r=1),17,12,150,3,True,True,41,0.0006557659999089083,3.0,1,108.0
+Fixed reuse (r=1),17,13,150,3,True,True,76,0.0016819750001104694,4.0,1,73.0
+Fixed reuse (r=1),17,14,150,4,True,True,67,0.0013860169999588834,2.0,1,82.0
+Warm start (verify all),17,0,150,2,True,True,737,0.03306936600006338,80.0,1,0.0
+Warm start (verify all),17,1,150,1,True,True,150,0.0055327820000456995,0.0,1,0.0
+Warm start (verify all),17,2,150,1,True,False,9320,0.47761688599985064,112.0,6,0.0
+Warm start (verify all),17,3,150,4,True,True,4701,0.23579352599995218,90.0,1,0.0
+Warm start (verify all),17,4,150,3,True,True,150,0.005635043999973277,1.0,1,0.0
+Warm start (verify all),17,5,150,1,True,False,11353,0.6338793049999367,99.0,6,0.0
+Warm start (verify all),17,6,150,4,True,True,150,0.0058594820000053005,24.0,1,0.0
+Warm start (verify all),17,7,150,1,True,True,150,0.005992439000010563,31.0,1,0.0
+Warm start (verify all),17,8,150,4,True,True,149,0.006316692000154944,0.0,1,0.0
+Warm start (verify all),17,9,150,4,True,True,149,0.005766725000057704,31.0,1,0.0
+Warm start (verify all),17,10,150,1,True,True,149,0.005647012000054019,0.0,1,0.0
+Warm start (verify all),17,11,150,4,True,True,149,0.0056904450000274664,0.0,1,0.0
+Warm start (verify all),17,12,150,3,True,True,149,0.005781481999974858,0.0,1,0.0
+Warm start (verify all),17,13,150,3,True,True,149,0.005649572000038461,0.0,1,0.0
+Warm start (verify all),17,14,150,4,True,True,149,0.006179040000006353,32.0,1,0.0
